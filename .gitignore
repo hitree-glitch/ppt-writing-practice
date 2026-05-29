@@ -1,0 +1,23 @@
+# General
+.env
+.DS_Store
+*.log
+thumbs.db
+
+# Node / frontend
+node_modules/
+dist/
+
+# Python
+__pycache__/
+venv/
+
+# Local research scratch files and downloaded cache artifacts
+tmp_*
+*_tmp.py
+krx_cookies.txt
+naver_chunks/
+naver_index_chunks/
+naver_app_chunk.js
+naver_buildManifest.js
+daum_investors.js

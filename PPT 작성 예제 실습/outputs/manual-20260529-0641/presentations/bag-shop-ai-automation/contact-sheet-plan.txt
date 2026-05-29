@@ -1,0 +1,17 @@
+Slide macro layouts:
+1. Cover with right-weighted image and left claim rail.
+2. Three metric proof cards with a bottom implication band.
+3. Full-bleed workload image with left task map overlay.
+4. Product detail quality checklist with right-side proof note.
+5. Horizontal automation workflow with supporting image strip.
+6. Return/review keyword-to-action matrix.
+7. Codex input-output pipeline with report/content outputs.
+8. Four-week roadmap timeline.
+9. Before/after split with impact stack.
+10. Dark green final decision slide with three start options.
+
+Rhythm checks:
+- At least 7 distinct macro-layout families.
+- No three consecutive slides share the same pattern.
+- No more than two card-grid slides.
+- Evidence slides include footers with source labels.

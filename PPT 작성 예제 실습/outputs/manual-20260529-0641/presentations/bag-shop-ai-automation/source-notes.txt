@@ -1,0 +1,21 @@
+Research sources:
+1. Baymard Institute, "50 Cart Abandonment Rate Statistics 2026" (updated 2025-09-22), average cart abandonment rate 70.22%.
+   URL: https://baymard.com/lists/cart-abandonment-rate?linkId=747182781
+2. Baymard Institute, "25% of E-Commerce Sites Don’t Have Product Images with Sufficient Resolution or Level of Zoom" (2020), 56% of users' first action on product detail pages is to explore product images; 25% of sites have insufficient image resolution/zoom.
+   URL: https://baymard.com/blog/ensure-sufficient-image-resolution-and-zoom
+3. NRF and Happy Returns, "2024 Retail Returns to Total $890 Billion" (2024-12-05), 2024 U.S. retail returns projected at $890B and 16.9% of annual sales.
+   URL: https://nrf.com/media-center/press-releases/nrf-and-happy-returns-report-2024-retail-returns-total-890-billion
+4. Qualtrics / PRNewswire, "Qualtrics Announces Top Consumer Experience Trends for 2024" (2023-11-15), consumer concern about AI and interaction quality.
+   URL: https://www.prnewswire.com/news-releases/qualtrics-announces-top-consumer-experience-trends-for-2024-301988630.html
+5. McKinsey, "Generative AI: Unlocking the future of fashion" (2023-03-08), $150B-$275B potential operating profit contribution to apparel, fashion, and luxury sectors over 3-5 years.
+   URL: https://www.mckinsey.com/industries/retail/our-insights/generative-ai-unlocking-the-future-of-fashion
+6. McKinsey, "The State of Fashion 2025: Challenges at every turn" (2024-11-11), fashion inventory and agility pressure.
+   URL: https://www.mckinsey.com/industries/retail/our-insights/state-of-fashion-2025
+
+Image assets:
+1. assets/imagegen/hero-bag-shop-automation.png
+   Provenance: generated with built-in imagegen for this project. Role: cover atmosphere. No logo, no readable text.
+2. assets/imagegen/workload-before-automation.png
+   Provenance: generated with built-in imagegen for this project. Role: workload pain visual. No logo, no readable text.
+3. assets/imagegen/customer-inquiry-automation.png
+   Provenance: generated with built-in imagegen for this project. Role: inquiry automation support visual. No logo, no readable text.

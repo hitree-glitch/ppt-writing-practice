@@ -1,0 +1,25 @@
+task mode: create
+primary deck-profile: consumer-retail
+secondary gates: product-platform for workflow diagrams and automation architecture clarity
+required proof objects:
+- image-led cover with no brand logo or embedded text
+- market pain proof with cited retail/ecommerce metrics
+- workflow diagram for customer inquiry automation
+- product detail quality checklist for handbag ecommerce
+- 4-week implementation roadmap
+source/asset requirements:
+- public sources must be named in slide footers and research document
+- generated images must be stored under assets/imagegen and used as supporting visuals only
+- no specific brand logo, app icon, trademark, or product UI
+brand authenticity constraints:
+- do not invent or approximate any handbag brand logo
+- do not show real ecommerce platform UI or account screens
+- avoid readable UI text inside generated images
+profile-specific QA gates:
+- deck must feel consumer-retail specific, not generic AI consulting
+- at least 3 images are used with provenance
+- product/look rationale is connected to handbag purchase drivers: size, material, storage, styling, returns
+known missing inputs:
+- real client company name
+- actual ecommerce stack such as Cafe24, Shopify, Naver Smart Store, Kakao Channel, CRM, or spreadsheet setup
+- real product catalog and return/review data

@@ -1,0 +1,50 @@
+thesis:
+Women's handbag ecommerce teams can reduce operational drag by turning product detail checks, customer inquiries, reviews/returns, and weekly reports into a repeatable AI-assisted workflow.
+
+audience:
+SMB owner/operator of a women's handbag online shop without an internal development team.
+
+one-line arc:
+The deck moves from ecommerce friction and handbag-specific workload to Codex/n8n workflows, then closes with a 4-week adoption path and next decision.
+
+slide list:
+1. Cover
+   claim: 여성용 가방 쇼핑몰의 반복 업무를 AI 자동화 구조로 줄입니다.
+   proof object: image-led cover plus thesis rail
+   source: generated image
+2. Industry pressure
+   claim: 상품 정보, 구매 확신, 반품 경험이 온라인 쇼핑몰의 운영 경쟁력이 됩니다.
+   proof object: 3-metric evidence rail
+   source: Baymard, NRF
+3. Operational pain
+   claim: 대표와 운영자는 상품 등록, 고객 문의, 콘텐츠, 반품 대응을 동시에 처리합니다.
+   proof object: workload image plus task map
+   source: client-context inference from SMB operating model
+4. Product detail checks
+   claim: 크기, 소재, 수납, 착용컷 누락을 자동으로 찾아 상품 페이지 품질을 높입니다.
+   proof object: editable product detail checklist
+   source: Baymard product image UX
+5. Inquiry response
+   claim: 반복 문의는 AI가 초안을 만들고, 민감한 답변은 사람이 확인합니다.
+   proof object: n8n/Codex/human review workflow
+   source: Qualtrics, McKinsey
+6. Returns and reviews
+   claim: 반복 불만을 상품 페이지 개선과 CS 기준으로 연결합니다.
+   proof object: keyword-to-action matrix
+   source: NRF
+7. Codex operations
+   claim: 코덱스는 대표가 매주 직접 정리하던 문서와 콘텐츠 초안을 도울 수 있습니다.
+   proof object: input-output pipeline
+   source: solution design
+8. 4-week roadmap
+   claim: 4주 안에 진단에서 자동화 운영 기준까지 정리합니다.
+   proof object: roadmap timeline
+   source: consulting scope
+9. Expected impact
+   claim: 반복 처리 시간을 줄이고, 대표가 상품 기획과 매출 개선에 집중하게 만듭니다.
+   proof object: before/after comparison
+   source: solution logic
+10. Next step
+   claim: 가장 먼저 자동화할 업무 1개를 정하면 시작할 수 있습니다.
+   proof object: three starting options and decision checklist
+   source: action plan

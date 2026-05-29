@@ -1,0 +1,53 @@
+slide size: 1280x720
+background system:
+- warm cream #F2F0EB for cover and calmer context slides
+- white #FFFFFF and ceramic #EDEBE9 for evidence and process slides
+- deep green #1E3932 for high-emphasis bands and final slide
+typography:
+- Aptos Display for large Korean headings where available
+- Aptos for body and labels
+- fallback is handled by PowerPoint if a font is unavailable
+color palette:
+- main green #006241 for claims and section cues
+- bright green #00754A for action labels and positive progress
+- deep green #1E3932 for dark bands
+- soft green #D4E9E2 for low-intensity fills
+- gold #CBA258 for a small number of key proof marks
+- body #1F2933 and secondary #52606D
+chart grammar:
+- large direct labels, no heavy legends
+- proof numbers are editable text
+- source line appears as quiet footer
+diagram grammar:
+- left-to-right workflows
+- connectors only when direction matters
+- equal-role boxes share height and padding
+container grammar:
+- cards are used for repeated evidence items only
+- no nested cards
+- no heavy shadows
+source/footer grammar:
+- source footer 10px, #52606D, bottom left
+- page marker bottom right
+title/kicker grammar:
+- small all-caps/korean kicker top left in #00754A
+- claim title below, #1F2933 or white on dark
+brand asset policy:
+- no logos, no trademarks, no pseudo-official icons
+- imagegen visuals are non-branded and only support atmosphere
+layout families:
+- cover image with claim rail
+- metric rail
+- image + task map
+- checklist
+- workflow diagram
+- matrix
+- pipeline
+- timeline
+- before/after split
+- final decision panel
+banned motifs:
+- robot mascots
+- fake ecommerce screenshots with unreadable UI text
+- decorative gradient blobs or orbs
+- brand-like bag logos
