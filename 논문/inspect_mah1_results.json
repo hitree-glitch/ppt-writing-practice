@@ -1,0 +1,580 @@
+{
+  "savMatches": [
+    {
+      "varType": 0,
+      "shortName": "PCL18",
+      "label": "Having difficulty concentrating",
+      "name": "PCL18"
+    },
+    {
+      "varType": 0,
+      "shortName": "OPQOL3",
+      "label": "I am healthy enough to get out and about",
+      "name": "OPQOL3"
+    },
+    {
+      "varType": 0,
+      "shortName": "OPQOL7",
+      "label": "I am healthy enough to have my independence",
+      "name": "OPQOL7"
+    },
+    {
+      "varType": 0,
+      "shortName": "COG1",
+      "label": "How much of the time did you have difficulty doing activities involving concentration and thinking?",
+      "name": "COG1"
+    },
+    {
+      "varType": 0,
+      "shortName": "COG3",
+      "label": "How much of the time did you forget things that happened recently (for example, where you put things, appointments)?",
+      "name": "COG3"
+    },
+    {
+      "varType": 0,
+      "shortName": "PCL1_1",
+      "label": "SMEAN(PCL1)",
+      "name": "PCL1_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "PCL2_1",
+      "label": "SMEAN(PCL2)",
+      "name": "PCL2_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "PCL3_1",
+      "label": "SMEAN(PCL3)",
+      "name": "PCL3_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "PCL4_1",
+      "label": "SMEAN(PCL4)",
+      "name": "PCL4_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "PCL5_1",
+      "label": "SMEAN(PCL5)",
+      "name": "PCL5_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "PCL6_1",
+      "label": "SMEAN(PCL6)",
+      "name": "PCL6_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "PCL7_1",
+      "label": "SMEAN(PCL7)",
+      "name": "PCL7_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "PCL8_1",
+      "label": "SMEAN(PCL8)",
+      "name": "PCL8_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "PCL9_1",
+      "label": "SMEAN(PCL9)",
+      "name": "PCL9_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "PCL10_1",
+      "label": "SMEAN(PCL10)",
+      "name": "PCL10_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "PCL11_1",
+      "label": "SMEAN(PCL11)",
+      "name": "PCL11_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "PCL12_1",
+      "label": "SMEAN(PCL12)",
+      "name": "PCL12_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "PCL13_1",
+      "label": "SMEAN(PCL13)",
+      "name": "PCL13_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "PCL14_1",
+      "label": "SMEAN(PCL14)",
+      "name": "PCL14_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "PCL15_1",
+      "label": "SMEAN(PCL15)",
+      "name": "PCL15_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "PCL16_1",
+      "label": "SMEAN(PCL16)",
+      "name": "PCL16_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "PCL17_1",
+      "label": "SMEAN(PCL17)",
+      "name": "PCL17_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "PCL18_1",
+      "label": "SMEAN(PCL18)",
+      "name": "PCL18_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "PCL19_1",
+      "label": "SMEAN(PCL19)",
+      "name": "PCL19_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "K10_1_1",
+      "label": "SMEAN(K10_1)",
+      "name": "K10_1_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "K10_2_1",
+      "label": "SMEAN(K10_2)",
+      "name": "K10_2_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "K10_3_1",
+      "label": "SMEAN(K10_3)",
+      "name": "K10_3_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "K10_4_1",
+      "label": "SMEAN(K10_4)",
+      "name": "K10_4_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "K10_5_1",
+      "label": "SMEAN(K10_5)",
+      "name": "K10_5_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "K10_6_1",
+      "label": "SMEAN(K10_6)",
+      "name": "K10_6_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "K10_7_1",
+      "label": "SMEAN(K10_7)",
+      "name": "K10_7_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "K10_8_1",
+      "label": "SMEAN(K10_8)",
+      "name": "K10_8_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "K10_9_1",
+      "label": "SMEAN(K10_9)",
+      "name": "K10_9_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "K10_10_1",
+      "label": "SMEAN(K10_10)",
+      "name": "K10_10_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "OPQOL1_1",
+      "label": "SMEAN(OPQOL1)",
+      "name": "OPQOL1_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "OPQOL2_1",
+      "label": "SMEAN(OPQOL2)",
+      "name": "OPQOL2_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "OPQOL3_1",
+      "label": "SMEAN(OPQOL3)",
+      "name": "OPQOL3_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "OPQOL4_1",
+      "label": "SMEAN(OPQOL4)",
+      "name": "OPQOL4_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "OPQOL5_1",
+      "label": "SMEAN(OPQOL5)",
+      "name": "OPQOL5_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "OPQOL6_1",
+      "label": "SMEAN(OPQOL6)",
+      "name": "OPQOL6_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "OPQOL7_1",
+      "label": "SMEAN(OPQOL7)",
+      "name": "OPQOL7_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "OPQOL8_1",
+      "label": "SMEAN(OPQOL8)",
+      "name": "OPQOL8_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "OPQOL9_1",
+      "label": "SMEAN(OPQOL9)",
+      "name": "OPQOL9_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "V248_A",
+      "label": "SMEAN(OPQOL10)",
+      "name": "OPQOL10_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "V249_A",
+      "label": "SMEAN(OPQOL11)",
+      "name": "OPQOL11_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "V250_A",
+      "label": "SMEAN(OPQOL12)",
+      "name": "OPQOL12_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "V251_A",
+      "label": "SMEAN(OPQOL13)",
+      "name": "OPQOL13_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "GEN1_1",
+      "label": "SMEAN(Gen1)",
+      "name": "Gen1_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "GEN2_R_1",
+      "label": "SMEAN(Gen2_R)",
+      "name": "Gen2_R_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "GEN3_1",
+      "label": "SMEAN(Gen3)",
+      "name": "Gen3_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "GEN4_R_1",
+      "label": "SMEAN(Gen4_R)",
+      "name": "Gen4_R_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "GEN5_1",
+      "label": "SMEAN(Gen5)",
+      "name": "Gen5_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "GEN6_1",
+      "label": "SMEAN(Gen6)",
+      "name": "Gen6_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "SBQ1_R_1",
+      "label": "SMEAN(SBQ1_R)",
+      "name": "SBQ1_R_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "SBQ2_1",
+      "label": "SMEAN(SBQ2)",
+      "name": "SBQ2_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "SBQ3_R_1",
+      "label": "SMEAN(SBQ3_R)",
+      "name": "SBQ3_R_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "SBQ4_1",
+      "label": "SMEAN(SBQ4)",
+      "name": "SBQ4_1"
+    },
+    {
+      "varType": 0,
+      "shortName": "MAH_1",
+      "label": "Mahalanobis Distance",
+      "name": "MAH_1"
+    }
+  ],
+  "csvColumnIndex": 267,
+  "columnsAroundMAH_1": [
+    "SBQ3_R_1",
+    "SBQ4_1",
+    "PCLTot",
+    "COGTot",
+    "SBQTot",
+    "LGS_Tot",
+    "K10Tot",
+    "OPQOLTot",
+    "MAH_1",
+    "filter_$",
+    "GriefTot",
+    "Inter",
+    "NonInter",
+    "T_Type",
+    "T_Score",
+    "OPQOLTot_R"
+  ],
+  "distribution": {
+    "n": 448,
+    "mean": 4.389371897367991,
+    "sd": 4.244410301357933,
+    "min": 0.23949107925544,
+    "max": 33.0445743447652,
+    "uniqueCount": 447,
+    "firstValues": [
+      {
+        "value": 0.23949107925544,
+        "count": 1
+      },
+      {
+        "value": 0.395622934565087,
+        "count": 1
+      },
+      {
+        "value": 0.491688864989861,
+        "count": 1
+      },
+      {
+        "value": 0.523873274786573,
+        "count": 1
+      },
+      {
+        "value": 0.529241757743555,
+        "count": 1
+      },
+      {
+        "value": 0.543730151485703,
+        "count": 1
+      },
+      {
+        "value": 0.640560452001466,
+        "count": 1
+      },
+      {
+        "value": 0.686162786578737,
+        "count": 1
+      },
+      {
+        "value": 0.750777128932504,
+        "count": 1
+      },
+      {
+        "value": 0.754900388560126,
+        "count": 1
+      },
+      {
+        "value": 0.818515351132523,
+        "count": 1
+      },
+      {
+        "value": 0.8248362382162,
+        "count": 1
+      },
+      {
+        "value": 0.846302373787064,
+        "count": 1
+      },
+      {
+        "value": 0.847544709010348,
+        "count": 1
+      },
+      {
+        "value": 0.868950552117331,
+        "count": 1
+      },
+      {
+        "value": 0.920628471409957,
+        "count": 1
+      },
+      {
+        "value": 0.941279720026674,
+        "count": 1
+      },
+      {
+        "value": 0.961376663920563,
+        "count": 1
+      },
+      {
+        "value": 0.973302388166982,
+        "count": 1
+      },
+      {
+        "value": 0.983365583237984,
+        "count": 1
+      }
+    ],
+    "lastValues": [
+      {
+        "value": 13.8532647894588,
+        "count": 1
+      },
+      {
+        "value": 14.2153264026044,
+        "count": 1
+      },
+      {
+        "value": 14.3195001878726,
+        "count": 1
+      },
+      {
+        "value": 14.4011809356603,
+        "count": 1
+      },
+      {
+        "value": 14.4740888960846,
+        "count": 1
+      },
+      {
+        "value": 15.0855179496453,
+        "count": 1
+      },
+      {
+        "value": 15.2710903288976,
+        "count": 1
+      },
+      {
+        "value": 15.2823198963016,
+        "count": 1
+      },
+      {
+        "value": 15.7704671519081,
+        "count": 1
+      },
+      {
+        "value": 16.9820616370131,
+        "count": 1
+      },
+      {
+        "value": 16.9933197868647,
+        "count": 1
+      },
+      {
+        "value": 18.0814788599054,
+        "count": 1
+      },
+      {
+        "value": 18.6684304785094,
+        "count": 1
+      },
+      {
+        "value": 19.0138652313161,
+        "count": 1
+      },
+      {
+        "value": 19.3943618477127,
+        "count": 1
+      },
+      {
+        "value": 23.3756521485413,
+        "count": 1
+      },
+      {
+        "value": 25.4861539365319,
+        "count": 1
+      },
+      {
+        "value": 26.0559092411492,
+        "count": 1
+      },
+      {
+        "value": 29.5329561918254,
+        "count": 1
+      },
+      {
+        "value": 33.0445743447652,
+        "count": 1
+      }
+    ]
+  },
+  "correlations": [
+    {
+      "variable": "PCLTot",
+      "n": 448,
+      "r": 0.45366795987525105
+    },
+    {
+      "variable": "K10Tot",
+      "n": 448,
+      "r": 0.5937258653022536
+    },
+    {
+      "variable": "OPQOLTot",
+      "n": 448,
+      "r": 0.44807617301004615
+    },
+    {
+      "variable": "SBQTot",
+      "n": 448,
+      "r": 0.45330042428261313
+    },
+    {
+      "variable": "LGS_Tot",
+      "n": 448,
+      "r": -0.16512407169075008
+    },
+    {
+      "variable": "COGTot",
+      "n": 448,
+      "r": -0.617485977763824
+    },
+    {
+      "variable": "GriefTot",
+      "n": 157,
+      "r": 0.4236218447668311
+    }
+  ]
+}
