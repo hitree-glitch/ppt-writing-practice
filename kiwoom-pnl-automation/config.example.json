@@ -1,0 +1,43 @@
+{
+  "kiwoom": {
+    "base_url": "https://api.kiwoom.com",
+    "mock_base_url": "https://mockapi.kiwoom.com",
+    "use_mock": false,
+    "app_key": "",
+    "secret_key": "",
+    "account_aliases": {
+      "1234567890": "키움-국내",
+      "9876543210": "키움-해외"
+    },
+    "endpoints": {
+      "token": "/oauth2/token",
+      "account_list": "/api/dostk/acnt",
+      "realized_pnl": "/api/dostk/acnt"
+    },
+    "tr_ids": {
+      "account_list": "ka00001",
+      "realized_pnl": "ka10077"
+    },
+    "field_map": {
+      "account_number": ["account_no", "acct_no", "계좌번호"],
+      "date": ["dt", "date", "trde_dt", "매도일자", "일자"],
+      "market": ["market", "mrkt", "시장구분"],
+      "currency": ["currency", "crnc_cd", "통화"],
+      "symbol": ["stk_cd", "symbol", "종목코드"],
+      "name": ["stk_nm", "name", "종목명"],
+      "realized_pnl_krw": ["rlzt_pl", "realized_pnl_krw", "실현손익", "손익금액"],
+      "fees_taxes_krw": ["fee_tax", "fees_taxes_krw", "수수료세금"]
+    }
+  },
+  "google": {
+    "spreadsheet_id": "",
+    "spreadsheet_title": "월별 실현손익 리포트",
+    "service_account_file": "",
+    "access_token": ""
+  },
+  "report": {
+    "include_samsung_unlinked": true,
+    "default_currency": "KRW",
+    "mask_accounts": true
+  }
+}
