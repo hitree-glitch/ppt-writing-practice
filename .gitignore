@@ -21,3 +21,31 @@ naver_index_chunks/
 naver_app_chunk.js
 naver_buildManifest.js
 daum_investors.js
+
+# Nested local repositories managed separately
+논문/OAtrauma-analysis/
+논문/r-korea-reddit-analysis/
+
+# Reverse-engineering and binary patching local artifacts
+260326_aiposting_fixed_repository/*.exe
+260326_aiposting_fixed_repository/.decompiler_tools/
+260326_aiposting_fixed_repository/.decompiler_tools_byteripper/
+260326_aiposting_fixed_repository/.decompiler_tools_uncompyle/
+260326_aiposting_fixed_repository/.runtime_site/
+260326_aiposting_fixed_repository/bytecode_report/
+260326_aiposting_fixed_repository/extracted_260326_aiposting/
+260326_aiposting_fixed_repository/patched/
+260326_aiposting_fixed_repository/recovered_decompyle3/
+260326_aiposting_fixed_repository/recovered_depyo/
+260326_aiposting_fixed_repository/recovered_depyo_modules/
+260326_aiposting_fixed_repository/recovered_fixed/
+260326_aiposting_fixed_repository/__pycache__/
+260326_aiposting_fixed_repository/settings.json
+260326_aiposting_fixed_repository/settings.json.broken-*
+260326_aiposting_fixed_repository/run_*_stdout*.txt
+260326_aiposting_fixed_repository/run_*_stderr*.txt
+
+# Local automation runtime data and browser profiles
+blog-draft-automation/app_settings.json
+blog-draft-automation/automation_state.sqlite3
+blog-draft-automation/naver_browser_profile/
