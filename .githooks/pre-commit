@@ -1,0 +1,11 @@
+#!/bin/sh
+
+python "C:/Users/user/Documents/코덱스 저장소/tools/export_codex_chat_archive.py"
+status=$?
+
+if [ $status -ne 0 ]; then
+  echo "Codex chat archive export failed; aborting commit." >&2
+  exit $status
+fi
+
+git add -- codex-chat-archive
