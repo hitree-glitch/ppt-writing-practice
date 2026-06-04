@@ -1,6 +1,6 @@
 #!/bin/sh
 
-if git check-ignore -q codex-chat-archive; then
+if git check-ignore --no-index -q codex-chat-archive; then
   exit 0
 fi
 
