@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">생성감 조절된 매개모형</title>
+  <desc id="desc">사별 고통이 PTSD 증상을 거쳐 자살위험으로 이어지고, 생성감이 PTSD 증상에서 자살위험으로 향하는 경로를 조절하는 모형</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbfaf7"/>
+      <stop offset="1" stop-color="#eef5f3"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#10231f" flood-opacity="0.14"/>
+    </filter>
+    <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="12" markerHeight="12" orient="auto-start-reverse">
+      <path d="M 1 1 L 11 6 L 1 11 z" fill="#315b52"/>
+    </marker>
+    <marker id="softArrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="12" markerHeight="12" orient="auto-start-reverse">
+      <path d="M 1 1 L 11 6 L 1 11 z" fill="#8b5d3b"/>
+    </marker>
+    <style>
+      .bg { fill: url(#paper); }
+      .title { font-family: "Malgun Gothic", "Apple SD Gothic Neo", Arial, sans-serif; font-size: 34px; font-weight: 800; fill: #17332e; }
+      .subtitle { font-family: "Malgun Gothic", "Apple SD Gothic Neo", Arial, sans-serif; font-size: 18px; fill: #54655f; }
+      .box { fill: #ffffff; stroke-width: 2.5; filter: url(#shadow); }
+      .xbox { stroke: #4a8a7c; }
+      .mbox { stroke: #315b52; }
+      .ybox { stroke: #9b4f48; }
+      .wbox { stroke: #c58c48; }
+      .boxTitle { font-family: "Malgun Gothic", "Apple SD Gothic Neo", Arial, sans-serif; font-size: 25px; font-weight: 800; fill: #18342f; text-anchor: middle; }
+      .boxSub { font-family: "Malgun Gothic", "Apple SD Gothic Neo", Arial, sans-serif; font-size: 16px; fill: #5b6b66; text-anchor: middle; }
+      .path { stroke: #315b52; stroke-width: 5; fill: none; marker-end: url(#arrow); stroke-linecap: round; }
+      .direct { stroke: #94aaa4; stroke-width: 3.5; stroke-dasharray: 10 10; fill: none; marker-end: url(#arrow); stroke-linecap: round; }
+      .mod { stroke: #8b5d3b; stroke-width: 4; fill: none; marker-end: url(#softArrow); stroke-linecap: round; }
+      .label { font-family: "Malgun Gothic", "Apple SD Gothic Neo", Arial, sans-serif; font-size: 16px; font-weight: 700; fill: #315b52; text-anchor: middle; }
+      .note { font-family: "Malgun Gothic", "Apple SD Gothic Neo", Arial, sans-serif; font-size: 17px; fill: #253e39; }
+      .small { font-family: "Malgun Gothic", "Apple SD Gothic Neo", Arial, sans-serif; font-size: 14px; fill: #66736f; }
+      .pill { fill: #f6eee4; stroke: #c58c48; stroke-width: 1.5; }
+      .pillText { font-family: "Malgun Gothic", "Apple SD Gothic Neo", Arial, sans-serif; font-size: 15px; font-weight: 700; fill: #6c472b; text-anchor: middle; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="720"/>
+  <text class="title" x="80" y="70">생성감 조절된 매개모형</text>
+  <text class="subtitle" x="80" y="104">사별 고통이 PTSD 증상을 거쳐 자살위험으로 이어지는 경로에서, 생성감이 보호요인처럼 작동하는지 검증</text>
+
+  <rect class="box xbox" x="80" y="250" width="250" height="122" rx="14"/>
+  <text class="boxTitle" x="205" y="300">사별 고통</text>
+  <text class="boxSub" x="205" y="330">GriefTot</text>
+  <text class="boxSub" x="205" y="354">bereavement grief severity</text>
+
+  <rect class="box mbox" x="475" y="250" width="250" height="122" rx="14"/>
+  <text class="boxTitle" x="600" y="300">PTSD 증상</text>
+  <text class="boxSub" x="600" y="330">PCLTot</text>
+  <text class="boxSub" x="600" y="354">worst-event PTSD symptoms</text>
+
+  <rect class="box ybox" x="870" y="250" width="250" height="122" rx="14"/>
+  <text class="boxTitle" x="995" y="300">자살위험</text>
+  <text class="boxSub" x="995" y="330">SBQTot</text>
+  <text class="boxSub" x="995" y="354">suicide risk score</text>
+
+  <rect class="box wbox" x="475" y="475" width="250" height="112" rx="14"/>
+  <text class="boxTitle" x="600" y="520">생성감</text>
+  <text class="boxSub" x="600" y="550">LGS_Tot</text>
+  <text class="boxSub" x="600" y="574">generativity</text>
+
+  <path class="path" d="M 332 311 C 382 311, 420 311, 468 311"/>
+  <text class="label" x="402" y="286">a 경로</text>
+  <text class="small" x="402" y="382" text-anchor="middle">사별 고통 ↑ → PTSD 증상 ↑</text>
+
+  <path class="path" d="M 727 311 C 777 311, 815 311, 863 311"/>
+  <text class="label" x="797" y="286">b 경로</text>
+  <text class="small" x="797" y="382" text-anchor="middle">PTSD 증상 ↑ → 자살위험 ↑</text>
+
+  <path class="direct" d="M 205 374 C 315 455, 875 455, 995 374"/>
+  <text class="small" x="600" y="444" text-anchor="middle">직접경로 c': 통제 후 상대적으로 약함</text>
+
+  <path class="mod" d="M 600 475 C 600 425, 700 397, 792 337"/>
+  <circle cx="792" cy="337" r="9" fill="#f6eee4" stroke="#8b5d3b" stroke-width="3"/>
+  <text class="label" x="686" y="432" fill="#8b5d3b">조절</text>
+
+  <rect class="pill" x="402" y="620" width="396" height="42" rx="21"/>
+  <text class="pillText" x="600" y="647">생성감 낮음/평균: 간접효과 유의 · 생성감 높음: 간접효과 비유의</text>
+
+  <text class="note" x="80" y="664">해석: 생성감은 사별 고통 자체를 없애기보다, PTSD 증상이 자살위험으로 이어지는 경로를 약화시키는 보호요인일 가능성을 시사한다.</text>
+  <text class="small" x="80" y="692">주의: 횡단자료 기반이므로 인과가 아니라 간접 관련성/조절된 매개 패턴으로 표현하는 것이 안전하다.</text>
+</svg>

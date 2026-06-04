@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Moderated mediation model: Grief, PTSD symptoms, generativity, and suicide risk</title>
+  <desc id="desc">Bereavement grief severity predicts PTSD symptoms, PTSD symptoms predict suicide risk, and generativity moderates the PTSD to suicide risk path.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="12" markerHeight="12" orient="auto-start-reverse">
+      <path d="M 1 1 L 11 6 L 1 11 z" fill="#1f2937"/>
+    </marker>
+    <marker id="arrowMuted" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="12" markerHeight="12" orient="auto-start-reverse">
+      <path d="M 1 1 L 11 6 L 1 11 z" fill="#475569"/>
+    </marker>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#0f172a" flood-opacity="0.10"/>
+    </filter>
+    <style>
+      .bg { fill: #f8fafc; }
+      .panel { fill: #ffffff; stroke: #cbd5e1; stroke-width: 2; }
+      .box { fill: #ffffff; stroke: #1f2937; stroke-width: 3; filter: url(#softShadow); }
+      .moderator { fill: #f1f5f9; stroke: #334155; stroke-width: 3; filter: url(#softShadow); }
+      .label-ko { font-family: "Malgun Gothic", "Apple SD Gothic Neo", Arial, sans-serif; font-size: 38px; font-weight: 700; fill: #111827; }
+      .label-en { font-family: Arial, sans-serif; font-size: 28px; fill: #334155; }
+      .small { font-family: "Malgun Gothic", "Apple SD Gothic Neo", Arial, sans-serif; font-size: 25px; fill: #334155; }
+      .tiny { font-family: "Malgun Gothic", "Apple SD Gothic Neo", Arial, sans-serif; font-size: 22px; fill: #475569; }
+      .path { stroke: #1f2937; stroke-width: 5; fill: none; marker-end: url(#arrow); }
+      .direct { stroke: #94a3b8; stroke-width: 4; fill: none; marker-end: url(#arrowMuted); stroke-dasharray: 12 12; }
+      .moderation { stroke: #334155; stroke-width: 4; fill: none; marker-end: url(#arrowMuted); stroke-dasharray: 8 10; }
+      .brace { stroke: #64748b; stroke-width: 3; fill: none; }
+      .note-title { font-family: "Malgun Gothic", "Apple SD Gothic Neo", Arial, sans-serif; font-size: 28px; font-weight: 700; fill: #111827; }
+      .note { font-family: "Malgun Gothic", "Apple SD Gothic Neo", Arial, sans-serif; font-size: 23px; fill: #334155; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1600" height="900"/>
+  <rect class="panel" x="58" y="54" width="1484" height="792" rx="18"/>
+
+  <text x="800" y="118" text-anchor="middle" class="label-ko">생성감의 조절된 매개모형</text>
+  <text x="800" y="158" text-anchor="middle" class="label-en">Moderated mediation model</text>
+
+  <!-- Main variable boxes -->
+  <rect class="box" x="130" y="330" width="330" height="160" rx="10"/>
+  <text x="295" y="392" text-anchor="middle" class="label-ko">사별 고통</text>
+  <text x="295" y="436" text-anchor="middle" class="label-en">GriefTot</text>
+  <text x="295" y="474" text-anchor="middle" class="tiny">bereavement grief severity</text>
+
+  <rect class="box" x="635" y="330" width="330" height="160" rx="10"/>
+  <text x="800" y="392" text-anchor="middle" class="label-ko">PTSD 증상</text>
+  <text x="800" y="436" text-anchor="middle" class="label-en">PCLTot</text>
+  <text x="800" y="474" text-anchor="middle" class="tiny">PTSD symptom severity</text>
+
+  <rect class="box" x="1140" y="330" width="330" height="160" rx="10"/>
+  <text x="1305" y="392" text-anchor="middle" class="label-ko">자살위험</text>
+  <text x="1305" y="436" text-anchor="middle" class="label-en">SBQTot</text>
+  <text x="1305" y="474" text-anchor="middle" class="tiny">suicide risk score</text>
+
+  <rect class="moderator" x="635" y="610" width="330" height="145" rx="10"/>
+  <text x="800" y="670" text-anchor="middle" class="label-ko">생성감</text>
+  <text x="800" y="713" text-anchor="middle" class="label-en">LGS_Tot</text>
+  <text x="800" y="747" text-anchor="middle" class="tiny">generativity</text>
+
+  <!-- Paths -->
+  <path class="path" d="M 460 410 C 520 410, 575 410, 635 410"/>
+  <text x="547" y="377" text-anchor="middle" class="small">a 경로</text>
+
+  <path class="path" d="M 965 410 C 1025 410, 1080 410, 1140 410"/>
+  <text x="1052" y="377" text-anchor="middle" class="small">b 경로</text>
+
+  <path class="direct" d="M 295 330 C 420 220, 1180 220, 1305 330"/>
+  <text x="800" y="228" text-anchor="middle" class="small">직접경로 c′</text>
+
+  <!-- Moderation arrow to b path -->
+  <path class="moderation" d="M 800 610 C 820 560, 920 505, 1052 430"/>
+  <text x="1012" y="575" text-anchor="middle" class="small">조절</text>
+  <text x="1012" y="608" text-anchor="middle" class="tiny">PCLTot → SBQTot 경로 약화</text>
+
+  <!-- Conditional effect inset -->
+  <rect x="1120" y="620" width="350" height="150" rx="8" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="1295" y="662" text-anchor="middle" class="note-title">조건부 간접효과</text>
+  <text x="1152" y="704" class="note">낮은 생성감: 유의</text>
+  <text x="1152" y="738" class="note">평균 생성감: 유의</text>
+  <text x="1152" y="772" class="note">높은 생성감: 비유의</text>
+
+  <!-- Model note -->
+  <rect x="130" y="620" width="365" height="150" rx="8" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="312" y="662" text-anchor="middle" class="note-title">검증 요약</text>
+  <text x="158" y="704" class="note">Index ≈ -0.09 ~ -0.10</text>
+  <text x="158" y="738" class="note">Bootstrap 95% CI: 0 제외</text>
+  <text x="158" y="772" class="note">횡단자료: 인과 해석 주의</text>
+
+  <text x="800" y="822" text-anchor="middle" class="tiny">Note. 생성감은 사별 고통 자체보다 PTSD 증상에서 자살위험으로 이어지는 경로를 약화시키는 요인으로 해석한다.</text>
+</svg>
