@@ -122,7 +122,7 @@
   {
     "id": "019e75f3-5aaf-74b1-8bff-bd79b26fce61",
     "source_file": "rollout-2026-05-30T07-55-48-019e75f3-5aaf-74b1-8bff-bd79b26fce61.jsonl",
-    "message_count": 61,
+    "message_count": 69,
     "output_file": "sessions/019e75f3-5aaf-74b1-8bff-bd79b26fce61.md"
   },
   {
@@ -222,12 +222,6 @@
     "output_file": "sessions/019e7ff6-32cd-76f0-8770-3bcdc59973c9.md"
   },
   {
-    "id": "019e800a-b624-7222-a577-97129295ac46",
-    "source_file": "rollout-2026-06-01T06-57-31-019e800a-b624-7222-a577-97129295ac46.jsonl",
-    "message_count": 35,
-    "output_file": "sessions/019e800a-b624-7222-a577-97129295ac46.md"
-  },
-  {
     "id": "019e800b-4597-79e1-a146-d734303dfcda",
     "source_file": "rollout-2026-06-01T06-58-08-019e800b-4597-79e1-a146-d734303dfcda.jsonl",
     "message_count": 31,
@@ -242,7 +236,7 @@
   {
     "id": "019e8011-6bb1-73a3-b6fa-5d277382af23",
     "source_file": "rollout-2026-06-01T07-04-50-019e8011-6bb1-73a3-b6fa-5d277382af23.jsonl",
-    "message_count": 150,
+    "message_count": 340,
     "output_file": "sessions/019e8011-6bb1-73a3-b6fa-5d277382af23.md"
   },
   {
@@ -260,7 +254,7 @@
   {
     "id": "019e8036-22b2-7fa0-b403-00001e19c305",
     "source_file": "rollout-2026-06-01T07-44-57-019e8036-22b2-7fa0-b403-00001e19c305.jsonl",
-    "message_count": 44,
+    "message_count": 66,
     "output_file": "sessions/019e8036-22b2-7fa0-b403-00001e19c305.md"
   },
   {
@@ -288,28 +282,10 @@
     "output_file": "sessions/019e8ca8-fd07-7040-9e8a-26bab7463ad9.md"
   },
   {
-    "id": "019e8d82-b1ad-7b42-9006-8720a6c4eb6e",
-    "source_file": "rollout-2026-06-03T21-43-34-019e8d82-b1ad-7b42-9006-8720a6c4eb6e.jsonl",
-    "message_count": 7,
-    "output_file": "sessions/019e8d82-b1ad-7b42-9006-8720a6c4eb6e.md"
-  },
-  {
-    "id": "019e8d82-b6c3-78f3-927b-902f15d2d431",
-    "source_file": "rollout-2026-06-03T21-43-37-019e8d82-b6c3-78f3-927b-902f15d2d431.jsonl",
-    "message_count": 8,
-    "output_file": "sessions/019e8d82-b6c3-78f3-927b-902f15d2d431.md"
-  },
-  {
     "id": "019e8d89-1376-7d20-ba3d-cdff2c8215e8",
     "source_file": "rollout-2026-06-03T21-50-36-019e8d89-1376-7d20-ba3d-cdff2c8215e8.jsonl",
     "message_count": 58,
     "output_file": "sessions/019e8d89-1376-7d20-ba3d-cdff2c8215e8.md"
-  },
-  {
-    "id": "019e8f43-8e7e-7220-a151-82a3b1b29924",
-    "source_file": "rollout-2026-06-04T05-53-55-019e8f43-8e7e-7220-a151-82a3b1b29924.jsonl",
-    "message_count": 72,
-    "output_file": "sessions/019e8f43-8e7e-7220-a151-82a3b1b29924.md"
   },
   {
     "id": "019e8f45-8969-7880-b012-636fa78fca4f",
@@ -320,26 +296,14 @@
   {
     "id": "019e8f4c-aef9-7b62-b439-670741a2c7d6",
     "source_file": "rollout-2026-06-04T06-03-52-019e8f4c-aef9-7b62-b439-670741a2c7d6.jsonl",
-    "message_count": 139,
+    "message_count": 259,
     "output_file": "sessions/019e8f4c-aef9-7b62-b439-670741a2c7d6.md"
-  },
-  {
-    "id": "019e8f6b-c4d8-7903-aff6-666520d608eb",
-    "source_file": "rollout-2026-06-04T06-37-47-019e8f6b-c4d8-7903-aff6-666520d608eb.jsonl",
-    "message_count": 42,
-    "output_file": "sessions/019e8f6b-c4d8-7903-aff6-666520d608eb.md"
   },
   {
     "id": "019e8f6e-09b4-7383-87ef-ff8044642af7",
     "source_file": "rollout-2026-06-04T06-40-20-019e8f6e-09b4-7383-87ef-ff8044642af7.jsonl",
     "message_count": 73,
     "output_file": "sessions/019e8f6e-09b4-7383-87ef-ff8044642af7.md"
-  },
-  {
-    "id": "019e8f7c-31fc-7673-b9ff-51510d433187",
-    "source_file": "rollout-2026-06-04T06-55-46-019e8f7c-31fc-7673-b9ff-51510d433187.jsonl",
-    "message_count": 15,
-    "output_file": "sessions/019e8f7c-31fc-7673-b9ff-51510d433187.md"
   },
   {
     "id": "019e8fa2-12a6-7471-b594-94fbaf51dcea",
@@ -350,7 +314,7 @@
   {
     "id": "019e8fa5-12ea-7010-8065-4d315c10fd9b",
     "source_file": "rollout-2026-06-04T07-40-25-019e8fa5-12ea-7010-8065-4d315c10fd9b.jsonl",
-    "message_count": 67,
+    "message_count": 76,
     "output_file": "sessions/019e8fa5-12ea-7010-8065-4d315c10fd9b.md"
   },
   {
@@ -390,16 +354,250 @@
     "output_file": "sessions/019e8fb0-856a-7fa2-92ee-9f7687b66677.md"
   },
   {
-    "id": "019e8fb3-c6e2-76b1-8681-ed64ddaeb132",
-    "source_file": "rollout-2026-06-04T07-56-29-019e8fb3-c6e2-76b1-8681-ed64ddaeb132.jsonl",
-    "message_count": 9,
-    "output_file": "sessions/019e8fb3-c6e2-76b1-8681-ed64ddaeb132.md"
+    "id": "019e8fba-2b96-72f0-8302-f00b248a8127",
+    "source_file": "rollout-2026-06-04T08-03-28-019e8fba-2b96-72f0-8302-f00b248a8127.jsonl",
+    "message_count": 11,
+    "output_file": "sessions/019e8fba-2b96-72f0-8302-f00b248a8127.md"
   },
   {
-    "id": "019e8fb7-67e2-7223-aaf4-393e41794e24",
-    "source_file": "rollout-2026-06-04T08-00-27-019e8fb7-67e2-7223-aaf4-393e41794e24.jsonl",
+    "id": "019e8fba-6483-7330-9bb9-912f9cb8f561",
+    "source_file": "rollout-2026-06-04T08-03-42-019e8fba-6483-7330-9bb9-912f9cb8f561.jsonl",
+    "message_count": 15,
+    "output_file": "sessions/019e8fba-6483-7330-9bb9-912f9cb8f561.md"
+  },
+  {
+    "id": "019e8fba-9116-7120-bb4c-6b355c1c2003",
+    "source_file": "rollout-2026-06-04T08-03-54-019e8fba-9116-7120-bb4c-6b355c1c2003.jsonl",
+    "message_count": 11,
+    "output_file": "sessions/019e8fba-9116-7120-bb4c-6b355c1c2003.md"
+  },
+  {
+    "id": "019e8fba-b375-7dc1-9ac6-bc7f50b5c2a9",
+    "source_file": "rollout-2026-06-04T08-04-03-019e8fba-b375-7dc1-9ac6-bc7f50b5c2a9.jsonl",
+    "message_count": 25,
+    "output_file": "sessions/019e8fba-b375-7dc1-9ac6-bc7f50b5c2a9.md"
+  },
+  {
+    "id": "019e8fba-e1f4-73d1-aeb3-6b1759c3f8bd",
+    "source_file": "rollout-2026-06-04T08-04-14-019e8fba-e1f4-73d1-aeb3-6b1759c3f8bd.jsonl",
+    "message_count": 10,
+    "output_file": "sessions/019e8fba-e1f4-73d1-aeb3-6b1759c3f8bd.md"
+  },
+  {
+    "id": "019e8fbb-1e8f-7982-93ad-12f71998dc33",
+    "source_file": "rollout-2026-06-04T08-04-30-019e8fbb-1e8f-7982-93ad-12f71998dc33.jsonl",
+    "message_count": 19,
+    "output_file": "sessions/019e8fbb-1e8f-7982-93ad-12f71998dc33.md"
+  },
+  {
+    "id": "019e8fea-3a34-7761-89b4-8b39a07d2833",
+    "source_file": "rollout-2026-06-04T08-55-57-019e8fea-3a34-7761-89b4-8b39a07d2833.jsonl",
+    "message_count": 22,
+    "output_file": "sessions/019e8fea-3a34-7761-89b4-8b39a07d2833.md"
+  },
+  {
+    "id": "019e9282-3c79-78b3-bf15-d52b4ebf83d2",
+    "source_file": "rollout-2026-06-04T21-01-14-019e9282-3c79-78b3-bf15-d52b4ebf83d2.jsonl",
     "message_count": 7,
-    "output_file": "sessions/019e8fb7-67e2-7223-aaf4-393e41794e24.md"
+    "output_file": "sessions/019e9282-3c79-78b3-bf15-d52b4ebf83d2.md"
+  },
+  {
+    "id": "019e944e-658b-79a1-8d37-ec4b173824d3",
+    "source_file": "rollout-2026-06-05T05-23-51-019e944e-658b-79a1-8d37-ec4b173824d3.jsonl",
+    "message_count": 10,
+    "output_file": "sessions/019e944e-658b-79a1-8d37-ec4b173824d3.md"
+  },
+  {
+    "id": "019e945b-31c6-7bc2-959f-36731385bba9",
+    "source_file": "rollout-2026-06-05T05-37-46-019e945b-31c6-7bc2-959f-36731385bba9.jsonl",
+    "message_count": 10,
+    "output_file": "sessions/019e945b-31c6-7bc2-959f-36731385bba9.md"
+  },
+  {
+    "id": "019e9469-a9e9-78d2-b466-d30cc580b101",
+    "source_file": "rollout-2026-06-05T05-53-38-019e9469-a9e9-78d2-b466-d30cc580b101.jsonl",
+    "message_count": 48,
+    "output_file": "sessions/019e9469-a9e9-78d2-b466-d30cc580b101.md"
+  },
+  {
+    "id": "019e946b-d5b4-7992-958c-9f111eebe172",
+    "source_file": "rollout-2026-06-05T05-56-04-019e946b-d5b4-7992-958c-9f111eebe172.jsonl",
+    "message_count": 49,
+    "output_file": "sessions/019e946b-d5b4-7992-958c-9f111eebe172.md"
+  },
+  {
+    "id": "019e9471-061e-7fa2-90d2-49f54093ca0e",
+    "source_file": "rollout-2026-06-05T06-01-42-019e9471-061e-7fa2-90d2-49f54093ca0e.jsonl",
+    "message_count": 79,
+    "output_file": "sessions/019e9471-061e-7fa2-90d2-49f54093ca0e.md"
+  },
+  {
+    "id": "019e9473-d4ee-7960-9bd9-9c88cc0923b1",
+    "source_file": "rollout-2026-06-05T06-04-44-019e9473-d4ee-7960-9bd9-9c88cc0923b1.jsonl",
+    "message_count": 22,
+    "output_file": "sessions/019e9473-d4ee-7960-9bd9-9c88cc0923b1.md"
+  },
+  {
+    "id": "019e9478-9f8f-7123-bec5-1f556ea6812e",
+    "source_file": "rollout-2026-06-05T06-09-58-019e9478-9f8f-7123-bec5-1f556ea6812e.jsonl",
+    "message_count": 7,
+    "output_file": "sessions/019e9478-9f8f-7123-bec5-1f556ea6812e.md"
+  },
+  {
+    "id": "019e9478-cf74-7b32-9732-d633bccd118e",
+    "source_file": "rollout-2026-06-05T06-10-10-019e9478-cf74-7b32-9732-d633bccd118e.jsonl",
+    "message_count": 10,
+    "output_file": "sessions/019e9478-cf74-7b32-9732-d633bccd118e.md"
+  },
+  {
+    "id": "019e9479-05f0-7203-af32-8e6ab97640c1",
+    "source_file": "rollout-2026-06-05T06-10-24-019e9479-05f0-7203-af32-8e6ab97640c1.jsonl",
+    "message_count": 8,
+    "output_file": "sessions/019e9479-05f0-7203-af32-8e6ab97640c1.md"
+  },
+  {
+    "id": "019e9479-0d2a-74c3-aca3-49fc05b3c76a",
+    "source_file": "rollout-2026-06-05T06-10-30-019e9479-0d2a-74c3-aca3-49fc05b3c76a.jsonl",
+    "message_count": 13,
+    "output_file": "sessions/019e9479-0d2a-74c3-aca3-49fc05b3c76a.md"
+  },
+  {
+    "id": "019e9479-436e-7273-99a5-1259abfaf4e9",
+    "source_file": "rollout-2026-06-05T06-10-40-019e9479-436e-7273-99a5-1259abfaf4e9.jsonl",
+    "message_count": 16,
+    "output_file": "sessions/019e9479-436e-7273-99a5-1259abfaf4e9.md"
+  },
+  {
+    "id": "019e9479-7685-7612-a1f4-07c936fe1360",
+    "source_file": "rollout-2026-06-05T06-10-53-019e9479-7685-7612-a1f4-07c936fe1360.jsonl",
+    "message_count": 49,
+    "output_file": "sessions/019e9479-7685-7612-a1f4-07c936fe1360.md"
+  },
+  {
+    "id": "019e9479-9424-7560-82d3-b42d9e37c91a",
+    "source_file": "rollout-2026-06-05T06-11-01-019e9479-9424-7560-82d3-b42d9e37c91a.jsonl",
+    "message_count": 13,
+    "output_file": "sessions/019e9479-9424-7560-82d3-b42d9e37c91a.md"
+  },
+  {
+    "id": "019e9481-a5d6-70c0-8d4f-10ee74a0d430",
+    "source_file": "rollout-2026-06-05T06-19-50-019e9481-a5d6-70c0-8d4f-10ee74a0d430.jsonl",
+    "message_count": 13,
+    "output_file": "sessions/019e9481-a5d6-70c0-8d4f-10ee74a0d430.md"
+  },
+  {
+    "id": "019e9481-d89b-7740-9346-350af85dc8c3",
+    "source_file": "rollout-2026-06-05T06-20-03-019e9481-d89b-7740-9346-350af85dc8c3.jsonl",
+    "message_count": 21,
+    "output_file": "sessions/019e9481-d89b-7740-9346-350af85dc8c3.md"
+  },
+  {
+    "id": "019e9482-085d-79a1-bc83-e14ee3821c67",
+    "source_file": "rollout-2026-06-05T06-20-15-019e9482-085d-79a1-bc83-e14ee3821c67.jsonl",
+    "message_count": 16,
+    "output_file": "sessions/019e9482-085d-79a1-bc83-e14ee3821c67.md"
+  },
+  {
+    "id": "019e9482-0ba6-7de1-b206-5e5ca5c50793",
+    "source_file": "rollout-2026-06-05T06-20-16-019e9482-0ba6-7de1-b206-5e5ca5c50793.jsonl",
+    "message_count": 11,
+    "output_file": "sessions/019e9482-0ba6-7de1-b206-5e5ca5c50793.md"
+  },
+  {
+    "id": "019e9482-41a8-79a3-9fe3-7c394eb5c213",
+    "source_file": "rollout-2026-06-05T06-20-30-019e9482-41a8-79a3-9fe3-7c394eb5c213.jsonl",
+    "message_count": 12,
+    "output_file": "sessions/019e9482-41a8-79a3-9fe3-7c394eb5c213.md"
+  },
+  {
+    "id": "019e9482-7d14-7c23-bb77-4434eaca4e5a",
+    "source_file": "rollout-2026-06-05T06-20-45-019e9482-7d14-7c23-bb77-4434eaca4e5a.jsonl",
+    "message_count": 19,
+    "output_file": "sessions/019e9482-7d14-7c23-bb77-4434eaca4e5a.md"
+  },
+  {
+    "id": "019e9482-8c39-78b0-b6eb-f90d293050fa",
+    "source_file": "rollout-2026-06-05T06-20-49-019e9482-8c39-78b0-b6eb-f90d293050fa.jsonl",
+    "message_count": 40,
+    "output_file": "sessions/019e9482-8c39-78b0-b6eb-f90d293050fa.md"
+  },
+  {
+    "id": "019e9482-b646-7241-a27d-72829d56f889",
+    "source_file": "rollout-2026-06-05T06-20-59-019e9482-b646-7241-a27d-72829d56f889.jsonl",
+    "message_count": 16,
+    "output_file": "sessions/019e9482-b646-7241-a27d-72829d56f889.md"
+  },
+  {
+    "id": "019e9487-2d75-7441-874e-b4de477086fd",
+    "source_file": "rollout-2026-06-05T06-25-52-019e9487-2d75-7441-874e-b4de477086fd.jsonl",
+    "message_count": 43,
+    "output_file": "sessions/019e9487-2d75-7441-874e-b4de477086fd.md"
+  },
+  {
+    "id": "019e948d-f49a-7630-8b1c-ed2ea717178f",
+    "source_file": "rollout-2026-06-05T06-33-16-019e948d-f49a-7630-8b1c-ed2ea717178f.jsonl",
+    "message_count": 78,
+    "output_file": "sessions/019e948d-f49a-7630-8b1c-ed2ea717178f.md"
+  },
+  {
+    "id": "019e9490-5049-72c0-86bc-ce4a1b977ab6",
+    "source_file": "rollout-2026-06-05T06-35-51-019e9490-5049-72c0-86bc-ce4a1b977ab6.jsonl",
+    "message_count": 34,
+    "output_file": "sessions/019e9490-5049-72c0-86bc-ce4a1b977ab6.md"
+  },
+  {
+    "id": "019e9493-db4f-7311-8cdb-a2e363d50500",
+    "source_file": "rollout-2026-06-05T06-39-41-019e9493-db4f-7311-8cdb-a2e363d50500.jsonl",
+    "message_count": 19,
+    "output_file": "sessions/019e9493-db4f-7311-8cdb-a2e363d50500.md"
+  },
+  {
+    "id": "019e9495-8a80-7c00-98cf-1702b4a3830d",
+    "source_file": "rollout-2026-06-05T06-41-33-019e9495-8a80-7c00-98cf-1702b4a3830d.jsonl",
+    "message_count": 17,
+    "output_file": "sessions/019e9495-8a80-7c00-98cf-1702b4a3830d.md"
+  },
+  {
+    "id": "019e9495-c6fa-7bd3-8383-ce9bec80896d",
+    "source_file": "rollout-2026-06-05T06-41-49-019e9495-c6fa-7bd3-8383-ce9bec80896d.jsonl",
+    "message_count": 12,
+    "output_file": "sessions/019e9495-c6fa-7bd3-8383-ce9bec80896d.md"
+  },
+  {
+    "id": "019e9495-fcf4-7290-bc8f-754396d51209",
+    "source_file": "rollout-2026-06-05T06-42-03-019e9495-fcf4-7290-bc8f-754396d51209.jsonl",
+    "message_count": 37,
+    "output_file": "sessions/019e9495-fcf4-7290-bc8f-754396d51209.md"
+  },
+  {
+    "id": "019e9495-ff3d-7831-bac5-73177f10f1ee",
+    "source_file": "rollout-2026-06-05T06-42-03-019e9495-ff3d-7831-bac5-73177f10f1ee.jsonl",
+    "message_count": 13,
+    "output_file": "sessions/019e9495-ff3d-7831-bac5-73177f10f1ee.md"
+  },
+  {
+    "id": "019e9496-366d-7302-ba24-7bce37a98c29",
+    "source_file": "rollout-2026-06-05T06-42-17-019e9496-366d-7302-ba24-7bce37a98c29.jsonl",
+    "message_count": 19,
+    "output_file": "sessions/019e9496-366d-7302-ba24-7bce37a98c29.md"
+  },
+  {
+    "id": "019e9496-87cf-7313-ad99-293d4b4bf1c1",
+    "source_file": "rollout-2026-06-05T06-42-38-019e9496-87cf-7313-ad99-293d4b4bf1c1.jsonl",
+    "message_count": 19,
+    "output_file": "sessions/019e9496-87cf-7313-ad99-293d4b4bf1c1.md"
+  },
+  {
+    "id": "019e9496-8f1f-7c33-bbb2-75a5074d1ba7",
+    "source_file": "rollout-2026-06-05T06-42-40-019e9496-8f1f-7c33-bbb2-75a5074d1ba7.jsonl",
+    "message_count": 12,
+    "output_file": "sessions/019e9496-8f1f-7c33-bbb2-75a5074d1ba7.md"
+  },
+  {
+    "id": "019e9497-1539-76e3-823b-ff9631a7fe51",
+    "source_file": "rollout-2026-06-05T06-43-14-019e9497-1539-76e3-823b-ff9631a7fe51.jsonl",
+    "message_count": 31,
+    "output_file": "sessions/019e9497-1539-76e3-823b-ff9631a7fe51.md"
   },
   {
     "id": "019e1edb-b391-7f41-bee9-20beb07db483",
@@ -445,6 +643,12 @@
   },
   {
     "id": "019e800a-b624-7222-a577-97129295ac46",
+    "source_file": "rollout-2026-06-01T06-57-31-019e800a-b624-7222-a577-97129295ac46.jsonl",
+    "message_count": 35,
+    "output_file": "sessions/019e800a-b624-7222-a577-97129295ac46.md"
+  },
+  {
+    "id": "019e800a-b624-7222-a577-97129295ac46",
     "source_file": "rollout-2026-06-01T07-29-15-019e8027-c318-7c83-86b8-32061484d765.jsonl",
     "message_count": 11,
     "output_file": "sessions/019e800a-b624-7222-a577-97129295ac46.md"
@@ -478,5 +682,83 @@
     "source_file": "rollout-2026-06-03T18-45-12-019e8cdf-54a0-7fa2-a910-e1ac9e306adf.jsonl",
     "message_count": 7,
     "output_file": "sessions/019e8cdf-54a0-7fa2-a910-e1ac9e306adf.md"
+  },
+  {
+    "id": "019e8d82-b1ad-7b42-9006-8720a6c4eb6e",
+    "source_file": "rollout-2026-06-03T21-43-34-019e8d82-b1ad-7b42-9006-8720a6c4eb6e.jsonl",
+    "message_count": 7,
+    "output_file": "sessions/019e8d82-b1ad-7b42-9006-8720a6c4eb6e.md"
+  },
+  {
+    "id": "019e8d82-b6c3-78f3-927b-902f15d2d431",
+    "source_file": "rollout-2026-06-03T21-43-37-019e8d82-b6c3-78f3-927b-902f15d2d431.jsonl",
+    "message_count": 8,
+    "output_file": "sessions/019e8d82-b6c3-78f3-927b-902f15d2d431.md"
+  },
+  {
+    "id": "019e8f43-8e7e-7220-a151-82a3b1b29924",
+    "source_file": "rollout-2026-06-04T05-53-55-019e8f43-8e7e-7220-a151-82a3b1b29924.jsonl",
+    "message_count": 75,
+    "output_file": "sessions/019e8f43-8e7e-7220-a151-82a3b1b29924.md"
+  },
+  {
+    "id": "019e8f6b-c4d8-7903-aff6-666520d608eb",
+    "source_file": "rollout-2026-06-04T06-37-47-019e8f6b-c4d8-7903-aff6-666520d608eb.jsonl",
+    "message_count": 42,
+    "output_file": "sessions/019e8f6b-c4d8-7903-aff6-666520d608eb.md"
+  },
+  {
+    "id": "019e8f7c-31fc-7673-b9ff-51510d433187",
+    "source_file": "rollout-2026-06-04T06-55-46-019e8f7c-31fc-7673-b9ff-51510d433187.jsonl",
+    "message_count": 15,
+    "output_file": "sessions/019e8f7c-31fc-7673-b9ff-51510d433187.md"
+  },
+  {
+    "id": "019e8fb3-c6e2-76b1-8681-ed64ddaeb132",
+    "source_file": "rollout-2026-06-04T07-56-29-019e8fb3-c6e2-76b1-8681-ed64ddaeb132.jsonl",
+    "message_count": 9,
+    "output_file": "sessions/019e8fb3-c6e2-76b1-8681-ed64ddaeb132.md"
+  },
+  {
+    "id": "019e8fb7-67e2-7223-aaf4-393e41794e24",
+    "source_file": "rollout-2026-06-04T08-00-27-019e8fb7-67e2-7223-aaf4-393e41794e24.jsonl",
+    "message_count": 10,
+    "output_file": "sessions/019e8fb7-67e2-7223-aaf4-393e41794e24.md"
+  },
+  {
+    "id": "019e8fec-a431-7930-9629-25d20d879828",
+    "source_file": "rollout-2026-06-04T08-58-36-019e8fec-a431-7930-9629-25d20d879828.jsonl",
+    "message_count": 8,
+    "output_file": "sessions/019e8fec-a431-7930-9629-25d20d879828.md"
+  },
+  {
+    "id": "019e9049-e55a-7670-8e35-b5ff21fe15b3",
+    "source_file": "rollout-2026-06-04T10-40-23-019e9049-e55a-7670-8e35-b5ff21fe15b3.jsonl",
+    "message_count": 24,
+    "output_file": "sessions/019e9049-e55a-7670-8e35-b5ff21fe15b3.md"
+  },
+  {
+    "id": "019e927a-e12c-74d1-98c2-b7b18cf2cdae",
+    "source_file": "rollout-2026-06-04T20-53-12-019e927a-e12c-74d1-98c2-b7b18cf2cdae.jsonl",
+    "message_count": 8,
+    "output_file": "sessions/019e927a-e12c-74d1-98c2-b7b18cf2cdae.md"
+  },
+  {
+    "id": "019e927a-e7b1-72d3-af52-4164f704a2fa",
+    "source_file": "rollout-2026-06-04T20-53-18-019e927a-e7b1-72d3-af52-4164f704a2fa.jsonl",
+    "message_count": 8,
+    "output_file": "sessions/019e927a-e7b1-72d3-af52-4164f704a2fa.md"
+  },
+  {
+    "id": "019e92b2-9efe-7751-acaa-1e996738cd85",
+    "source_file": "rollout-2026-06-04T21-54-05-019e92b2-9efe-7751-acaa-1e996738cd85.jsonl",
+    "message_count": 8,
+    "output_file": "sessions/019e92b2-9efe-7751-acaa-1e996738cd85.md"
+  },
+  {
+    "id": "019e9457-ef1a-7861-905c-f0d5e82fcf0e",
+    "source_file": "rollout-2026-06-05T05-34-19-019e9457-ef1a-7861-905c-f0d5e82fcf0e.jsonl",
+    "message_count": 34,
+    "output_file": "sessions/019e9457-ef1a-7861-905c-f0d5e82fcf0e.md"
   }
 ]

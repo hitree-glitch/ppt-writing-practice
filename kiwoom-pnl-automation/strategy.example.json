@@ -1,0 +1,16 @@
+{
+  "strategy": {
+    "top_trading_value_count": 30,
+    "day_stop_loss_rate": -0.08,
+    "close_stop_loss_rate": -0.04,
+    "close_stop_start": "15:10",
+    "new_buy_cutoff": "15:00",
+    "min_hold_seconds_before_stop": 60
+  },
+  "rules": {
+    "universe": "previous_day_top_30_by_trading_value",
+    "buy_when_previous_day_bullish": "break_previous_close",
+    "buy_when_previous_day_bearish": "break_previous_open",
+    "orders_default_to_dry_run": true
+  }
+}

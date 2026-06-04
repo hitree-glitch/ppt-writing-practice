@@ -1,5 +1,9 @@
 #!/bin/sh
 
+if git check-ignore -q codex-chat-archive; then
+  exit 0
+fi
+
 python "C:/Users/user/Documents/코덱스 저장소/tools/export_codex_chat_archive.py"
 status=$?
 

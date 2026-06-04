@@ -14,13 +14,17 @@ venv/
 
 # Local research scratch files and downloaded cache artifacts
 tmp_*
+*_scratch.js
+*_scratch_results.json
 *_tmp.py
+*_cookies.txt
 krx_cookies.txt
 naver_chunks/
 naver_index_chunks/
 naver_app_chunk.js
 naver_buildManifest.js
 daum_investors.js
+논문/*_extracted.txt
 
 # Nested local repositories managed separately
 논문/OAtrauma-analysis/
@@ -49,3 +53,5 @@ daum_investors.js
 blog-draft-automation/app_settings.json
 blog-draft-automation/automation_state.sqlite3
 blog-draft-automation/naver_browser_profile/
+codex-chat-archive/
+.kkirikkiri/
