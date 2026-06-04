@@ -35,6 +35,23 @@ patterns = [
     "social world",
     "predator",
     "unlovable",
+    "always the relationship",
+    "great world spirits",
+    "truth now",
+    "new reality",
+    "mercy ship",
+    "Cancer cures psychoneurosis",
+    "wounded healer",
+    "know as much as possible",
+    "automatic pilot",
+    "face-to-face",
+    "partner",
+    "great deal you can contribute",
+    "I could have loved you",
+    "left feeling better",
+    "sacred",
+    "stable, persisting self",
+    "more in touch",
 ]
 
 
