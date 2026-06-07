@@ -1,0 +1,508 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>중년 남성 개인자료와 자살 사망률 통합 탐색 분석</title>
+<style>
+body { font-family: "Malgun Gothic", Arial, sans-serif; margin: 36px; color: #222; line-height: 1.55; }
+h1, h2 { line-height: 1.25; }
+.note { background: #f5f7fa; border-left: 4px solid #2364aa; padding: 12px 14px; }
+.data { border-collapse: collapse; width: 100%; margin: 12px 0 26px; font-size: 13px; }
+.data th, .data td { border-bottom: 1px solid #ddd; padding: 7px 8px; text-align: right; }
+.data th:first-child, .data td:first-child, .data th:nth-child(2), .data td:nth-child(2) { text-align: left; }
+svg { margin: 14px 0 28px; border: 1px solid #eee; }
+</style>
+</head>
+<body>
+<h1>중년 남성 개인자료와 자살 사망률 통합 탐색 분석</h1>
+<p class="note">현재 사망자료 CSV에는 104개 사망원인이 모두 들어 있지 않고, 남성 40-64세의 고의적 자해(자살) 사망자수와 사망률만 포함되어 있다. 따라서 본 결과는 자살 사망률에 대한 생태학적 탐색 분석이다.</p>
+<h2>병합 구조</h2>
+<p>개인자료 13,827행을 조사연도와 5세 연령대로 가중 집계한 뒤, 같은 연도·연령대의 자살 사망률과 결합했다. 최종 분석 셀은 30개다.</p>
+<h2>연령대별 자살 사망률</h2>
+<svg viewBox="0 0 820 390" width="100%" height="390" role="img">
+<rect width="100%" height="100%" fill="#fff"/>
+<line x1="50" y1="340" x2="770" y2="340" stroke="#222"/>
+<line x1="50" y1="50" x2="50" y2="340" stroke="#222"/>
+<text x="50.0" y="372" text-anchor="middle" font-size="12">2019</text>
+<text x="194.0" y="372" text-anchor="middle" font-size="12">2020</text>
+<text x="338.0" y="372" text-anchor="middle" font-size="12">2021</text>
+<text x="482.0" y="372" text-anchor="middle" font-size="12">2022</text>
+<text x="626.0" y="372" text-anchor="middle" font-size="12">2023</text>
+<text x="770.0" y="372" text-anchor="middle" font-size="12">2024</text>
+<line x1="50" y1="277.40088105726875" x2="770" y2="277.40088105726875" stroke="#e8e8e8"/>
+<text x="42" y="281.40088105726875" text-anchor="end" font-size="12">40</text>
+<line x1="50" y1="229.49339207048456" x2="770" y2="229.49339207048456" stroke="#e8e8e8"/>
+<text x="42" y="233.49339207048456" text-anchor="end" font-size="12">44</text>
+<line x1="50" y1="181.58590308370043" x2="770" y2="181.58590308370043" stroke="#e8e8e8"/>
+<text x="42" y="185.58590308370043" text-anchor="end" font-size="12">48</text>
+<line x1="50" y1="133.67841409691627" x2="770" y2="133.67841409691627" stroke="#e8e8e8"/>
+<text x="42" y="137.67841409691627" text-anchor="end" font-size="12">51</text>
+<line x1="50" y1="85.77092511013211" x2="770" y2="85.77092511013211" stroke="#e8e8e8"/>
+<text x="42" y="89.77092511013211" text-anchor="end" font-size="12">55</text>
+<polyline points="50.0,269.7 194.0,300.4 338.0,299.1 482.0,314.4 626.0,259.5 770.0,181.6" fill="none" stroke="#2364aa" stroke-width="2.4"/>
+<circle cx="50.0" cy="269.7" r="3.8" fill="#2364aa"/>
+<circle cx="194.0" cy="300.4" r="3.8" fill="#2364aa"/>
+<circle cx="338.0" cy="299.1" r="3.8" fill="#2364aa"/>
+<circle cx="482.0" cy="314.4" r="3.8" fill="#2364aa"/>
+<circle cx="626.0" cy="259.5" r="3.8" fill="#2364aa"/>
+<circle cx="770.0" cy="181.6" r="3.8" fill="#2364aa"/>
+<text x="778" y="185.6" font-size="12" fill="#2364aa">40 - 44세</text>
+<polyline points="50.0,176.5 194.0,242.9 338.0,283.8 482.0,253.1 626.0,217.4 770.0,87.0" fill="none" stroke="#3da5d9" stroke-width="2.4"/>
+<circle cx="50.0" cy="176.5" r="3.8" fill="#3da5d9"/>
+<circle cx="194.0" cy="242.9" r="3.8" fill="#3da5d9"/>
+<circle cx="338.0" cy="283.8" r="3.8" fill="#3da5d9"/>
+<circle cx="482.0" cy="253.1" r="3.8" fill="#3da5d9"/>
+<circle cx="626.0" cy="217.4" r="3.8" fill="#3da5d9"/>
+<circle cx="770.0" cy="87.0" r="3.8" fill="#3da5d9"/>
+<text x="778" y="91.0" font-size="12" fill="#3da5d9">45 - 49세</text>
+<polyline points="50.0,163.7 194.0,254.4 338.0,240.4 482.0,264.6 626.0,199.5 770.0,92.2" fill="none" stroke="#73bfb8" stroke-width="2.4"/>
+<circle cx="50.0" cy="163.7" r="3.8" fill="#73bfb8"/>
+<circle cx="194.0" cy="254.4" r="3.8" fill="#73bfb8"/>
+<circle cx="338.0" cy="240.4" r="3.8" fill="#73bfb8"/>
+<circle cx="482.0" cy="264.6" r="3.8" fill="#73bfb8"/>
+<circle cx="626.0" cy="199.5" r="3.8" fill="#73bfb8"/>
+<circle cx="770.0" cy="92.2" r="3.8" fill="#73bfb8"/>
+<text x="778" y="96.2" font-size="12" fill="#73bfb8">50 - 54세</text>
+<polyline points="50.0,121.5 194.0,153.5 338.0,219.9 482.0,222.5 626.0,161.1 770.0,80.7" fill="none" stroke="#f4a261" stroke-width="2.4"/>
+<circle cx="50.0" cy="121.5" r="3.8" fill="#f4a261"/>
+<circle cx="194.0" cy="153.5" r="3.8" fill="#f4a261"/>
+<circle cx="338.0" cy="219.9" r="3.8" fill="#f4a261"/>
+<circle cx="482.0" cy="222.5" r="3.8" fill="#f4a261"/>
+<circle cx="626.0" cy="161.1" r="3.8" fill="#f4a261"/>
+<circle cx="770.0" cy="80.7" r="3.8" fill="#f4a261"/>
+<text x="778" y="84.7" font-size="12" fill="#f4a261">55 - 59세</text>
+<polyline points="50.0,75.6 194.0,230.1 338.0,239.1 482.0,267.2 626.0,168.8 770.0,133.0" fill="none" stroke="#d62828" stroke-width="2.4"/>
+<circle cx="50.0" cy="75.6" r="3.8" fill="#d62828"/>
+<circle cx="194.0" cy="230.1" r="3.8" fill="#d62828"/>
+<circle cx="338.0" cy="239.1" r="3.8" fill="#d62828"/>
+<circle cx="482.0" cy="267.2" r="3.8" fill="#d62828"/>
+<circle cx="626.0" cy="168.8" r="3.8" fill="#d62828"/>
+<circle cx="770.0" cy="133.0" r="3.8" fill="#d62828"/>
+<text x="778" y="137.0" font-size="12" fill="#d62828">60 - 64세</text>
+<text x="410" y="26" text-anchor="middle" font-size="17" font-weight="700">남성 40-64세 연령대별 자살 사망률</text>
+</svg>
+<h2>연령대 요약</h2>
+<table class="dataframe data">
+  <thead>
+    <tr style="text-align: right;">
+      <th>age_band</th>
+      <th>suicide_rate_mean</th>
+      <th>suicide_rate_min</th>
+      <th>suicide_rate_max</th>
+      <th>depression_high_mean</th>
+      <th>problem_drinking_mean</th>
+      <th>low_income_mean</th>
+      <th>n_cell_mean</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>40 - 44세</td>
+      <td>40.517</td>
+      <td>37.1</td>
+      <td>47.5</td>
+      <td>0.150</td>
+      <td>0.512</td>
+      <td>0.140</td>
+      <td>400.000</td>
+    </tr>
+    <tr>
+      <td>45 - 49세</td>
+      <td>45.267</td>
+      <td>39.5</td>
+      <td>54.9</td>
+      <td>0.160</td>
+      <td>0.515</td>
+      <td>0.152</td>
+      <td>472.333</td>
+    </tr>
+    <tr>
+      <td>50 - 54세</td>
+      <td>45.867</td>
+      <td>41.0</td>
+      <td>54.5</td>
+      <td>0.164</td>
+      <td>0.520</td>
+      <td>0.173</td>
+      <td>503.000</td>
+    </tr>
+    <tr>
+      <td>55 - 59세</td>
+      <td>49.200</td>
+      <td>44.3</td>
+      <td>55.4</td>
+      <td>0.188</td>
+      <td>0.512</td>
+      <td>0.210</td>
+      <td>439.833</td>
+    </tr>
+    <tr>
+      <td>60 - 64세</td>
+      <td>47.183</td>
+      <td>40.8</td>
+      <td>55.8</td>
+      <td>0.220</td>
+      <td>0.487</td>
+      <td>0.291</td>
+      <td>489.333</td>
+    </tr>
+  </tbody>
+</table>
+<h2>탐색 상관 상위 결과</h2>
+<table class="dataframe data">
+  <thead>
+    <tr style="text-align: right;">
+      <th>label_ko</th>
+      <th>pearson_r</th>
+      <th>spearman_r</th>
+      <th>age_demeaned_r</th>
+      <th>year_demeaned_r</th>
+      <th>permutation_p</th>
+      <th>n_cells</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>고소득 비율</td>
+      <td>0.566</td>
+      <td>0.565</td>
+      <td>0.464</td>
+      <td>0.645</td>
+      <td>0.001</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>p05_aq1 평균</td>
+      <td>-0.515</td>
+      <td>-0.540</td>
+      <td>-0.342</td>
+      <td>-0.577</td>
+      <td>0.002</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>p03_10 평균</td>
+      <td>-0.431</td>
+      <td>-0.507</td>
+      <td>-0.097</td>
+      <td>-0.705</td>
+      <td>0.021</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>우울 고위험 비율</td>
+      <td>0.370</td>
+      <td>0.466</td>
+      <td>0.139</td>
+      <td>0.468</td>
+      <td>0.045</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>자존감 평균</td>
+      <td>-0.369</td>
+      <td>-0.420</td>
+      <td>0.069</td>
+      <td>-0.620</td>
+      <td>0.041</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>p05_12aq1 평균</td>
+      <td>-0.348</td>
+      <td>-0.376</td>
+      <td>-0.078</td>
+      <td>-0.522</td>
+      <td>0.062</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>p03_9 평균</td>
+      <td>-0.342</td>
+      <td>-0.377</td>
+      <td>0.117</td>
+      <td>-0.629</td>
+      <td>0.064</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>낮은 자존감 비율</td>
+      <td>0.323</td>
+      <td>0.412</td>
+      <td>-0.083</td>
+      <td>0.543</td>
+      <td>0.075</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>p05_aq 문항 합성점수</td>
+      <td>-0.310</td>
+      <td>-0.286</td>
+      <td>-0.392</td>
+      <td>0.129</td>
+      <td>0.090</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>p03_5 평균</td>
+      <td>-0.297</td>
+      <td>-0.378</td>
+      <td>0.315</td>
+      <td>-0.578</td>
+      <td>0.108</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>
+<svg viewBox="0 0 880 440" width="100%" height="440" role="img">
+<rect width="100%" height="100%" fill="#fff"/>
+<line x1="527.5" y1="35" x2="527.5" y2="415" stroke="#222"/>
+<text x="202" y="59.0" text-anchor="end" font-size="12">저소득 비율</text>
+<rect x="527.5" y="45.0" width="90.83316648331413" height="19.633333333333333" fill="#2364aa"/>
+<text x="623.3331664833141" y="59.0" text-anchor="start" font-size="12">0.29</text>
+<text x="202" y="90.66666666666667" text-anchor="end" font-size="12">p03 문항 합성점수</text>
+<rect x="434.9680426108688" y="76.66666666666667" width="92.53195738913121" height="19.633333333333333" fill="#d95f0e"/>
+<text x="429.9680426108688" y="90.66666666666667" text-anchor="end" font-size="12">-0.29</text>
+<text x="202" y="122.33333333333334" text-anchor="end" font-size="12">p03_5 평균</text>
+<rect x="433.1537569973284" y="108.33333333333334" width="94.3462430026716" height="19.633333333333333" fill="#d95f0e"/>
+<text x="428.1537569973284" y="122.33333333333334" text-anchor="end" font-size="12">-0.30</text>
+<text x="202" y="154.0" text-anchor="end" font-size="12">p05_aq 문항 합성점수</text>
+<rect x="429.0722374252847" y="140.0" width="98.4277625747153" height="19.633333333333333" fill="#d95f0e"/>
+<text x="424.0722374252847" y="154.0" text-anchor="end" font-size="12">-0.31</text>
+<text x="202" y="185.66666666666669" text-anchor="end" font-size="12">낮은 자존감 비율</text>
+<rect x="527.5" y="171.66666666666669" width="102.68824157875065" height="19.633333333333333" fill="#2364aa"/>
+<text x="635.1882415787506" y="185.66666666666669" text-anchor="start" font-size="12">0.32</text>
+<text x="202" y="217.33333333333334" text-anchor="end" font-size="12">p03_9 평균</text>
+<rect x="418.9479944249506" y="203.33333333333334" width="108.5520055750494" height="19.633333333333333" fill="#d95f0e"/>
+<text x="413.9479944249506" y="217.33333333333334" text-anchor="end" font-size="12">-0.34</text>
+<text x="202" y="249.0" text-anchor="end" font-size="12">p05_12aq1 평균</text>
+<rect x="416.92241353518733" y="235.0" width="110.57758646481267" height="19.633333333333333" fill="#d95f0e"/>
+<text x="411.92241353518733" y="249.0" text-anchor="end" font-size="12">-0.35</text>
+<text x="202" y="280.6666666666667" text-anchor="end" font-size="12">자존감 평균</text>
+<rect x="410.36658560108316" y="266.6666666666667" width="117.13341439891684" height="19.633333333333333" fill="#d95f0e"/>
+<text x="405.36658560108316" y="280.6666666666667" text-anchor="end" font-size="12">-0.37</text>
+<text x="202" y="312.33333333333337" text-anchor="end" font-size="12">우울 고위험 비율</text>
+<rect x="527.5" y="298.33333333333337" width="117.39264402110894" height="19.633333333333333" fill="#2364aa"/>
+<text x="649.8926440211089" y="312.33333333333337" text-anchor="start" font-size="12">0.37</text>
+<text x="202" y="344.0" text-anchor="end" font-size="12">p03_10 평균</text>
+<rect x="390.5367097527709" y="330.0" width="136.9632902472291" height="19.633333333333333" fill="#d95f0e"/>
+<text x="385.5367097527709" y="344.0" text-anchor="end" font-size="12">-0.43</text>
+<text x="202" y="375.6666666666667" text-anchor="end" font-size="12">p05_aq1 평균</text>
+<rect x="364.1106920131694" y="361.6666666666667" width="163.3893079868306" height="19.633333333333333" fill="#d95f0e"/>
+<text x="359.1106920131694" y="375.6666666666667" text-anchor="end" font-size="12">-0.51</text>
+<text x="202" y="407.33333333333337" text-anchor="end" font-size="12">고소득 비율</text>
+<rect x="527.5" y="393.33333333333337" width="179.83435352027766" height="19.633333333333333" fill="#2364aa"/>
+<text x="712.3343535202777" y="407.33333333333337" text-anchor="start" font-size="12">0.57</text>
+<text x="440" y="22" text-anchor="middle" font-size="17" font-weight="700">자살 사망률과의 탐색 상관</text>
+</svg>
+<h2>연도·연령대 고정효과 회귀</h2>
+<p>셀 수가 30개뿐이므로 한 번에 한 변수만 투입했다. 계수는 연도와 연령대 차이를 제거한 뒤 해당 집계 지표가 1단위 증가할 때 자살 사망률이 얼마나 달라지는지의 탐색적 값이다.</p>
+<table class="dataframe data">
+  <thead>
+    <tr style="text-align: right;">
+      <th>variable</th>
+      <th>label_ko</th>
+      <th>coef_with_year_age_FE</th>
+      <th>n_cells</th>
+      <th>r2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>problem_drinking_wm</td>
+      <td>문제음주 비율</td>
+      <td>-19.747</td>
+      <td>30</td>
+      <td>0.909</td>
+    </tr>
+    <tr>
+      <td>self_esteem_low_wm</td>
+      <td>낮은 자존감 비율</td>
+      <td>-18.340</td>
+      <td>30</td>
+      <td>0.905</td>
+    </tr>
+    <tr>
+      <td>AUDIT_wm</td>
+      <td>AUDIT 평균</td>
+      <td>-1.314</td>
+      <td>30</td>
+      <td>0.905</td>
+    </tr>
+    <tr>
+      <td>depression_high_wm</td>
+      <td>우울 고위험 비율</td>
+      <td>-8.807</td>
+      <td>30</td>
+      <td>0.900</td>
+    </tr>
+    <tr>
+      <td>h_din_wm</td>
+      <td>가구소득 평균</td>
+      <td>0.001</td>
+      <td>30</td>
+      <td>0.900</td>
+    </tr>
+    <tr>
+      <td>low_income_wm</td>
+      <td>저소득 비율</td>
+      <td>0.882</td>
+      <td>30</td>
+      <td>0.900</td>
+    </tr>
+  </tbody>
+</table>
+<h2>문항 묶음과 1년 지연 분석</h2>
+<p>p03 문항 합성 신뢰도 alpha=0.753, p05_aq 문항 합성 신뢰도 alpha=0.827. 아래 표는 같은 연령대에서 t년 지표와 t+1년 자살 사망률의 탐색 상관이다.</p>
+<table class="dataframe data">
+  <thead>
+    <tr style="text-align: right;">
+      <th>label_ko</th>
+      <th>lag_pearson_r</th>
+      <th>lag_spearman_r</th>
+      <th>lag_permutation_p</th>
+      <th>n_lag_cells</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>고소득 비율</td>
+      <td>0.689</td>
+      <td>0.638</td>
+      <td>0.000</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td>p05_7aq1_mod 비율</td>
+      <td>0.523</td>
+      <td>0.502</td>
+      <td>0.007</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td>p05_aq 문항 합성점수</td>
+      <td>-0.482</td>
+      <td>-0.492</td>
+      <td>0.016</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td>p05_aq2 평균</td>
+      <td>-0.474</td>
+      <td>-0.520</td>
+      <td>0.018</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td>p05_aq1 평균</td>
+      <td>-0.448</td>
+      <td>-0.527</td>
+      <td>0.021</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td>가구소득 평균</td>
+      <td>0.417</td>
+      <td>0.417</td>
+      <td>0.039</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td>우울 고위험 비율</td>
+      <td>0.366</td>
+      <td>0.449</td>
+      <td>0.068</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td>자존감 평균</td>
+      <td>-0.344</td>
+      <td>-0.463</td>
+      <td>0.089</td>
+      <td>25</td>
+    </tr>
+  </tbody>
+</table>
+<h2>개인자료 내부 취약 프로파일</h2>
+<table class="dataframe data">
+  <thead>
+    <tr style="text-align: right;">
+      <th>profile</th>
+      <th>n</th>
+      <th>weighted_share</th>
+      <th>age_mean</th>
+      <th>income_mean</th>
+      <th>CES_D_mean</th>
+      <th>SELF_ESTEEM_mean</th>
+      <th>AUDIT_mean</th>
+      <th>problem_drinking_share</th>
+      <th>low_income_share</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>우울 고위험</td>
+      <td>2330</td>
+      <td>0.163</td>
+      <td>52.870</td>
+      <td>6161.640</td>
+      <td>19.919</td>
+      <td>27.893</td>
+      <td>9.748</td>
+      <td>0.575</td>
+      <td>0.329</td>
+    </tr>
+    <tr>
+      <td>우울 고위험 아님</td>
+      <td>10543</td>
+      <td>0.765</td>
+      <td>51.696</td>
+      <td>7835.835</td>
+      <td>12.017</td>
+      <td>32.511</td>
+      <td>7.973</td>
+      <td>0.495</td>
+      <td>0.151</td>
+    </tr>
+    <tr>
+      <td>우울+문제음주</td>
+      <td>911</td>
+      <td>0.067</td>
+      <td>52.101</td>
+      <td>6675.940</td>
+      <td>19.688</td>
+      <td>28.259</td>
+      <td>13.989</td>
+      <td>1.000</td>
+      <td>0.274</td>
+    </tr>
+    <tr>
+      <td>우울+저소득</td>
+      <td>878</td>
+      <td>0.054</td>
+      <td>54.624</td>
+      <td>2294.144</td>
+      <td>21.226</td>
+      <td>25.941</td>
+      <td>10.068</td>
+      <td>0.578</td>
+      <td>1.000</td>
+    </tr>
+    <tr>
+      <td>저자존감+문제음주</td>
+      <td>885</td>
+      <td>0.064</td>
+      <td>53.161</td>
+      <td>5985.762</td>
+      <td>16.944</td>
+      <td>25.569</td>
+      <td>13.908</td>
+      <td>1.000</td>
+      <td>0.318</td>
+    </tr>
+  </tbody>
+</table>
+<h2>사회심리학적 결론</h2>
+<p>가장 논문 가치가 있는 해석은 한국 중년 남성의 자살 사망률을 개인 심리 문제로 좁히지 않고, 생계부양자 역할 압박, 지위불안, 도움요청 회피, 음주를 통한 대처, 중년 후반의 역할 전환이 결합된 사회심리적 취약성으로 읽는 것이다.</p>
+</body>
+</html>
