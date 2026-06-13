@@ -1,0 +1,6 @@
+﻿,n
+all_rows,14660
+valid_iat,5377
+valid_iat_and_pct_300_le_10pct,5304
+valid_iat_and_error_le_30pct,5316
+valid_iat_and_both_quality_rules,5295
