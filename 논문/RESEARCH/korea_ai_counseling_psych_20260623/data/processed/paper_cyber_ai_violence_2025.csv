@@ -1,0 +1,11 @@
+﻿year,page,target_group,metric,metric_label,value,unit,base,dataset,extraction_status
+2025,9,청소년,victim_aftereffect_depression_anxiety_stress,피해 후 우울·불안하거나 심한 스트레스를 받았다,16.0,%,요약 페이지,NIA/방송미디어통신위원회 사이버폭력 실태조사,본문·요약 페이지 기반 구조화
+2025,9,성인,victim_aftereffect_depression_anxiety_stress,피해 후 우울·불안하거나 심한 스트레스를 받았다,27.7,%,요약 페이지,NIA/방송미디어통신위원회 사이버폭력 실태조사,본문·요약 페이지 기반 구조화
+2025,9,청소년,victim_aftereffect_no_particular_feeling,피해 후 별다른 생각이 들지 않았다,69.4,%,요약 페이지,NIA/방송미디어통신위원회 사이버폭력 실태조사,본문·요약 페이지 기반 구조화
+2025,9,성인,victim_aftereffect_no_particular_feeling,피해 후 별다른 생각이 들지 않았다,45.6,%,요약 페이지,NIA/방송미디어통신위원회 사이버폭력 실태조사,본문·요약 페이지 기반 구조화
+2025,9,청소년,victim_aftereffect_revenge_wish,피해를 준 상대방에게 복수하고 싶었다,26.2,%,요약 페이지,NIA/방송미디어통신위원회 사이버폭력 실태조사,본문·요약 페이지 기반 구조화
+2025,9,성인,victim_aftereffect_revenge_wish,피해를 준 상대방에게 복수하고 싶었다,25.3,%,요약 페이지,NIA/방송미디어통신위원회 사이버폭력 실태조사,본문·요약 페이지 기반 구조화
+2025,92,청소년,ai_assisted_perpetration_among_perpetrators,AI 서비스를 활용한 사이버폭력 가해 경험,2.2,%,가해 경험자 기준,NIA/방송미디어통신위원회 사이버폭력 실태조사,본문·요약 페이지 기반 구조화
+2025,189,성인,ai_assisted_perpetration_among_perpetrators,AI 서비스를 활용한 사이버폭력 가해 경험,2.6,%,가해 경험자 기준,NIA/방송미디어통신위원회 사이버폭력 실태조사,본문·요약 페이지 기반 구조화
+2025,105,청소년,ai_cyberviolence_serious_perception,인공지능 활용 사이버폭력 심각성 인식,89.4,%,심각함 응답,NIA/방송미디어통신위원회 사이버폭력 실태조사,본문·요약 페이지 기반 구조화
+2025,202,성인,ai_cyberviolence_serious_perception,인공지능 활용 사이버폭력 심각성 인식,87.6,%,심각함 응답,NIA/방송미디어통신위원회 사이버폭력 실태조사,본문·요약 페이지 기반 구조화
