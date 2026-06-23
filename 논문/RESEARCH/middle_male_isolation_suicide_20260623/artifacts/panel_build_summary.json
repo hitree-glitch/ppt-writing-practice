@@ -1,0 +1,43 @@
+{
+  "panel_rows": 85,
+  "regions": 17,
+  "years": [
+    2020,
+    2024
+  ],
+  "available_outcomes": [
+    "godoksa_count",
+    "godoksa_share_pct",
+    "godoksa_yoy_change",
+    "excess_2024_vs_expected"
+  ],
+  "join_slots": {
+    "male_40_64_single_person_households": "DT_1PL1502_or_DT_1PL1509",
+    "male_40_64_single_person_household_rate": "DT_1PL1502_denominator_needed",
+    "single_household_dwelling_non_apartment_share": "DT_1PL1509",
+    "social_network_no_help_sick_pct": "DT_1SSSP041R",
+    "social_network_no_money_help_pct": "DT_1SSSP041R",
+    "social_network_no_depressed_talk_pct": "DT_1SSSP041R",
+    "daily_no_family_relative_exchange_pct": "DT_1SSSP045R",
+    "daily_no_nonkin_exchange_pct": "DT_1SSSP045R",
+    "depression_experience_std_rate": "DT_H_MENTAL_DEPRESS",
+    "basic_livelihood_male_40_64_count": "DT_11714_N002",
+    "social_welfare_facility_count": "DT_110001_A043",
+    "male_40_64_suicide_deaths": "DT_1B34E11",
+    "male_40_64_suicide_rate": "DT_1B34E11",
+    "business_closure_male_40_64_count": "DT_13301N_9810",
+    "business_closure_total_count": "DT_133001N_9816_or_TX_13301_A169",
+    "divorce_male_40_64_rate": "DT_1B85009_or_DT_1B85027",
+    "employment_loss_male_45_64_count": "restricted_employment_insurance",
+    "health_insurance_arrears_male_45_64_count": "restricted_nhis",
+    "debt_arrears_male_45_64_count": "restricted_credit",
+    "emergency_self_harm_male_45_64_count": "restricted_nedis_or_injury_surveillance",
+    "death_discovery_delay_days": "restricted_godoksa_microdata"
+  },
+  "tier_counts": {
+    "Tier4_weak_or_review": 16,
+    "Tier2_public_supplement": 8,
+    "Tier1_public_core": 7,
+    "Tier3_restricted_direct_event": 5
+  }
+}

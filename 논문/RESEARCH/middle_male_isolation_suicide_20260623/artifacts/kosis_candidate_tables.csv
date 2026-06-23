@@ -1,0 +1,331 @@
+﻿keyword,rank,org_id,tbl_id,table_name,stat_name,org_name,start_period,end_period,vw_cd,list_id,official_url
+1인가구,1,101,DT_1PL1509,"성, 연령 및 거처의 종류별 1인가구 - 시군구",인구총조사,국가데이터처,2015,2024,MT_ZTITLE,A12_2015_1_10_30,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PL1509&conn_path=I2
+1인가구,2,101,DT_1PL1501,성 및 거처의 종류별 1인가구 - 시군구,인구총조사,국가데이터처,2015,2024,MT_ZTITLE,A12_2015_1_10_30,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PL1501&conn_path=I2
+1인가구,3,101,DT_1PL1502,성 및 연령별 1인가구 - 시군구,인구총조사,국가데이터처,2015,2024,MT_ZTITLE,A12_2015_1_10_30,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PL1502&conn_path=I2
+1인가구,4,101,DT_1ES4I001S,1인 취업가구 현황,지역별고용조사,국가데이터처,2015,2025,MT_ZTITLE,B19_B19_EQ3,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1ES4I001S&conn_path=I2
+1인가구,5,101,DT_1ES4I007S,시도별 1인 취업가구,지역별고용조사,국가데이터처,2015,2025,MT_ZTITLE,B19_B19_EQ3,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1ES4I007S&conn_path=I2
+1인가구,6,101,DT_1OH0427,(1인가구)거주지역/가구주의 성/연령대별 주택소유 가구수,주택소유통계,국가데이터처,2015,2024,MT_ZTITLE,H2_OH_200_001,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1OH0427&conn_path=I2
+1인가구,7,101,DT_1ES4I013S,성별 1인가구 평균취업시간,지역별고용조사,국가데이터처,2015,2025,MT_ZTITLE,B19_B19_EQ3,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1ES4I013S&conn_path=I2
+1인가구,8,101,DT_1PL2011,"현 거주지, 성, 연령 및 1년 전 거주지별 1인가구(1세이상) - 시군구",인구총조사,국가데이터처,2020,2024,MT_ZTITLE,A12_2015_1_10_30,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PL2011&conn_path=I2
+1인가구,9,154,DT_154001_24AA011000,1인가구 생활 만족도,가족실태조사,성평등가족부,2023,2023,MT_ZTITLE,B_1_002_009,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_154001_24AA011000&conn_path=I2
+1인가구,10,154,DT_154001_24AA011400,1인 가구 지원 정책,가족실태조사,성평등가족부,2023,2023,MT_ZTITLE,B_1_002_009,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_154001_24AA011400&conn_path=I2
+1인가구,11,405,DT_405001_H159,단독가입상품 약정기간,한국미디어패널조사,정보통신정책연구원,2021,2025,MT_ZTITLE,N1_34_001_001_003_001,https://kosis.kr/statHtml/statHtml.do?orgId=405&tblId=DT_405001_H159&conn_path=I2
+1인가구,12,405,DT_405001_H157,단독가입상품 약정상태,한국미디어패널조사,정보통신정책연구원,2021,2025,MT_ZTITLE,N1_34_001_001_003_001,https://kosis.kr/statHtml/statHtml.do?orgId=405&tblId=DT_405001_H157&conn_path=I2
+1인가구,13,405,DT_405001_H160,단독가입상품 월평균 이용금액,한국미디어패널조사,정보통신정책연구원,2021,2025,MT_ZTITLE,N1_34_001_001_003_001,https://kosis.kr/statHtml/statHtml.do?orgId=405&tblId=DT_405001_H160&conn_path=I2
+1인가구,14,405,DT_405001_H185,단독가입상품 제공사업자,한국미디어패널조사,정보통신정책연구원,2021,2025,MT_ZTITLE,N1_34_001_001_003_001,https://kosis.kr/statHtml/statHtml.do?orgId=405&tblId=DT_405001_H185&conn_path=I2
+1인가구,15,154,DT_154001_24AA009600,1인 가구가 되기 전 함께 살았던 사람,가족실태조사,성평등가족부,2023,2023,MT_ZTITLE,B_1_002_009,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_154001_24AA009600&conn_path=I2
+1인가구,16,154,DT_154001_24AA009700,1인 가구로 생활하는 주된 이유,가족실태조사,성평등가족부,2023,2023,MT_ZTITLE,B_1_002_009,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_154001_24AA009700&conn_path=I2
+1인가구,17,154,DT_154001_24AA009500,1인 가구로 생활한 기간,가족실태조사,성평등가족부,2023,2023,MT_ZTITLE,B_1_002_009,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_154001_24AA009500&conn_path=I2
+1인가구,18,154,DT_154001_24AA010700,1인 가구의 어려움에 대한 동의 정도,가족실태조사,성평등가족부,2023,2023,MT_ZTITLE,B_1_002_009,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_154001_24AA010700&conn_path=I2
+1인가구,19,154,DT_154001_24AA009400,1인 가구의 특성,가족실태조사,성평등가족부,2023,2023,MT_ZTITLE,B_1_002_009,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_154001_24AA009400&conn_path=I2
+1인가구,20,405,DT_405001_H175,가구 내 미디어 이용 제한 강제 정도,한국미디어패널조사,정보통신정책연구원,2021,2025,MT_ZTITLE,N1_34_001_001_004_001,https://kosis.kr/statHtml/statHtml.do?orgId=405&tblId=DT_405001_H175&conn_path=I2
+1인 가구,1,101,DT_1ES4I001S,1인 취업가구 현황,지역별고용조사,국가데이터처,2015,2025,MT_ZTITLE,B19_B19_EQ3,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1ES4I001S&conn_path=I2
+1인 가구,2,101,DT_1PL1509,"성, 연령 및 거처의 종류별 1인가구 - 시군구",인구총조사,국가데이터처,2015,2024,MT_ZTITLE,A12_2015_1_10_30,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PL1509&conn_path=I2
+1인 가구,3,101,DT_1ES4I007S,시도별 1인 취업가구,지역별고용조사,국가데이터처,2015,2025,MT_ZTITLE,B19_B19_EQ3,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1ES4I007S&conn_path=I2
+1인 가구,4,101,DT_1PL1501,성 및 거처의 종류별 1인가구 - 시군구,인구총조사,국가데이터처,2015,2024,MT_ZTITLE,A12_2015_1_10_30,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PL1501&conn_path=I2
+1인 가구,5,101,DT_1PL1502,성 및 연령별 1인가구 - 시군구,인구총조사,국가데이터처,2015,2024,MT_ZTITLE,A12_2015_1_10_30,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PL1502&conn_path=I2
+1인 가구,6,101,DT_1L9U127,"가구원수별 가구당 월평균 가계수지 (도시,1인이상)",가계동향조사,국가데이터처,2019,2026,MT_ZTITLE,E_2_002_001_002,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1L9U127&conn_path=I2
+1인 가구,7,101,DT_1L9U140,"가구원수별 가구당 월평균 가계수지 (도시,1인이상,실질)",가계동향조사,국가데이터처,2019,2026,MT_ZTITLE,E_2_002_001_004,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1L9U140&conn_path=I2
+1인 가구,8,101,DT_1L9U105,"가구원수별 가구당 월평균 가계수지 (전국,1인이상)",가계동향조사,국가데이터처,2019,2026,MT_ZTITLE,E_2_002_001_001,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1L9U105&conn_path=I2
+1인 가구,9,101,DT_1L9U119,"가구원수별 가구당 월평균 가계수지 (전국,1인이상,실질)",가계동향조사,국가데이터처,2019,2026,MT_ZTITLE,E_2_002_001_003,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1L9U119&conn_path=I2
+1인 가구,10,101,DT_1L9U134,"미혼자녀수별 가구당 월평균 가계수지 (도시,1인이상)",가계동향조사,국가데이터처,2019,2026,MT_ZTITLE,E_2_002_001_002,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1L9U134&conn_path=I2
+1인 가구,11,101,DT_1L9U112,"미혼자녀수별 가구당 월평균 가계수지 (전국,1인이상)",가계동향조사,국가데이터처,2019,2026,MT_ZTITLE,E_2_002_001_001,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1L9U112&conn_path=I2
+1인 가구,12,101,DT_1L9U027,"가구원수별 가구당 월평균 가계수지 (도시,1인이상)",가계동향조사,국가데이터처,2019,2024,MT_ZTITLE,G_A_10_003_002,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1L9U027&conn_path=I2
+1인 가구,13,101,DT_1L9U040,"가구원수별 가구당 월평균 가계수지 (도시,1인이상,실질)",가계동향조사,국가데이터처,2019,2024,MT_ZTITLE,G_A_10_003_004,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1L9U040&conn_path=I2
+1인 가구,14,101,DT_1L9U005,"가구원수별 가구당 월평균 가계수지 (전국,1인이상)",가계동향조사,국가데이터처,2019,2024,MT_ZTITLE,G_A_10_003_001,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1L9U005&conn_path=I2
+1인 가구,15,101,DT_1L9U019,"가구원수별 가구당 월평균 가계수지 (전국,1인이상,실질)",가계동향조사,국가데이터처,2019,2024,MT_ZTITLE,G_A_10_003_003,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1L9U019&conn_path=I2
+1인 가구,16,101,DT_1L9U034,"미혼자녀수별 가구당 월평균 가계수지 (도시,1인이상)",가계동향조사,국가데이터처,2019,2024,MT_ZTITLE,G_A_10_003_002,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1L9U034&conn_path=I2
+1인 가구,17,101,DT_1L9U012,"미혼자녀수별 가구당 월평균 가계수지 (전국,1인이상)",가계동향조사,국가데이터처,2019,2024,MT_ZTITLE,G_A_10_003_001,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1L9U012&conn_path=I2
+1인 가구,18,154,DT_154001_24AA011400,1인 가구 지원 정책,가족실태조사,성평등가족부,2023,2023,MT_ZTITLE,B_1_002_009,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_154001_24AA011400&conn_path=I2
+1인 가구,19,101,DT_1L9U137,"가구구성별 가구당 월평균 가계수지 (도시,1인이상)",가계동향조사,국가데이터처,2019,2026,MT_ZTITLE,E_2_002_001_002,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1L9U137&conn_path=I2
+1인 가구,20,101,DT_1L9U115,"가구구성별 가구당 월평균 가계수지 (전국,1인이상)",가계동향조사,국가데이터처,2019,2026,MT_ZTITLE,E_2_002_001_001,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1L9U115&conn_path=I2
+성 및 연령별 1인가구,1,101,DT_1PL1502,성 및 연령별 1인가구 - 시군구,인구총조사,국가데이터처,2015,2024,MT_ZTITLE,A12_2015_1_10_30,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PL1502&conn_path=I2
+성 및 연령별 1인가구,2,101,DT_1PL1509,"성, 연령 및 거처의 종류별 1인가구 - 시군구",인구총조사,국가데이터처,2015,2024,MT_ZTITLE,A12_2015_1_10_30,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PL1509&conn_path=I2
+성 및 연령별 1인가구,3,101,DT_1PL2011,"현 거주지, 성, 연령 및 1년 전 거주지별 1인가구(1세이상) - 시군구",인구총조사,국가데이터처,2020,2024,MT_ZTITLE,A12_2015_1_10_30,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PL2011&conn_path=I2
+성 및 연령별 1인가구,4,101,DT_1JC1517,"가구주의 성, 연령 및 세대구성별 가구(일반가구) - 시군구",인구총조사,국가데이터처,2015,2024,MT_ZTITLE,A12_2015_1_10_10,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1JC1517&conn_path=I2
+성 및 연령별 1인가구,5,101,DT_1JC1514,"가구주의 성, 연령 및 거처의 종류별 가구(일반가구) - 시군구",인구총조사,국가데이터처,2015,2024,MT_ZTITLE,A12_2015_1_10_10,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1JC1514&conn_path=I2
+성 및 연령별 1인가구,6,101,DT_1B26009,전출지/전입지(시도)/성/연령(5세)별 1인 이동건수,국내인구이동통계,국가데이터처,2001,2026,MT_ZTITLE,A34_2,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B26009&conn_path=I2
+성 및 연령별 1인가구,7,101,DT_1JC1511,가구주의 연령 및 가구원수별 가구(일반가구) - 시군구,인구총조사,국가데이터처,2015,2024,MT_ZTITLE,A12_2015_1_10_10,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1JC1511&conn_path=I2
+성 및 연령별 1인가구,8,101,DT_1JC1501,"가구형태별 가구 및 가구원 - 읍면동(연도 끝자리 0, 5), 시군구(그 외 연도)",인구총조사,국가데이터처,2015,2024,MT_ZTITLE,A12_2015_1_10_10,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1JC1501&conn_path=I2
+성 및 연령별 1인가구,9,101,DT_1JC1516,세대구성 및 가구원수별 가구(일반가구) - 시군구,인구총조사,국가데이터처,2015,2024,MT_ZTITLE,A12_2015_1_10_10,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1JC1516&conn_path=I2
+성 및 연령별 1인가구,10,101,DT_1JC1515,세대구성별 가구 및 가구원(일반가구) - 시군구,인구총조사,국가데이터처,2015,2024,MT_ZTITLE,A12_2015_1_10_10,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1JC1515&conn_path=I2
+성 및 연령별 1인가구,11,405,DT_405001_H187,가구 내 미디어 이용시 염려 내용,한국미디어패널조사,정보통신정책연구원,2021,2025,MT_ZTITLE,N1_34_001_001_004_001,https://kosis.kr/statHtml/statHtml.do?orgId=405&tblId=DT_405001_H187&conn_path=I2
+성 및 연령별 1인가구,12,101,DT_1JC1502,가구원수별 가구 - 읍면동,인구총조사,국가데이터처,2015,2024,MT_ZTITLE,A12_2015_1_10_10,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1JC1502&conn_path=I2
+성 및 연령별 1인가구,13,101,DT_1JU1502,"거처의 종류별 거처, 가구, 가구원 - 시군구",주택총조사,국가데이터처,2015,2024,MT_ZTITLE,H21_2015_1_10,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1JU1502&conn_path=I2
+성 및 연령별 1인가구,14,110,DT_11029N_225,행정서비스 이용 시 이용 방법_ 사망신고 및 상속,전자정부서비스이용실태조사,행정안전부,2016,2024,MT_ZTITLE,110_11029_N004,https://kosis.kr/statHtml/statHtml.do?orgId=110&tblId=DT_11029N_225&conn_path=I2
+성 및 연령별 1인가구,15,101,DT_1IN1502,"인구, 가구 및 주택 읍면동(연도 끝자리 0, 5), 시군구(그 외 연도)",인구총조사,국가데이터처,2015,2024,MT_ZTITLE,A11_2015_1_10_10,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1IN1502&conn_path=I2
+성 및 연령별 1인가구,16,101,DT_1IN2010,"성, 세대구성 및 연령별 고령자 - 시군구",인구총조사,국가데이터처,2020,2024,MT_ZTITLE,A11_2015_1_10_001,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1IN2010&conn_path=I2
+성 및 연령별 1인가구,17,101,DT_1JC1520,세대구성 및 거처의 종류별 가구(일반가구) - 시군구,인구총조사,국가데이터처,2015,2024,MT_ZTITLE,A12_2015_1_10_10,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1JC1520&conn_path=I2
+성 및 연령별 1인가구,18,101,DT_1IN1509,"성, 연령 및 세대구성별 인구 - 시군구",인구총조사,국가데이터처,2015,2024,MT_ZTITLE,A11_2015_1_10_10,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1IN1509&conn_path=I2
+성 및 연령별 1인가구,19,114,DT_114036_2024_C016,성평등 교육 경험 및 향후 참여 의향,여성농업인실태조사,농림축산식품부,2023,2023,MT_ZTITLE,K1_30_001_003,https://kosis.kr/statHtml/statHtml.do?orgId=114&tblId=DT_114036_2024_C016&conn_path=I2
+성 및 연령별 1인가구,20,110,DT_11029N_180,행정서비스 이용 시 향후 희망 이용 방법_ 소득세 신고,전자정부서비스이용실태조사,행정안전부,2014,2024,MT_ZTITLE,110_11029_N004,https://kosis.kr/statHtml/statHtml.do?orgId=110&tblId=DT_11029N_180&conn_path=I2
+사회적 관계망,1,438,DT_438001_AC0161,사회적 관계망,장애인삶패널조사,한국장애인개발원,2022,2024,MT_ZTITLE,D3_003_001_003,https://kosis.kr/statHtml/statHtml.do?orgId=438&tblId=DT_438001_AC0161&conn_path=I2
+사회적 관계망,2,101,DT_1SSSP041R,사회적 관계망 (13세 이상 인구),사회조사,국가데이터처,2009,2025,MT_ZTITLE,D21D_2009,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1SSSP041R&conn_path=I2
+사회적 관계망,3,101,DT_1SSSP045R,사회적 관계망-일 평균 교류현황 (13세 이상 인구),사회조사,국가데이터처,2019,2025,MT_ZTITLE,D21D_2009,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1SSSP045R&conn_path=I2
+사회적 관계망,4,129,DT_129001_B010,인권침해·차별이 발생하기 쉬운 상황,인권의식실태조사,국가인권위원회,2019,2025,MT_ZTITLE,B_2_002,https://kosis.kr/statHtml/statHtml.do?orgId=129&tblId=DT_129001_B010&conn_path=I2
+사회적 관계망,5,129,DT_129001_C005,혐오표현을 접하게 된 경로,인권의식실태조사,국가인권위원회,2019,2025,MT_ZTITLE,B_2_003,https://kosis.kr/statHtml/statHtml.do?orgId=129&tblId=DT_129001_C005&conn_path=I2
+사회적 관계망,6,101,DT_2019_112_1TM3079X,ICT 기기 사용 평균 시간,생활시간조사,국가데이터처,2019,2024,MT_ZTITLE,B_9_001_010,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_2019_112_1TM3079X&conn_path=I2
+사회적 관계망,7,101,DT_2019_113_1TM3080X,ICT 기기 사용자 구성비,생활시간조사,국가데이터처,2019,2024,MT_ZTITLE,B_9_001_010,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_2019_113_1TM3080X&conn_path=I2
+사회적 관계망,8,101,DT_2024_001_1TM0002X,고령자 돌봄필요 여부별 평균시간(65세이상),생활시간조사,국가데이터처,2024,2024,MT_ZTITLE,B_9_001_001,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_2024_001_1TM0002X&conn_path=I2
+사회적 관계망,9,101,DT_2024_002_1TM0002X,고령자 돌봄필요 여부별 행위자비율(65세이상),생활시간조사,국가데이터처,2024,2024,MT_ZTITLE,B_9_001_002,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_2024_002_1TM0002X&conn_path=I2
+사회적 관계망,10,101,DT_2024_003_1TM0002X,고령자 돌봄필요 여부별 행위자평균시간(65세이상),생활시간조사,국가데이터처,2024,2024,MT_ZTITLE,B_9_001_003,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_2024_003_1TM0002X&conn_path=I2
+사회적 관계망,11,101,DT_2024_001_1TM0003X,고령자 취업여부별 평균시간(65세이상),생활시간조사,국가데이터처,2024,2024,MT_ZTITLE,B_9_001_001,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_2024_001_1TM0003X&conn_path=I2
+사회적 관계망,12,101,DT_2024_002_1TM0003X,고령자 취업여부별 행위자비율(65세이상),생활시간조사,국가데이터처,2024,2024,MT_ZTITLE,B_9_001_002,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_2024_002_1TM0003X&conn_path=I2
+사회적 관계망,13,101,DT_2024_003_1TM0003X,고령자 취업여부별 행위자평균시간(65세이상),생활시간조사,국가데이터처,2024,2024,MT_ZTITLE,B_9_001_003,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_2024_003_1TM0003X&conn_path=I2
+사회적 관계망,14,101,DT_1TS202025,농가·비농가별 평균시간,생활시간조사,국가데이터처,1999,2024,MT_ZTITLE,B_9_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1TS202025&conn_path=I2
+사회적 관계망,15,101,DT_1TS202026,농가·비농가별 행위자비율,생활시간조사,국가데이터처,1999,2024,MT_ZTITLE,B_9_002_002,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1TS202026&conn_path=I2
+사회적 관계망,16,101,DT_1TS202027,농가·비농가별 행위자평균시간,생활시간조사,국가데이터처,1999,2024,MT_ZTITLE,B_9_002_003,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1TS202027&conn_path=I2
+사회적 관계망,17,101,DT_2019_049_1TM1091X,"농림어가, 비농림어가별 평균시간",생활시간조사,국가데이터처,2019,2024,MT_ZTITLE,B_9_001_001,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_2019_049_1TM1091X&conn_path=I2
+사회적 관계망,18,101,DT_2019_050_1TM1092X,"농림어가, 비농림어가별 행위자비율",생활시간조사,국가데이터처,2019,2024,MT_ZTITLE,B_9_001_002,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_2019_050_1TM1092X&conn_path=I2
+사회적 관계망,19,101,DT_2019_051_1TM1093X,"농림어가, 비농림어가별 행위자평균시간",생활시간조사,국가데이터처,2019,2024,MT_ZTITLE,B_9_001_003,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_2019_051_1TM1093X&conn_path=I2
+사회적 관계망,20,101,DT_2019_064_1TM1C81X,돌봄·비돌봄 가구별 평균시간,생활시간조사,국가데이터처,2019,2024,MT_ZTITLE,B_9_001_001,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_2019_064_1TM1C81X&conn_path=I2
+사회조사 사회적 관계망,1,101,DT_1SSCV032R,"사회적 관계망 변화(가족 외 친인척, 13세 이상 인구)",사회조사,국가데이터처,2021,2021,MT_ZTITLE,B_7_D220,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1SSCV032R&conn_path=I2
+사회조사 사회적 관계망,2,101,DT_1SSCV031R,"사회적 관계망 변화(가족, 13세 이상 인구)",사회조사,국가데이터처,2021,2021,MT_ZTITLE,B_7_D220,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1SSCV031R&conn_path=I2
+사회조사 사회적 관계망,3,101,DT_1SSCV038R,"사회적 관계망 변화(그 밖의 알고 지내는 사람, 13세 이상 인구)",사회조사,국가데이터처,2021,2021,MT_ZTITLE,B_7_D220,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1SSCV038R&conn_path=I2
+사회조사 사회적 관계망,4,101,DT_1SSCV035R,"사회적 관계망 변화(동료(직장이나 학교), 13세 이상 인구)",사회조사,국가데이터처,2021,2021,MT_ZTITLE,B_7_D220,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1SSCV035R&conn_path=I2
+사회조사 사회적 관계망,5,101,DT_1SSCV033R,"사회적 관계망 변화(이웃, 13세 이상 인구)",사회조사,국가데이터처,2021,2021,MT_ZTITLE,B_7_D220,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1SSCV033R&conn_path=I2
+사회조사 사회적 관계망,6,101,DT_1SSCV034R,"사회적 관계망 변화(절친한 친구, 13세 이상 인구)",사회조사,국가데이터처,2021,2021,MT_ZTITLE,B_7_D220,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1SSCV034R&conn_path=I2
+사회조사 사회적 관계망,7,101,DT_1SSCV037R,"사회적 관계망 변화(종교 단체 구성원, 13세 이상 인구)",사회조사,국가데이터처,2021,2021,MT_ZTITLE,B_7_D220,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1SSCV037R&conn_path=I2
+사회조사 사회적 관계망,8,101,DT_1SSCV036R,"사회적 관계망 변화(취미활동 단체 회원, 13세 이상 인구)",사회조사,국가데이터처,2021,2021,MT_ZTITLE,B_7_D220,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1SSCV036R&conn_path=I2
+사회조사 사회적 관계망,9,437,DT_43701N_190,도움 받을 수 있는 주변 인물 유무 및 인원 수,북한이탈주민실태조사,북한이탈주민지원재단(남북하나재단),2017,2025,MT_ZTITLE,D2_437001_007,https://kosis.kr/statHtml/statHtml.do?orgId=437&tblId=DT_43701N_190&conn_path=I2
+사회조사 사회적 관계망,10,437,DT_43701N_189,인간관계 만족도,북한이탈주민실태조사,북한이탈주민지원재단(남북하나재단),2019,2025,MT_ZTITLE,D2_437001_007,https://kosis.kr/statHtml/statHtml.do?orgId=437&tblId=DT_43701N_189&conn_path=I2
+사회조사 사회적 관계망,11,437,DT_43701N_194,차별/무시당한 경험 및 이유,북한이탈주민실태조사,북한이탈주민지원재단(남북하나재단),2017,2025,MT_ZTITLE,D2_437001_007,https://kosis.kr/statHtml/statHtml.do?orgId=437&tblId=DT_43701N_194&conn_path=I2
+사회조사 사회적 관계망,12,437,DT_43701N_193,어려운 상황에서 가장 의지되는 사람,북한이탈주민실태조사,북한이탈주민지원재단(남북하나재단),2017,2019,MT_ZTITLE,D2_437001_007,https://kosis.kr/statHtml/statHtml.do?orgId=437&tblId=DT_43701N_193&conn_path=I2
+사회조사 사회적 관계망,13,129,DT_129001_B010,인권침해·차별이 발생하기 쉬운 상황,인권의식실태조사,국가인권위원회,2019,2025,MT_ZTITLE,B_2_002,https://kosis.kr/statHtml/statHtml.do?orgId=129&tblId=DT_129001_B010&conn_path=I2
+사회조사 사회적 관계망,14,154,DT_MOGE_3000400129_2025_1,중앙행정기관 위원회별 여성참여 현황,중앙행정기관및지방자치단체소속위원회여성참여현황,성평등가족부,2025,2025,MT_ZTITLE,B_17,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_MOGE_3000400129_2025_1&conn_path=I2
+사회조사 사회적 관계망,15,154,DT_MOGE_3000400129_2025_2,중앙행정기관 위원회별 여성참여 현황,중앙행정기관및지방자치단체소속위원회여성참여현황,성평등가족부,2025,2025,MT_ZTITLE,B_17,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_MOGE_3000400129_2025_2&conn_path=I2
+사회조사 사회적 관계망,16,101,INH_DT_1K52F05_32,강원도·산업·대표자성별 사업체수,전국사업체조사,국가데이터처,2020,2024,MT_ZTITLE,211_21103_A_11,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_DT_1K52F05_32&conn_path=I2
+사회조사 사회적 관계망,17,101,INH_DT_1K52F07_32,강원도·산업·대표자연령대별 사업체수,전국사업체조사,국가데이터처,2020,2024,MT_ZTITLE,211_21103_A_11,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_DT_1K52F07_32&conn_path=I2
+사회조사 사회적 관계망,18,101,INH_DT_1K52F01_32,"강원도·산업·사업체구분별 사업체수, 종사자수",전국사업체조사,국가데이터처,2020,2024,MT_ZTITLE,211_21103_A_11,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_DT_1K52F01_32&conn_path=I2
+사회조사 사회적 관계망,19,101,INH_DT_1K52F02_32,"강원도·산업·조직형태별 사업체수, 종사자수",전국사업체조사,국가데이터처,2020,2024,MT_ZTITLE,211_21103_A_11,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_DT_1K52F02_32&conn_path=I2
+사회조사 사회적 관계망,20,101,INH_DT_1K52F04_32,강원도·산업·종사상지위별 종사자수,전국사업체조사,국가데이터처,2020,2024,MT_ZTITLE,211_21103_A_11,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_DT_1K52F04_32&conn_path=I2
+고립,1,402,DT_ES2017_065,다른 사람들로부터 고립되어 있다고 느낀 기간,아동청소년인권실태조사,한국청소년정책연구원,2023,2025,MT_ZTITLE,402_siew6548_2017_50_20,https://kosis.kr/statHtml/statHtml.do?orgId=402&tblId=DT_ES2017_065&conn_path=I2
+고립,2,154,DT_154022_25AA503004,고립감_나는 다른 사람들로부터 고립되어 있다고 느낀다,위기청소년지원기관이용자생활실태조사,성평등가족부,2024,2024,MT_ZTITLE,B_001,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_154022_25AA503004&conn_path=I2
+고립,3,154,DT_154022_25AA503003,고립감_나는 외로움을 느낀다,위기청소년지원기관이용자생활실태조사,성평등가족부,2024,2024,MT_ZTITLE,B_001,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_154022_25AA503003&conn_path=I2
+고립,4,154,DT_154022_25AA503001,고립감_나는 이야기할 사람이 부족하다고 느낀다,위기청소년지원기관이용자생활실태조사,성평등가족부,2024,2024,MT_ZTITLE,B_001,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_154022_25AA503001&conn_path=I2
+고립,5,154,DT_154022_25AA503002,고립감_나는 혼자라고 느낀다,위기청소년지원기관이용자생활실태조사,성평등가족부,2024,2024,MT_ZTITLE,B_001,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_154022_25AA503002&conn_path=I2
+고립,6,117,DT_117074_2023_A077,은둔고립(12-17세),아동종합실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11774_001_004,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117074_2023_A077&conn_path=I2
+고립,7,464,DT_464002_A076,2025년 간이조사 외로움과 사회적 고립: 노인 일자리 비참여자,한국어르신의일과삶패널조사,한국노인인력개발원,2025,2025,MT_ZTITLE,G_33_011,https://kosis.kr/statHtml/statHtml.do?orgId=464&tblId=DT_464002_A076&conn_path=I2
+고립,8,464,DT_464002_A075,2025년 간이조사 외로움과 사회적 고립: 노인 일자리 참여자,한국어르신의일과삶패널조사,한국노인인력개발원,2025,2025,MT_ZTITLE,G_33_011,https://kosis.kr/statHtml/statHtml.do?orgId=464&tblId=DT_464002_A075&conn_path=I2
+고립,9,417,DT_417001_0035,사회적 고립감,사회통합실태조사,한국행정연구원,2013,2025,MT_ZTITLE,D2_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=417&tblId=DT_417001_0035&conn_path=I2
+고립,10,464,DT_464002_A049,외로움과 사회적 고립: 노인 일자리 비참여자,한국어르신의일과삶패널조사,한국노인인력개발원,2024,2024,MT_ZTITLE,G_33_008,https://kosis.kr/statHtml/statHtml.do?orgId=464&tblId=DT_464002_A049&conn_path=I2
+고립,11,464,DT_464002_A048,외로움과 사회적 고립: 노인 일자리 참여자,한국어르신의일과삶패널조사,한국노인인력개발원,2024,2024,MT_ZTITLE,G_33_008,https://kosis.kr/statHtml/statHtml.do?orgId=464&tblId=DT_464002_A048&conn_path=I2
+고립,12,110,DT_110034_A004,재난·사고 대비 준비사항,재난·사고피해조사,행정안전부,2025,2025,MT_ZTITLE,C_004,https://kosis.kr/statHtml/statHtml.do?orgId=110&tblId=DT_110034_A004&conn_path=I2
+고립,13,116,DT_MLTM_6980,외롭고 주변으로부터의 고립감에 대한 어려움 정도,주택이외의거처주거실태조사,국토교통부,2022,2022,MT_ZTITLE,I1_14_001,https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_6980&conn_path=I2
+고립,14,402,DT_ES2017_064,외로움,아동청소년인권실태조사,한국청소년정책연구원,2023,2025,MT_ZTITLE,402_siew6548_2017_50_20,https://kosis.kr/statHtml/statHtml.do?orgId=402&tblId=DT_ES2017_064&conn_path=I2
+고립,15,114,DT_114055_B059,현재 거주 지역 계속 거주/이주 여부 및 시기,귀농귀촌실태조사,농림축산식품부,2019,2025,MT_ZTITLE,F1_001_002_008,https://kosis.kr/statHtml/statHtml.do?orgId=114&tblId=DT_114055_B059&conn_path=I2
+고립,16,113,DT_113_STBL_1032303,주관적 건강상태_사회적 관계,국민여가활동조사,문화체육관광부,2024,2024,MT_ZTITLE,113_11314_003,https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1032303&conn_path=I2
+고립,17,154,DT_154011_23AA033200,지난 1년간 배우자/파트너의 폭력으로 인한 정신적 고통,가정폭력실태조사,성평등가족부,2022,2022,MT_ZTITLE,C_3_E001,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_154011_23AA033200&conn_path=I2
+고립,18,154,DT_154011_23AA032400,지난 1년간 배우자/파트너의 통제로 인한 부정적 영향 여부 및 내용(복수응답)(남성),가정폭력실태조사,성평등가족부,2022,2022,MT_ZTITLE,C_3_E001,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_154011_23AA032400&conn_path=I2
+고립,19,154,DT_154011_23AA031500,지난 1년간 배우자/파트너의 통제로 인한 부정적 영향 여부 및 내용(복수응답)(여성),가정폭력실태조사,성평등가족부,2022,2022,MT_ZTITLE,C_3_E001,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_154011_23AA031500&conn_path=I2
+고립,20,129,DT_129001_D015,코로나19로 인한 어려움,인권의식실태조사,국가인권위원회,2022,2022,MT_ZTITLE,B_2_003,https://kosis.kr/statHtml/statHtml.do?orgId=129&tblId=DT_129001_D015&conn_path=I2
+외로움,1,402,DT_ES2017_064,외로움,아동청소년인권실태조사,한국청소년정책연구원,2023,2025,MT_ZTITLE,402_siew6548_2017_50_20,https://kosis.kr/statHtml/statHtml.do?orgId=402&tblId=DT_ES2017_064&conn_path=I2
+외로움,2,464,DT_464002_A049,외로움과 사회적 고립: 노인 일자리 비참여자,한국어르신의일과삶패널조사,한국노인인력개발원,2024,2024,MT_ZTITLE,G_33_008,https://kosis.kr/statHtml/statHtml.do?orgId=464&tblId=DT_464002_A049&conn_path=I2
+외로움,3,464,DT_464002_A048,외로움과 사회적 고립: 노인 일자리 참여자,한국어르신의일과삶패널조사,한국노인인력개발원,2024,2024,MT_ZTITLE,G_33_008,https://kosis.kr/statHtml/statHtml.do?orgId=464&tblId=DT_464002_A048&conn_path=I2
+외로움,4,101,DT_1SSSP050R,외로움(13세 이상 인구),사회조사,국가데이터처,2025,2025,MT_ZTITLE,D21D_2009,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1SSSP050R&conn_path=I2
+외로움,5,154,DT_154022_25AA503003,고립감_나는 외로움을 느낀다,위기청소년지원기관이용자생활실태조사,성평등가족부,2024,2024,MT_ZTITLE,B_001,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_154022_25AA503003&conn_path=I2
+외로움,6,117,DT_117094N_015N,외로움은 나에게 자살하는 이유가 될 수 있다,자살실태조사,보건복지부,2023,2023,MT_ZTITLE,B_15_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117094N_015N&conn_path=I2
+외로움,7,464,DT_464002_A076,2025년 간이조사 외로움과 사회적 고립: 노인 일자리 비참여자,한국어르신의일과삶패널조사,한국노인인력개발원,2025,2025,MT_ZTITLE,G_33_011,https://kosis.kr/statHtml/statHtml.do?orgId=464&tblId=DT_464002_A076&conn_path=I2
+외로움,8,464,DT_464002_A075,2025년 간이조사 외로움과 사회적 고립: 노인 일자리 참여자,한국어르신의일과삶패널조사,한국노인인력개발원,2025,2025,MT_ZTITLE,G_33_011,https://kosis.kr/statHtml/statHtml.do?orgId=464&tblId=DT_464002_A075&conn_path=I2
+외로움,9,117,DT_117094N_026N,사람들을 자살로 내모는 것은 주로 외로움이다,자살실태조사,보건복지부,2023,2023,MT_ZTITLE,B_15_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117094N_026N&conn_path=I2
+외로움,10,117,DT_11794N_015,외로움은 나에게 자살하는 이유가 될 수 있다,자살실태조사,보건복지부,2013,2018,MT_ZTITLE,117_11794_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_11794N_015&conn_path=I2
+외로움,11,383,DT_383003_P174,60세 이후의 노후생활에서 염려되는 것(1순위),장애인고용패널조사,한국장애인고용공단,2016,2023,MT_ZTITLE,383_38303_C16_M10,https://kosis.kr/statHtml/statHtml.do?orgId=383&tblId=DT_383003_P174&conn_path=I2
+외로움,12,438,DT_438001_AF015,"배우자가 없는 사람의 이혼/별거 이유 및 힘든 점, 재혼 의향",장애인삶패널조사,한국장애인개발원,2018,2024,MT_ZTITLE,D3_003_001_006,https://kosis.kr/statHtml/statHtml.do?orgId=438&tblId=DT_438001_AF015&conn_path=I2
+외로움,13,438,DT_438001_CB008,우울수준,장애인삶패널조사,한국장애인개발원,2018,2024,MT_ZTITLE,D3_003_003_002,https://kosis.kr/statHtml/statHtml.do?orgId=438&tblId=DT_438001_CB008&conn_path=I2
+외로움,14,101,DT_1SSHE130R,자살 충동 및 자살 충동 이유 (13세 이상 인구),사회조사,국가데이터처,2008,2024,MT_ZTITLE,D215_2008,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1SSHE130R&conn_path=I2
+외로움,15,101,DT_2FP007R,"한국생활에서 어려운 사항(1순위, 이민자)",이민자체류실태및고용조사,국가데이터처,2018,2024,MT_ZTITLE,B1_z02_101_103,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_2FP007R&conn_path=I2
+외로움,16,101,DT_2FP008R,"한국생활에서 어려운 사항(복수응답, 이민자)",이민자체류실태및고용조사,국가데이터처,2018,2024,MT_ZTITLE,B1_z02_101_103,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_2FP008R&conn_path=I2
+외로움,17,114,DT_114055_B059,현재 거주 지역 계속 거주/이주 여부 및 시기,귀농귀촌실태조사,농림축산식품부,2019,2025,MT_ZTITLE,F1_001_002_008,https://kosis.kr/statHtml/statHtml.do?orgId=114&tblId=DT_114055_B059&conn_path=I2
+외로움,18,154,DT_154022_22AA204500,가정 밖 생활 중 어렵고 힘들었던 점,위기청소년지원기관이용자생활실태조사,성평등가족부,2021,2024,MT_ZTITLE,B_001,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_154022_22AA204500&conn_path=I2
+외로움,19,109,DT_109006_I020,마음건강 어려움 여부 및 유형,국가보훈대상자생활실태조사,국가보훈부,2021,2024,MT_ZTITLE,D3_002_009,https://kosis.kr/statHtml/statHtml.do?orgId=109&tblId=DT_109006_I020&conn_path=I2
+외로움,20,438,DT_438001_AF014,"배우자가 있는 사람의 이혼, 별거, 사별 경험 및 이유, 현재 가장 힘든 점",장애인삶패널조사,한국장애인개발원,2018,2024,MT_ZTITLE,D3_003_001_006,https://kosis.kr/statHtml/statHtml.do?orgId=438&tblId=DT_438001_AF014&conn_path=I2
+자살률,1,117,DT_117100_A017_2,정신질환자의 퇴원 후 1년 내 자살률,보건의료질통계,보건복지부,2010,2023,MT_ZTITLE,F_26,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117100_A017_2&conn_path=I2
+자살률,2,117,DT_117100_A017_3,정신질환자의 퇴원 후 30일 내 자살률,보건의료질통계,보건복지부,2010,2023,MT_ZTITLE,F_26,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117100_A017_3&conn_path=I2
+자살률,3,117,DT_117094N_016N,거의 모든 사람들은 자살에 대하여 한 두 번 생각을 한 적이 있다,자살실태조사,보건복지부,2023,2023,MT_ZTITLE,B_15_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117094N_016N&conn_path=I2
+자살률,4,117,DT_117094N_604N,과거 자살(자해) 시도 경험,자살실태조사,보건복지부,2023,2023,MT_ZTITLE,B_15_002_002,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117094N_604N&conn_path=I2
+자살률,5,117,DT_117094N_018N,나는 실제로 자살할 생각이 없더라도 자살할 것이라고 말할 수 있다,자살실태조사,보건복지부,2023,2023,MT_ZTITLE,B_15_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117094N_018N&conn_path=I2
+자살률,6,117,DT_117094N_033N,나는 심한 불치병으로 괴로워하는 사람들이 자살하는 것을 이해할 수 있다,자살실태조사,보건복지부,2023,2023,MT_ZTITLE,B_15_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117094N_033N&conn_path=I2
+자살률,7,117,DT_117094N_031N,나는 자살위기에 처한 사람과 접촉을 해서 도와줄 준비가 되어 있다,자살실태조사,보건복지부,2023,2023,MT_ZTITLE,B_15_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117094N_031N&conn_path=I2
+자살률,8,117,DT_117094N_032N,누구든지 자살할 수 있다,자살실태조사,보건복지부,2023,2023,MT_ZTITLE,B_15_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117094N_032N&conn_path=I2
+자살률,9,117,DT_117094N_029N,누군가 자살에 대하여 생각하고 있음에도 불구하고 가족들은 대개 무슨 일이 진행되고 있는지를 알지 못한다,자살실태조사,보건복지부,2023,2023,MT_ZTITLE,B_15_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117094N_029N&conn_path=I2
+자살률,10,117,DT_117094N_025N,누군가 자살을 원한다면 그 사람의 일이므로 우리가 간섭하지 말아야 한다,자살실태조사,보건복지부,2023,2023,MT_ZTITLE,B_15_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117094N_025N&conn_path=I2
+자살률,11,117,DT_117094N_007N,누군가 자살하겠다는 결심을 한다면 아무도 그 사람을 막을 수 없다,자살실태조사,보건복지부,2023,2023,MT_ZTITLE,B_15_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117094N_007N&conn_path=I2
+자살률,12,117,DT_117094N_011N,누군가 자살한다면 오랜 시간 동안 심사숙고한 결과이다,자살실태조사,보건복지부,2023,2023,MT_ZTITLE,B_15_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117094N_011N&conn_path=I2
+자살률,13,117,DT_117094N_008N,누군가에게 복수하거나 처벌하려고 자살시도를 하는 경우가 많다,자살실태조사,보건복지부,2023,2023,MT_ZTITLE,B_15_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117094N_008N&conn_path=I2
+자살률,14,117,DT_117094N_010N,누군가의 자살을 막기 위해 애쓰는 것은 인간의 의무다,자살실태조사,보건복지부,2023,2023,MT_ZTITLE,B_15_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117094N_010N&conn_path=I2
+자살률,15,117,DT_117094N_024N,대부분의 사람들은 자살에 관한 이야기를 꺼린다,자살실태조사,보건복지부,2023,2023,MT_ZTITLE,B_15_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117094N_024N&conn_path=I2
+자살률,16,117,DT_117094N_005N,대부분의 자살 시도는 충동적인 행동이다,자살실태조사,보건복지부,2023,2023,MT_ZTITLE,B_15_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117094N_005N&conn_path=I2
+자살률,17,117,DT_117094N_036N,대부분의 자살시도는 친한 사람과의 갈등 때문이다,자살실태조사,보건복지부,2023,2023,MT_ZTITLE,B_15_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117094N_036N&conn_path=I2
+자살률,18,117,DT_117094N_021N,만약 내가 심한 불치병에 걸린다면 자살을 고려할 것이다,자살실태조사,보건복지부,2023,2023,MT_ZTITLE,B_15_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117094N_021N&conn_path=I2
+자살률,19,117,DT_117094N_037N,만약 내가 심한 불치병으로 괴로워진다면 자살을 할 수 있게 도움을 얻고 싶을 것이다,자살실태조사,보건복지부,2023,2023,MT_ZTITLE,B_15_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117094N_037N&conn_path=I2
+자살률,20,117,DT_117094N_012N,만약 당신이 자살에 대하여 질문한다면 누군가의 마음에 자살사고를 유발할 위험이 있다,자살실태조사,보건복지부,2023,2023,MT_ZTITLE,B_15_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117094N_012N&conn_path=I2
+고의적 자해,1,101,DT_1B34E18,성/연령별 특정 사망원인(고의적 자해) 사망자 수(분기별),사망원인통계,국가데이터처,2022,2026,MT_ZTITLE,F_27,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E18&conn_path=I2
+고의적 자해,2,101,DT_1B34E17,성/월별 특정 사망원인(고의적 자해) 사망자 수,사망원인통계,국가데이터처,2019,2026,MT_ZTITLE,F_27,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E17&conn_path=I2
+고의적 자해,3,101,DT_1B34E19,시도별 특정 사망원인(고의적 자해) 사망자 수(분기별),사망원인통계,국가데이터처,2022,2026,MT_ZTITLE,F_27,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E19&conn_path=I2
+고의적 자해,4,101,DT_1B34E03,사망원인(104항목)/성/혼인상태별(15세이상) 사망자수,사망원인통계,국가데이터처,1983,2024,MT_ZTITLE,F_27,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E03&conn_path=I2
+고의적 자해,5,101,DT_1B43,사망원인생명표(5세별),생명표,국가데이터처,1995,2024,MT_ZTITLE,F_29,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B43&conn_path=I2
+고의적 자해,6,101,DT_1B34E01,"사망원인(104항목)/성/연령(5세)별 사망자수, 사망률",사망원인통계,국가데이터처,1983,2024,MT_ZTITLE,F_27,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E01&conn_path=I2
+고의적 자해,7,101,DT_1B34E13,"시군구/사망원인(50항목)/성/ 사망자수, 사망률, 연령표준화 사망률(1998~)",사망원인통계,국가데이터처,1998,2024,MT_ZTITLE,F_27,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E13&conn_path=I2
+고의적 자해,8,101,DT_1B34E07,"사망원인(237항목)/성/연령(5세)별 사망자수, 사망률",사망원인통계,국가데이터처,1983,2024,MT_ZTITLE,F_27,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E07&conn_path=I2
+고의적 자해,9,101,DT_1B34E09,사망원인(104항목)/성/시도별 사망자수,사망원인통계,국가데이터처,1983,2024,MT_ZTITLE,F_27,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E09&conn_path=I2
+고의적 자해,10,101,DT_1B34E12,시도/사망원인(104항목)/성별 연령표준화 사망률(1996~),사망원인통계,국가데이터처,1996,2024,MT_ZTITLE,F_27,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E12&conn_path=I2
+고의적 자해,11,101,DT_1B34E04,사망원인(104항목)/성/교육정도별(15~64세) 사망자수,사망원인통계,국가데이터처,1983,2024,MT_ZTITLE,F_27,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E04&conn_path=I2
+고의적 자해,12,101,DT_1B34E02,사망원인(104항목)/성/월별 사망자수,사망원인통계,국가데이터처,1995,2024,MT_ZTITLE,F_27,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E02&conn_path=I2
+고의적 자해,13,101,DT_1B34E11,"시도/사망원인(104항목)/성/연령(5세)별/ 사망자수, 사망률(1996~)",사망원인통계,국가데이터처,1996,2024,MT_ZTITLE,F_27,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E11&conn_path=I2
+고의적 자해,14,101,DT_1B34E05,사망원인(103항목)/성/직업별(15~64세)(신) 사망자수(1993~2017),사망원인통계,국가데이터처,1993,2017,MT_ZTITLE,F_27,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E05&conn_path=I2
+고의적 자해,15,101,DT_1B34E06,사망원인(103항목)/성/직업별(구) 사망자수(~1992),사망원인통계,국가데이터처,1983,1992,MT_ZTITLE,F_27,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E06&conn_path=I2
+고의적 자해,16,734,DT_734004_2023E002,주요 사망원인별 사망자수,나주시여성통계,전라남도 나주시,2023,2023,MT_ZTITLE,215_215A_734_002_001_005,https://kosis.kr/statHtml/statHtml.do?orgId=734&tblId=DT_734004_2023E002&conn_path=I2
+고의적 자해,17,202,DT_202021_E171,연도별 청년자살인구(률),부산광역시청년통계,부산광역시,2014,2023,MT_ZTITLE,V_3_202_004_007_005,https://kosis.kr/statHtml/statHtml.do?orgId=202&tblId=DT_202021_E171&conn_path=I2
+고의적 자해,18,211,DT_211011_2023_F004,노인 사망원인별 현황,강원특별자치도사회보장수급대상통계,강원특별자치도,2023,2023,MT_ZTITLE,211_01_002_009_006,https://kosis.kr/statHtml/statHtml.do?orgId=211&tblId=DT_211011_2023_F004&conn_path=I2
+고의적 자해,19,202,DT_202021_E17,연도별 청년자살인구(률),부산광역시청년통계,부산광역시,2012,2021,MT_ZTITLE,V_3_202_004_005,https://kosis.kr/statHtml/statHtml.do?orgId=202&tblId=DT_202021_E17&conn_path=I2
+고의적 자해,20,202,DT_202022_B04,사망률(원인별),부산광역시장노년통계,부산광역시,2021,2023,MT_ZTITLE,202_01_202022_002,https://kosis.kr/statHtml/statHtml.do?orgId=202&tblId=DT_202022_B04&conn_path=I2
+사망원인 성 연령,1,101,DT_1B34E01,"사망원인(104항목)/성/연령(5세)별 사망자수, 사망률",사망원인통계,국가데이터처,1983,2024,MT_ZTITLE,F_27,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E01&conn_path=I2
+사망원인 성 연령,2,101,DT_1B34E07,"사망원인(237항목)/성/연령(5세)별 사망자수, 사망률",사망원인통계,국가데이터처,1983,2024,MT_ZTITLE,F_27,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E07&conn_path=I2
+사망원인 성 연령,3,101,DT_1B34E11,"시도/사망원인(104항목)/성/연령(5세)별/ 사망자수, 사망률(1996~)",사망원인통계,국가데이터처,1996,2024,MT_ZTITLE,F_27,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E11&conn_path=I2
+사망원인 성 연령,4,101,DT_1B34E18,성/연령별 특정 사망원인(고의적 자해) 사망자 수(분기별),사망원인통계,국가데이터처,2022,2026,MT_ZTITLE,F_27,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E18&conn_path=I2
+사망원인 성 연령,5,101,DT_1B34E13,"시군구/사망원인(50항목)/성/ 사망자수, 사망률, 연령표준화 사망률(1998~)",사망원인통계,국가데이터처,1998,2024,MT_ZTITLE,F_27,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E13&conn_path=I2
+사망원인 성 연령,6,101,DT_1B34E12,시도/사망원인(104항목)/성별 연령표준화 사망률(1996~),사망원인통계,국가데이터처,1996,2024,MT_ZTITLE,F_27,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E12&conn_path=I2
+사망원인 성 연령,7,791,DT_791004_B010,사망원인별 사망,경상남도창원시기본통계,경상남도 창원시,2011,2023,MT_ZTITLE,217A_791_79104_B,https://kosis.kr/statHtml/statHtml.do?orgId=791&tblId=DT_791004_B010&conn_path=I2
+사망원인 성 연령,8,202,DT_202021_E181,청년자살인구(률),부산광역시청년통계,부산광역시,2023,2023,MT_ZTITLE,V_3_202_004_007_005,https://kosis.kr/statHtml/statHtml.do?orgId=202&tblId=DT_202021_E181&conn_path=I2
+사망원인 성 연령,9,202,DT_202021_E18,청년자살인구(률),부산광역시청년통계,부산광역시,2021,2021,MT_ZTITLE,V_3_202_004_005,https://kosis.kr/statHtml/statHtml.do?orgId=202&tblId=DT_202021_E18&conn_path=I2
+사망원인 성 연령,10,202,DT_202005Y2016N005,순환기계통 질환 인식수준,부산광역시사회조사,부산광역시,2016,2016,MT_ZTITLE,202_20205_1_A22_B6,https://kosis.kr/statHtml/statHtml.do?orgId=202&tblId=DT_202005Y2016N005&conn_path=I2
+독거노인,1,143,DT_11437033_2025,노인복지서비스 인지도,농어업인등에대한복지실태조사,농촌진흥청,2025,2025,MT_ZTITLE,K1_13_003_002_005,https://kosis.kr/statHtml/statHtml.do?orgId=143&tblId=DT_11437033_2025&conn_path=I2
+독거노인,2,117,DT_117071_C004,기능제한 노인의 돌봄 수급률 및 돌봄 충분성,노인실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11771_002_003,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117071_C004&conn_path=I2
+독거노인,3,117,DT_117071_D001,노인의 가족 및 친구·이웃·지인 유무(비율),노인실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11771_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117071_D001&conn_path=I2
+독거노인,4,117,DT_117071_I001,노인의 거주형태,노인실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11771_002_009,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117071_I001&conn_path=I2
+독거노인,5,117,DT_117071_J002,노인의 건강 악화 시 희망 거주 형태,노인실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11771_002_010,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117071_J002&conn_path=I2
+독거노인,6,117,DT_117071_J001,노인의 건강 유지 시 희망 거주 형태,노인실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11771_002_010,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117071_J001&conn_path=I2
+독거노인,7,117,DT_117071_B010,노인의 건강검진 수진율 및 병의원·치과 미치료율,노인실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11771_002_002,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117071_B010&conn_path=I2
+독거노인,8,117,DT_117071_J006,노인의 건강상태 만족도,노인실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11771_002_010,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117071_J006&conn_path=I2
+독거노인,9,117,DT_117071_H004,노인의 경로당 이용 현황,노인실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11771_002_008,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117071_H004&conn_path=I2
+독거노인,10,117,DT_117071_J007,노인의 경제상태 만족도,노인실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11771_002_010,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117071_J007&conn_path=I2
+독거노인,11,117,DT_117071_G001,노인의 경제활동 실태,노인실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11771_002_007,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117071_G001&conn_path=I2
+독거노인,12,117,DT_117071_H001,노인의 교육 및 학습활동 참여율 및 참여 시간,노인실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11771_002_008,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117071_H001&conn_path=I2
+독거노인,13,117,DT_117071_C003,노인의 기능상태 제한 현황,노인실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11771_002_003,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117071_C003&conn_path=I2
+독거노인,14,117,DT_117071_C001,노인의 낙상경험,노인실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11771_002_003,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117071_C001&conn_path=I2
+독거노인,15,117,DT_117071_H005,노인의 노인복지관 이용 현황,노인실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11771_002_008,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117071_H005&conn_path=I2
+독거노인,16,117,DT_117071_J005,노인의 노인연령에 대한 인지,노인실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11771_002_010,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117071_J005&conn_path=I2
+독거노인,17,117,DT_117071_G004,노인의 노인일자리사업 참여 경험,노인실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11771_002_007,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117071_G004&conn_path=I2
+독거노인,18,117,DT_117071_B002,노인의 만성질환(의사진단 기준) 개수,노인실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11771_002_002,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117071_B002&conn_path=I2
+독거노인,19,117,DT_117071_E002,노인의 비동거 자녀와의 경제적 지원 교환,노인실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11771_002_005,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117071_E002&conn_path=I2
+독거노인,20,117,DT_117071_H002,노인의 사회단체활동 참여율,노인실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11771_002_008,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117071_H002&conn_path=I2
+우울감 경험률,1,177,DT_117_12_Y068,우울감 경험률,청소년건강행태조사,질병관리청,2005,2025,MT_ZTITLE,117_11758_011,https://kosis.kr/statHtml/statHtml.do?orgId=177&tblId=DT_117_12_Y068&conn_path=I2
+우울감 경험률,2,331,DT_920012N_2052,우울감 경험률(19세 이상),한국의료패널조사,한국보건사회연구원,2019,2023,MT_ZTITLE,331_33110_001_009,https://kosis.kr/statHtml/statHtml.do?orgId=331&tblId=DT_920012N_2052&conn_path=I2
+우울감 경험률,3,143,DT_11430227_2025,우울감 경험 실태,농어업인등에대한복지실태조사,농촌진흥청,2025,2025,MT_ZTITLE,K1_13_003_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=143&tblId=DT_11430227_2025&conn_path=I2
+우울감 경험률,4,154,DT_117079_25BB002037,우울감 경험,전국다문화가족실태조사,성평등가족부,2024,2024,MT_ZTITLE,B_16_002_002,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_117079_25BB002037&conn_path=I2
+우울감 경험률,5,143,DT_11430227_2024,우울감 경험 실태,농어업인등에대한복지실태조사,농촌진흥청,2024,2024,MT_ZTITLE,K1_13_002_002_005,https://kosis.kr/statHtml/statHtml.do?orgId=143&tblId=DT_11430227_2024&conn_path=I2
+우울감 경험률,6,177,DT_H_MENTAL_DEPRESS,시·군·구별 연간 우울감 경험률,지역사회건강조사,질병관리청,2008,2025,MT_ZTITLE,F_001_001_007,https://kosis.kr/statHtml/statHtml.do?orgId=177&tblId=DT_H_MENTAL_DEPRESS&conn_path=I2
+우울감 경험률,7,331,DT_331001_2021BE006,기혼여성(19~49세)의 분만 이후 1년 내 산후우울감 경험 여부,가족과출산조사,한국보건사회연구원,2021,2024,MT_ZTITLE,F_50_001_002_005,https://kosis.kr/statHtml/statHtml.do?orgId=331&tblId=DT_331001_2021BE006&conn_path=I2
+우울감 경험률,8,331,DT_331001_2021BE007,기혼여성(19~49세)의 산후우울감 경험 후 진단 검사나 상담을 받아본 경험,가족과출산조사,한국보건사회연구원,2021,2024,MT_ZTITLE,F_50_001_002_005,https://kosis.kr/statHtml/statHtml.do?orgId=331&tblId=DT_331001_2021BE007&conn_path=I2
+우울감 경험률,9,154,DT_117079_25DD004015,지난 1년간 우울감 경험,전국다문화가족실태조사,성평등가족부,2024,2024,MT_ZTITLE,B_16_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_117079_25DD004015&conn_path=I2
+우울감 경험률,10,117,DT_117098_2024A013,우울증 평가도구(CES-D 11문항)에 따른 우울증 평가결과,노숙인등의실태조사,보건복지부,2024,2024,MT_ZTITLE,117_117098_003_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117098_2024A013&conn_path=I2
+우울감 경험률,11,117,DT_117101_2023A046,산후 우울감을 경험한 산모 비율 및 경험한 기간,산후조리실태조사,보건복지부,2023,2023,MT_ZTITLE,117_001_007_002,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117101_2023A046&conn_path=I2
+우울감 경험률,12,143,DT_11430227_2023,지난 1년 동안 2주 이상 우울감을 느낀 경험,농어업인등에대한복지실태조사,농촌진흥청,2023,2023,MT_ZTITLE,114_11437_002_006,https://kosis.kr/statHtml/statHtml.do?orgId=143&tblId=DT_11430227_2023&conn_path=I2
+우울감 경험률,13,117,DT_117101_2023A045,산후조리 동안 산후진찰 외의 진료 경험,산후조리실태조사,보건복지부,2023,2023,MT_ZTITLE,117_001_007_002,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117101_2023A045&conn_path=I2
+우울감 경험률,14,164,DT_164003_B034,사이버폭력 피해 경험 후 심리상태 : 우울·불안하거나 심한 스트레스를 받았음,사이버폭력실태조사,방송미디어통신위원회,2021,2025,MT_ZTITLE,C_001_002,https://kosis.kr/statHtml/statHtml.do?orgId=164&tblId=DT_164003_B034&conn_path=I2
+우울감 경험률,15,164,DT_164003_A034,사이버폭력 피해 경험 후 심리상태 : 우울·불안하거나 심한 스트레스를 받았음,사이버폭력실태조사,방송미디어통신위원회,2021,2025,MT_ZTITLE,C_001_001,https://kosis.kr/statHtml/statHtml.do?orgId=164&tblId=DT_164003_A034&conn_path=I2
+우울감 경험률,16,117,DT_117050_B004,주요우울장애 경험자의 사회인구학적 분포(현재),정신건강실태조사,보건복지부,2022,2022,MT_ZTITLE,117_11750_006_002,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117050_B004&conn_path=I2
+우울감 경험률,17,114,DT_114036_2024_B010,지난 1년간 우울 및 자살생각 경험 여부,여성농업인실태조사,농림축산식품부,2023,2023,MT_ZTITLE,K1_30_001_002,https://kosis.kr/statHtml/statHtml.do?orgId=114&tblId=DT_114036_2024_B010&conn_path=I2
+우울감 경험률,18,143,DT_11430227_2022,정신건강(우울감),농어업인등에대한복지실태조사,농촌진흥청,2022,2022,MT_ZTITLE,114_11437_002_005,https://kosis.kr/statHtml/statHtml.do?orgId=143&tblId=DT_11430227_2022&conn_path=I2
+우울감 경험률,19,417,DT_417001_0001,"어제의 주관적 정서 경험 (행복감, 걱정, 우울감)",사회통합실태조사,한국행정연구원,2013,2025,MT_ZTITLE,D2_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=417&tblId=DT_417001_0001&conn_path=I2
+우울감 경험률,20,117,DT_117050_B013,물질사용장애 경험자의 사회인구학적 분포(현재),정신건강실태조사,보건복지부,2022,2022,MT_ZTITLE,117_11750_006_002,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117050_B013&conn_path=I2
+사회단체 참여율,1,154,DT_MOGE_3000400129_2025_2,중앙행정기관 위원회별 여성참여 현황,중앙행정기관및지방자치단체소속위원회여성참여현황,성평등가족부,2025,2025,MT_ZTITLE,B_17,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_MOGE_3000400129_2025_2&conn_path=I2
+사회단체 참여율,2,154,DT_MOGE_3000400129_2025_1,중앙행정기관 위원회별 여성참여 현황,중앙행정기관및지방자치단체소속위원회여성참여현황,성평등가족부,2025,2025,MT_ZTITLE,B_17,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_MOGE_3000400129_2025_1&conn_path=I2
+사회단체 참여율,3,154,DT_MOGE_3000400129_2024_6,중앙행정기관 위원회별 여성참여 현황,중앙행정기관및지방자치단체소속위원회여성참여현황,성평등가족부,2024,2024,MT_ZTITLE,B_17,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_MOGE_3000400129_2024_6&conn_path=I2
+사회단체 참여율,4,154,DT_MOGE_3000400129_2024_7,중앙행정기관 위원회별 여성참여 현황,중앙행정기관및지방자치단체소속위원회여성참여현황,성평등가족부,2024,2024,MT_ZTITLE,B_17,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_MOGE_3000400129_2024_7&conn_path=I2
+사회단체 참여율,5,437,DT_43701N_114,사회단체 활동 여부 및 참여한 단체 유형,북한이탈주민실태조사,북한이탈주민지원재단(남북하나재단),2017,2025,MT_ZTITLE,D2_437001_002,https://kosis.kr/statHtml/statHtml.do?orgId=437&tblId=DT_43701N_114&conn_path=I2
+사회단체 참여율,6,114,DT_114055_A038,일반 사회단체 참여 정도 및 이유,귀농귀촌실태조사,농림축산식품부,2019,2025,MT_ZTITLE,F1_001_001_006,https://kosis.kr/statHtml/statHtml.do?orgId=114&tblId=DT_114055_A038&conn_path=I2
+사회단체 참여율,7,114,DT_114055_B043,일반 사회단체 참여 정도 및 이유,귀농귀촌실태조사,농림축산식품부,2019,2025,MT_ZTITLE,F1_001_002_006,https://kosis.kr/statHtml/statHtml.do?orgId=114&tblId=DT_114055_B043&conn_path=I2
+사회단체 참여율,8,143,DT_11430150_2024,참여하고 있는 지역사회단체 종류,농어업인등에대한복지실태조사,농촌진흥청,2024,2024,MT_ZTITLE,K1_13_002_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=143&tblId=DT_11430150_2024&conn_path=I2
+사회단체 참여율,9,143,DT_11430152_2024,지역사회단체 미참여 이유,농어업인등에대한복지실태조사,농촌진흥청,2024,2024,MT_ZTITLE,K1_13_002_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=143&tblId=DT_11430152_2024&conn_path=I2
+사회단체 참여율,10,143,DT_11437170_2024,지역사회단체 참여 만족도,농어업인등에대한복지실태조사,농촌진흥청,2024,2024,MT_ZTITLE,K1_13_002_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=143&tblId=DT_11437170_2024&conn_path=I2
+사회단체 참여율,11,109,DT_109006_G002,보훈대상자의 단체 참여 경험 및 참여 단체,국가보훈대상자생활실태조사,국가보훈부,2018,2024,MT_ZTITLE,D3_002_007,https://kosis.kr/statHtml/statHtml.do?orgId=109&tblId=DT_109006_G002&conn_path=I2
+사회단체 참여율,12,154,DT_MOGE_3000400127,중앙행정기관 기관별 여성참여 현황,중앙행정기관및지방자치단체소속위원회여성참여현황,성평등가족부,2018,2025,MT_ZTITLE,B_17,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_MOGE_3000400127&conn_path=I2
+사회단체 참여율,13,154,DT_MOGE_3000400115,지방자치단체 소속 위원회 여성참여 현황,중앙행정기관및지방자치단체소속위원회여성참여현황,성평등가족부,2017,2024,MT_ZTITLE,B_17,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_MOGE_3000400115&conn_path=I2
+사회단체 참여율,14,154,DT_MOGE_3000400129_2023_12,중앙행정기관 위원회별 여성참여 현황,중앙행정기관및지방자치단체소속위원회여성참여현황,성평등가족부,2023,2023,MT_ZTITLE,B_17,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_MOGE_3000400129_2023_12&conn_path=I2
+사회단체 참여율,15,154,DT_MOGE_3000400129_2023_6,중앙행정기관 위원회별 여성참여 현황,중앙행정기관및지방자치단체소속위원회여성참여현황,성평등가족부,2023,2023,MT_ZTITLE,B_17,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_MOGE_3000400129_2023_6&conn_path=I2
+사회단체 참여율,16,154,DT_MOGE_3000400129_2021_2,중앙행정기관 위원회별 여성참여 현황,중앙행정기관및지방자치단체소속위원회여성참여현황,성평등가족부,2022,2022,MT_ZTITLE,B_17,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_MOGE_3000400129_2021_2&conn_path=I2
+사회단체 참여율,17,154,DT_MOGE_3000400129_2022_12,중앙행정기관 위원회별 여성참여 현황,중앙행정기관및지방자치단체소속위원회여성참여현황,성평등가족부,2022,2022,MT_ZTITLE,B_17,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_MOGE_3000400129_2022_12&conn_path=I2
+사회단체 참여율,18,143,DT_11430324_2024,공동체 활동 참여,농어업인등에대한복지실태조사,농촌진흥청,2024,2024,MT_ZTITLE,K1_13_002_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=143&tblId=DT_11430324_2024&conn_path=I2
+사회단체 참여율,19,117,DT_117071_H002,노인의 사회단체활동 참여율,노인실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11771_002_008,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117071_H002&conn_path=I2
+사회단체 참여율,20,417,DT_417001_0027,정치·사회 현안에 대한 의견 피력 경험 여부,사회통합실태조사,한국행정연구원,2013,2025,MT_ZTITLE,D2_002_002,https://kosis.kr/statHtml/statHtml.do?orgId=417&tblId=DT_417001_0027&conn_path=I2
+삶의 만족도,1,170,DT_170002_G001,"삶의 만족도, 삶의 행복감 정도, 삶에 있어 자유로운 선택, 우리 사회에 대한 신뢰 정도(평균)",청년의삶실태조사,국무조정실,2022,2024,MT_ZTITLE,B_B_170_G,https://kosis.kr/statHtml/statHtml.do?orgId=170&tblId=DT_170002_G001&conn_path=I2
+삶의 만족도,2,127,DT_120019N_2021_029,삶의 만족도,스마트폰과의존실태조사,과학기술정보통신부,2018,2025,MT_ZTITLE,110_12019_2016,https://kosis.kr/statHtml/statHtml.do?orgId=127&tblId=DT_120019N_2021_029&conn_path=I2
+삶의 만족도,3,402,DT_ES2017_037,삶의 만족도,아동청소년인권실태조사,한국청소년정책연구원,2017,2025,MT_ZTITLE,402_siew6548_2017_50_20,https://kosis.kr/statHtml/statHtml.do?orgId=402&tblId=DT_ES2017_037&conn_path=I2
+삶의 만족도,4,402,DT_402002_2020M001,삶의 만족도,한국아동청소년패널조사,한국청소년정책연구원,2020,2024,MT_ZTITLE,B_23_001_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=402&tblId=DT_402002_2020M001&conn_path=I2
+삶의 만족도,5,402,DT_402002_2020D001,삶의 만족도,한국아동청소년패널조사,한국청소년정책연구원,2020,2024,MT_ZTITLE,B_23_001_001_004,https://kosis.kr/statHtml/statHtml.do?orgId=402&tblId=DT_402002_2020D001&conn_path=I2
+삶의 만족도,6,438,DT_438001_CE007,현재 삶의 만족도,장애인삶패널조사,한국장애인개발원,2018,2024,MT_ZTITLE,D3_003_003_005,https://kosis.kr/statHtml/statHtml.do?orgId=438&tblId=DT_438001_CE007&conn_path=I2
+삶의 만족도,7,438,DT_438001_AF035,현재 삶의 만족도,장애인삶패널조사,한국장애인개발원,2018,2024,MT_ZTITLE,D3_003_001_006,https://kosis.kr/statHtml/statHtml.do?orgId=438&tblId=DT_438001_AF035&conn_path=I2
+삶의 만족도,8,101,DT_2019_133_1TM9013X,삶의 만족도,생활시간조사,국가데이터처,2019,2024,MT_ZTITLE,B_9_001_005,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_2019_133_1TM9013X&conn_path=I2
+삶의 만족도,9,117,DT_117074_2023_A159,삶의 중요한 영역들에 대한 만족도,아동종합실태조사,보건복지부,2023,2023,MT_ZTITLE,117_11774_001_010,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117074_2023_A159&conn_path=I2
+삶의 만족도,10,468,DT_468001_C012,삶의 만족도,지원·보호아동및자립준비청년패널조사,아동권리보장원,2023,2023,MT_ZTITLE,468_003_006,https://kosis.kr/statHtml/statHtml.do?orgId=468&tblId=DT_468001_C012&conn_path=I2
+삶의 만족도,11,468,DT_468001_A003,삶의 만족도,지원·보호아동및자립준비청년패널조사,아동권리보장원,2023,2023,MT_ZTITLE,468_001_003,https://kosis.kr/statHtml/statHtml.do?orgId=468&tblId=DT_468001_A003&conn_path=I2
+삶의 만족도,12,468,DT_468001_B023,삶의 만족도,지원·보호아동및자립준비청년패널조사,아동권리보장원,2023,2023,MT_ZTITLE,468_002_013,https://kosis.kr/statHtml/statHtml.do?orgId=468&tblId=DT_468001_B023&conn_path=I2
+삶의 만족도,13,405,DT_405001_I183,삶의 여러 측면에서의 만족도,한국미디어패널조사,정보통신정책연구원,2021,2025,MT_ZTITLE,N1_34_001_002_010_002,https://kosis.kr/statHtml/statHtml.do?orgId=405&tblId=DT_405001_I183&conn_path=I2
+삶의 만족도,14,383,DT_383005_H0011,보호자의 삶의 만족 정도,발달장애인일과삶실태조사,한국장애인고용공단,2022,2025,MT_ZTITLE,D_003_006,https://kosis.kr/statHtml/statHtml.do?orgId=383&tblId=DT_383005_H0011&conn_path=I2
+삶의 만족도,15,109,DT_109006_E010_1,보훈대상자의 삶의 만족,국가보훈대상자생활실태조사,국가보훈부,2024,2024,MT_ZTITLE,R_4_001,https://kosis.kr/statHtml/statHtml.do?orgId=109&tblId=DT_109006_E010_1&conn_path=I2
+삶의 만족도,16,154,DT_154022_22AA201800,삶에 대한 인식_내 삶에 만족한다,위기청소년지원기관이용자생활실태조사,성평등가족부,2021,2024,MT_ZTITLE,B_001,https://kosis.kr/statHtml/statHtml.do?orgId=154&tblId=DT_154022_22AA201800&conn_path=I2
+삶의 만족도,17,114,DT_114036_2024_D001,전반적 삶의 만족도,여성농업인실태조사,농림축산식품부,2023,2023,MT_ZTITLE,K1_30_001_004,https://kosis.kr/statHtml/statHtml.do?orgId=114&tblId=DT_114036_2024_D001&conn_path=I2
+삶의 만족도,18,417,DT_417001_0002,삶에 대한 만족도,사회통합실태조사,한국행정연구원,2013,2025,MT_ZTITLE,D2_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=417&tblId=DT_417001_0002&conn_path=I2
+삶의 만족도,19,113,DT_113_STBL_1032572,삶에 대한 만족도,체육인실태조사,문화체육관광부,2024,2024,MT_ZTITLE,H2_006_002,https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1032572&conn_path=I2
+삶의 만족도,20,113,DT_113_STBL_1032696,삶에 대한 만족도,체육인실태조사,문화체육관광부,2024,2024,MT_ZTITLE,H2_006_004,https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1032696&conn_path=I2
+사회복지시설,1,438,DT_438001_AF005,사회복지시설 이용 현황,장애인삶패널조사,한국장애인개발원,2018,2024,MT_ZTITLE,D3_003_001_006,https://kosis.kr/statHtml/statHtml.do?orgId=438&tblId=DT_438001_AF005&conn_path=I2
+사회복지시설,2,460,TX_315_2009_H1384,사회복지시설 미집행면적현황(시군구),도시계획현황,한국국토정보공사,2008,2024,MT_ZTITLE,315_31502_010_001,https://kosis.kr/statHtml/statHtml.do?orgId=460&tblId=TX_315_2009_H1384&conn_path=I2
+사회복지시설,3,460,TX_315_2009_H1425,사회복지시설 미집행추정사업비현황(시군구),도시계획현황,한국국토정보공사,2008,2024,MT_ZTITLE,315_31502_010_003,https://kosis.kr/statHtml/statHtml.do?orgId=460&tblId=TX_315_2009_H1425&conn_path=I2
+사회복지시설,4,460,TX_315_2009_H1058,사회복지시설,도시계획현황,한국국토정보공사,2005,2024,MT_ZTITLE,315_31502_005,https://kosis.kr/statHtml/statHtml.do?orgId=460&tblId=TX_315_2009_H1058&conn_path=I2
+사회복지시설,5,460,TX_315_2009_H1342,사회복지시설 미집행현황(시군구),도시계획현황,한국국토정보공사,2008,2024,MT_ZTITLE,315_31502_010_006,https://kosis.kr/statHtml/statHtml.do?orgId=460&tblId=TX_315_2009_H1342&conn_path=I2
+사회복지시설,6,110,DT_110001_A043,사회복지시설 수,한국도시통계,행정안전부,2023,2023,MT_ZTITLE,B_22_001_011,https://kosis.kr/statHtml/statHtml.do?orgId=110&tblId=DT_110001_A043&conn_path=I2
+사회복지시설,7,117,DT_117098_2024A018,노숙인의 노숙 이후 사회복지 서비스 이용 경험,노숙인등의실태조사,보건복지부,2024,2024,MT_ZTITLE,117_117098_003_003,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117098_2024A018&conn_path=I2
+사회복지시설,8,117,DT_117098_2024A019,노숙인의 사회복지서비스 만족도,노숙인등의실태조사,보건복지부,2024,2024,MT_ZTITLE,117_117098_003_003,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117098_2024A019&conn_path=I2
+사회복지시설,9,438,DT_438001_AE011,사회복지/고용정보 획득방법(1순위),장애인삶패널조사,한국장애인개발원,2018,2024,MT_ZTITLE,D3_003_001_005,https://kosis.kr/statHtml/statHtml.do?orgId=438&tblId=DT_438001_AE011&conn_path=I2
+사회복지시설,10,117,DT_117108_D033,집단이용시설 유형별 신고자,장애인학대현황,보건복지부,2018,2024,MT_ZTITLE,G_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_D033&conn_path=I2
+사회복지시설,11,117,DT_117108_D038,집단이용시설 유형별 응급조치,장애인학대현황,보건복지부,2018,2024,MT_ZTITLE,G_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_D038&conn_path=I2
+사회복지시설,12,117,DT_117108_D035,집단이용시설 유형별 장애인학대 유형,장애인학대현황,보건복지부,2018,2024,MT_ZTITLE,G_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_D035&conn_path=I2
+사회복지시설,13,117,DT_117108_D040,집단이용시설 유형별 피해장애인 사법지원 유형,장애인학대현황,보건복지부,2018,2024,MT_ZTITLE,G_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_D040&conn_path=I2
+사회복지시설,14,117,DT_117108_D030,집단이용시설 유형별 피해장애인 성별 및 연령,장애인학대현황,보건복지부,2018,2024,MT_ZTITLE,G_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_D030&conn_path=I2
+사회복지시설,15,117,DT_117108_D031,집단이용시설 유형별 피해장애인 장애유형,장애인학대현황,보건복지부,2018,2024,MT_ZTITLE,G_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_D031&conn_path=I2
+사회복지시설,16,117,DT_117108_D032,집단이용시설 유형별 피해장애인 장애정도,장애인학대현황,보건복지부,2018,2024,MT_ZTITLE,G_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_D032&conn_path=I2
+사회복지시설,17,117,DT_117108_D034,집단이용시설 유형별 학대 지속기간,장애인학대현황,보건복지부,2019,2024,MT_ZTITLE,G_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_D034&conn_path=I2
+사회복지시설,18,117,DT_117108_D064,집단이용시설 학대행위자와 피해장애인과의 관계,장애인학대현황,보건복지부,2021,2024,MT_ZTITLE,G_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_D064&conn_path=I2
+사회복지시설,19,101,DT_3KB9027,[사회복지 서비스업] 시도/산업/직능별 종사자 현황,서비스업조사,국가데이터처,2024,2024,MT_ZTITLE,O_8_001_002,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_3KB9027&conn_path=I2
+사회복지시설,20,101,DT_1SSWE032R,"향후 늘려야 할 공공시설 (복수응답, 13세 이상 인구)",사회조사,국가데이터처,2009,2025,MT_ZTITLE,D21A_2009,https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1SSWE032R&conn_path=I2
+사회복지전담 공무원,1,117,DT_117108_D033,집단이용시설 유형별 신고자,장애인학대현황,보건복지부,2018,2024,MT_ZTITLE,G_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_D033&conn_path=I2
+사회복지전담 공무원,2,117,DT_117108_C019,발생장소별 학대행위자 유형,장애인학대현황,보건복지부,2019,2024,MT_ZTITLE,G_002_005,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_C019&conn_path=I2
+사회복지전담 공무원,3,117,DT_117108_C017,장애인학대 유형별 학대행위자와 피해장애인과의 관계,장애인학대현황,보건복지부,2018,2024,MT_ZTITLE,G_002_005,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_C017&conn_path=I2
+사회복지전담 공무원,4,117,DT_117108_D070,재학대 행위자와 피해장애인과의 관계,장애인학대현황,보건복지부,2023,2024,MT_ZTITLE,G_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_D070&conn_path=I2
+사회복지전담 공무원,5,117,DT_117108_C008,학대행위자와 피해장애인과의 관계,장애인학대현황,보건복지부,2018,2024,MT_ZTITLE,G_002_005,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_C008&conn_path=I2
+사회복지전담 공무원,6,117,DT_117108_D002,발달장애인 학대 신고자 유형,장애인학대현황,보건복지부,2018,2024,MT_ZTITLE,G_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_D002&conn_path=I2
+사회복지전담 공무원,7,117,DT_117064_A003,시도별 신고자 유형,학대피해아동보호현황,보건복지부,2018,2024,MT_ZTITLE,117_11764_00B,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117064_A003&conn_path=I2
+사회복지전담 공무원,8,117,DT_117108_A007,신고 및 비신고의무자 유형에 따른 신고 건수,장애인학대현황,보건복지부,2018,2024,MT_ZTITLE,G_002_003,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_A007&conn_path=I2
+사회복지전담 공무원,9,110,TX_110_2009_H1006_2,일반직공무원 직렬별 전담직위 현원,지방자치단체공무원인사통계,행정안전부,2013,2024,MT_ZTITLE,110_11027_010,https://kosis.kr/statHtml/statHtml.do?orgId=110&tblId=TX_110_2009_H1006_2&conn_path=I2
+사회복지전담 공무원,10,174,DT_163002_A014,"직렬별 현원 : 과학기술·행정·관리운영직군 시간선택제, 일반임기제(시간선택제), 전담직위",국가공무원인사통계,인사혁신처,2017,2024,MT_ZTITLE,R_3_001,https://kosis.kr/statHtml/statHtml.do?orgId=174&tblId=DT_163002_A014&conn_path=I2
+사회복지전담 공무원,11,117,TX_117_2009_H5014,신고자 유형별 신고접수 건수,노인학대현황,보건복지부,2005,2024,MT_ZTITLE,117_11767_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=TX_117_2009_H5014&conn_path=I2
+사회복지전담 공무원,12,117,DT_117108_C009,학대행위자 신고의무자 여부 및 직군,장애인학대현황,보건복지부,2019,2019,MT_ZTITLE,G_002_005,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_C009&conn_path=I2
+사회복지전담 공무원,13,117,DT_117108_D041,신고의무자 여부 및 유형에 따른 사례판정,장애인학대현황,보건복지부,2018,2018,MT_ZTITLE,G_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_D041&conn_path=I2
+사회복지전담 공무원,14,117,DT_117108_D043,신고의무자 여부 및 유형에 따른 장애인학대 유형,장애인학대현황,보건복지부,2018,2018,MT_ZTITLE,G_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_D043&conn_path=I2
+사회복지전담 공무원,15,117,TX_117_2009_H5075,신고의무자 대상 노인학대 예방교육실시 현황,노인학대현황,보건복지부,2007,2019,MT_ZTITLE,C_8_003,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=TX_117_2009_H5075&conn_path=I2
+사회복지전담 공무원,16,117,TX_117_2009_HJ008,신고자 유형,학대피해아동보호현황,보건복지부,2001,2017,MT_ZTITLE,117_11764_00A,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=TX_117_2009_HJ008&conn_path=I2
+사회복지전담 공무원,17,117,TX_117_2009_H5077,신고의무자 대상 노인학대 예방교육 참석 현황,노인학대현황,보건복지부,2007,2019,MT_ZTITLE,C_8_003,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=TX_117_2009_H5077&conn_path=I2
+사회복지전담 공무원,18,117,TX_117_2009_H5012,신고의무자별 신고유형(2005~2011),노인학대현황,보건복지부,2005,2011,MT_ZTITLE,117_11767_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=TX_117_2009_H5012&conn_path=I2
+사회복지전담 공무원,19,174,DT_163002_B010,직렬별 현원 : 행정기술관리운영직군,국가공무원인사통계,인사혁신처,2012,2016,MT_ZTITLE,R_3_002,https://kosis.kr/statHtml/statHtml.do?orgId=174&tblId=DT_163002_B010&conn_path=I2
+사회복지전담 공무원,20,453,TX_39301_A147,여성기업인 차별개선을 위한 정부의 우선 해결 과제,여성기업실태조사,재단법인 여성기업종합지원센터,2004,2004,MT_ZTITLE,393_39301_A002_007,https://kosis.kr/statHtml/statHtml.do?orgId=453&tblId=TX_39301_A147&conn_path=I2
+기초생활보장 수급자,1,117,DT_11714_N004,"국민기초생활보장수급자가구-시도별,특성별",국민기초생활보장수급자현황,보건복지부,2001,2024,MT_ZTITLE,G_3,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_11714_N004&conn_path=I2
+기초생활보장 수급자,2,117,DT_11714_N001,"국민기초생활수급자총괄(일반,시설)-시도별",국민기초생활보장수급자현황,보건복지부,2001,2024,MT_ZTITLE,G_3,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_11714_N001&conn_path=I2
+기초생활보장 수급자,3,117,DT_11714_N002,"국민기초일반수급자수-시도별, 성별, 연령별",국민기초생활보장수급자현황,보건복지부,2001,2024,MT_ZTITLE,G_3,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_11714_N002&conn_path=I2
+기초생활보장 수급자,4,117,DT_117108_D049,피해 장애아동 국민기초생활보장수급자 여부,장애인학대현황,보건복지부,2020,2024,MT_ZTITLE,G_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_D049&conn_path=I2
+기초생활보장 수급자,5,117,DT_117108_D005,학대피해 발달장애인 국민기초생활보장수급자 여부,장애인학대현황,보건복지부,2018,2024,MT_ZTITLE,G_002_004,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117108_D005&conn_path=I2
+기초생활보장 수급자,6,331,DT_33109_A304,국민기초생활보장 수급 신청탈락 후 생계문제 해결방법,한국복지패널조사,한국보건사회연구원,2016,2024,MT_ZTITLE,331_33115,https://kosis.kr/statHtml/statHtml.do?orgId=331&tblId=DT_33109_A304&conn_path=I2
+기초생활보장 수급자,7,383,DT_383005_H0004,기초생활보장 수급가구 여부,발달장애인일과삶실태조사,한국장애인고용공단,2022,2025,MT_ZTITLE,D_003_006,https://kosis.kr/statHtml/statHtml.do?orgId=383&tblId=DT_383005_H0004&conn_path=I2
+기초생활보장 수급자,8,170,DT_170002_A005,국민기초생활보장 급여 수급 여부 및 수급 경험,청년의삶실태조사,국무조정실,2022,2024,MT_ZTITLE,B_B_170_A,https://kosis.kr/statHtml/statHtml.do?orgId=170&tblId=DT_170002_A005&conn_path=I2
+기초생활보장 수급자,9,331,DT_33109_N353,국민기초생활보장 맞춤형급여 수급가구 및 수급형태,한국복지패널조사,한국보건사회연구원,2016,2024,MT_ZTITLE,331_33109_5,https://kosis.kr/statHtml/statHtml.do?orgId=331&tblId=DT_33109_N353&conn_path=I2
+기초생활보장 수급자,10,331,DT_33109_A303,국민기초생활보장 수급 신청 후 선정여부 및 신청탈락 사유,한국복지패널조사,한국보건사회연구원,2016,2024,MT_ZTITLE,331_33115,https://kosis.kr/statHtml/statHtml.do?orgId=331&tblId=DT_33109_A303&conn_path=I2
+기초생활보장 수급자,11,331,DT_33109_N082,국민기초생활보장 수급 신청여부 및 사유,한국복지패널조사,한국보건사회연구원,2005,2024,MT_ZTITLE,331_33115,https://kosis.kr/statHtml/statHtml.do?orgId=331&tblId=DT_33109_N082&conn_path=I2
+기초생활보장 수급자,12,438,DT_438001_BB007,국민기초생활보장 수급 현황,장애인삶패널조사,한국장애인개발원,2018,2024,MT_ZTITLE,D3_003_002_002,https://kosis.kr/statHtml/statHtml.do?orgId=438&tblId=DT_438001_BB007&conn_path=I2
+기초생활보장 수급자,13,331,DT_33109_N365,국민기초생활보장 수급가구 및 수급 형태,한국복지패널조사,한국보건사회연구원,2016,2024,MT_ZTITLE,331_33115,https://kosis.kr/statHtml/statHtml.do?orgId=331&tblId=DT_33109_N365&conn_path=I2
+기초생활보장 수급자,14,109,DT_109006_A012,국민기초생활보장제도 수급 현황,국가보훈대상자생활실태조사,국가보훈부,2018,2024,MT_ZTITLE,D3_002_001,https://kosis.kr/statHtml/statHtml.do?orgId=109&tblId=DT_109006_A012&conn_path=I2
+기초생활보장 수급자,15,117,DT_117098_2024A044,국민기초생활보장제도 수급자 신청을 하지 않은 이유(복수응답),노숙인등의실태조사,보건복지부,2024,2024,MT_ZTITLE,117_117098_003_005,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117098_2024A044&conn_path=I2
+기초생활보장 수급자,16,331,DT_33109_A307,기초생활보장급여 수급 사유,한국복지패널조사,한국보건사회연구원,2016,2024,MT_ZTITLE,331_33115,https://kosis.kr/statHtml/statHtml.do?orgId=331&tblId=DT_33109_A307&conn_path=I2
+기초생활보장 수급자,17,117,DT_117098_2024A042,노숙인의 국민기초생활보장 급여별 수급 실태,노숙인등의실태조사,보건복지부,2024,2024,MT_ZTITLE,117_117098_003_005,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117098_2024A042&conn_path=I2
+기초생활보장 수급자,18,117,DT_117098_2024A043,"수급자가 아닌 경우, 노숙인의 국민기초생활보장제도 수급 신청 경험 여부 및 수급자로 선정되지 않은 이유",노숙인등의실태조사,보건복지부,2024,2024,MT_ZTITLE,117_117098_003_005,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117098_2024A043&conn_path=I2
+기초생활보장 수급자,19,331,DT_33109_A306,지난 1년간 국민기초생활보장급여 수급 개월 수,한국복지패널조사,한국보건사회연구원,2016,2024,MT_ZTITLE,331_33115,https://kosis.kr/statHtml/statHtml.do?orgId=331&tblId=DT_33109_A306&conn_path=I2
+기초생활보장 수급자,20,117,TX_117_2009_H5046,학대피해노인 국민기초생활보장 수급 현황,노인학대현황,보건복지부,2007,2024,MT_ZTITLE,C_8_001_001,https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=TX_117_2009_H5046&conn_path=I2

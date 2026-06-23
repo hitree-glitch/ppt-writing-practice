@@ -1,0 +1,6 @@
+year,total_godoksa,yoy_growth_pct,population_10k,godoksa_per_100k,total_deaths,godoksa_per_100_deaths,male_count,male_pct,female_count,female_pct,unknown_sex_count,unknown_sex_pct,age_40s_count,age_50s_count,age_60s_count,age_40s_to_60s_count,age_40s_to_60s_pct,source_id
+2020,3279,11.2,5134.9,6.4,304948,1.08,2622,80.0,562,17.1,95,2.9,475,1047,924,2446,74.6,src_mohw_2025_godoksa
+2021,3378,3.0,5133.3,6.6,317680,1.06,2817,83.4,529,15.7,32,0.9,526,1001,981,2508,74.2,src_mohw_2025_godoksa
+2022,3559,5.4,5125.9,6.9,372939,0.95,2970,83.5,557,15.6,32,0.9,525,1077,1110,2712,76.2,src_mohw_2025_godoksa
+2023,3661,2.9,5114.6,7.2,352511,1.04,3053,83.4,579,15.8,29,0.8,502,1097,1146,2745,75.0,src_mohw_2025_godoksa
+2024,3924,7.2,5103.7,7.7,358569,1.09,3205,81.7,605,15.4,114,2.9,509,1197,1271,2977,75.9,src_mohw_2025_godoksa

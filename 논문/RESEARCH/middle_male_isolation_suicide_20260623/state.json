@@ -1,0 +1,24 @@
+{
+  "session_id": "middle_male_isolation_suicide_20260623",
+  "topic": "중년 남성의 고립, 고독사, 자살 위험을 설명하기 위한 공식통계·사회조사·개인조사 통합 데이터셋 구축",
+  "created_at": "2026-06-23",
+  "status": "phase_7_first_pass_packaged",
+  "scope": {
+    "geographic": "대한민국",
+    "temporal": "2017-2026 where available; core analytic panel 2019-2024",
+    "target_group": "남성 40-64세, with official godoksa age bands 40s-60s used as adjacent evidence"
+  },
+  "primary_outputs": [
+    "outputs/01_data_exploration_and_paper_dataset_plan.md",
+    "artifacts/godoksa_year_summary_2020_2024.csv",
+    "artifacts/godoksa_region_year_2020_2024.csv",
+    "artifacts/data_source_catalog.csv",
+    "sources/sources.jsonl"
+  ],
+  "linked_existing_outputs": [
+    "../../analysis_outputs_middle_male_mortality/merged_age_year_panel.csv",
+    "../../analysis_outputs_middle_male_mortality/exploratory_correlations.csv",
+    "../../analysis_outputs_middle_male_mortality/lagged_correlations_t_to_tplus1.csv",
+    "../../analysis_outputs_middle_male_mortality/integrated_analysis_report.md"
+  ]
+}

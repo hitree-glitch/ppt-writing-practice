@@ -1,0 +1,7 @@
+﻿name,org_id,tbl_id,status,response_head
+single_household,101,DT_1PL1502,200,"{""err"":""10"",""errMsg"":""인증 KEY값이 누락되었습니다.""}"
+social_network,101,DT_1SSSP041R,200,"{""err"":""10"",""errMsg"":""인증 KEY값이 누락되었습니다.""}"
+depression,177,DT_H_MENTAL_DEPRESS,200,"{""err"":""10"",""errMsg"":""인증 KEY값이 누락되었습니다.""}"
+basic_livelihood,117,DT_11714_N002,200,"{""err"":""10"",""errMsg"":""인증 KEY값이 누락되었습니다.""}"
+business_closure,133,DT_13301N_9810,200,"{""err"":""10"",""errMsg"":""인증 KEY값이 누락되었습니다.""}"
+divorce_rate,101,DT_1B85009,200,"{""err"":""10"",""errMsg"":""인증 KEY값이 누락되었습니다.""}"

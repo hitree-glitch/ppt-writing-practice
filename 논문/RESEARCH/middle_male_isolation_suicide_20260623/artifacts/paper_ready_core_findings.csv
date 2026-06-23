@@ -1,0 +1,4 @@
+﻿finding_id,finding,core_number,paper_use,next_model
+F1,Spatial increase concentration,"82.6% of the 2020-2024 national increase is concentrated in Seoul, Gyeonggi, and Daegu.",Turns godoksa from a general aging/isolation problem into an urban-regional concentration hypothesis.,"province-year panel with single-person household, suicide, social-network, depression, welfare capacity variables"
+F2,Fastest recent suicide deterioration,50 - 54세 male suicide rate rose 13.5 per 100k from 2022 to 2024.,Separates recent crisis acceleration from long-run vulnerability.,age-year crisis acceleration model
+F3,Mortality-vulnerability mismatch,55 - 59세 has the largest suicide-over-psychosocial mismatch; 60 - 64세 has the largest accumulated psychosocial vulnerability.,Argues that middle-aged men are not one homogeneous category.,"two-outcome framework: suicide as acute expression, godoksa as accumulated isolation/discovery-delay expression"

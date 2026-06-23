@@ -1,0 +1,16 @@
+﻿variable,role,source_table_or_institution,level,transform_for_model,expected_direction,hypothesis_link,current_status
+godoksa_count,outcome_A,MOHW godoksa survey summary,시도×연도,negative binomial/Poisson; offset population when available,dependent,H1 spatial concentration,available_2020_2024
+godoksa_2024_excess_applies_to_year,outcome_A_derived,MOHW godoksa survey summary,시도,actual 2024 minus expected if national growth applied,dependent or descriptive,H1 spatial excess,available_derived
+male_40_64_suicide_rate,outcome_B,KOSIS DT_1B34E11,시도×연도,aggregate 40-44~60-64 male suicide deaths/population,dependent,H2 acute suicide crisis,download_needed
+male_40_64_single_person_household_rate,exposure,KOSIS DT_1PL1502/1509,시군구→시도×연도,male 40-64 one-person households / male 40-64 population,positive,H1/H3 isolation exposure,download_needed
+social_network_no_depressed_talk_pct,mediator,KOSIS DT_1SSSP041R,시도×사회조사연도,pct no person to talk when discouraged/depressed,positive,social isolation mechanism,download_needed
+social_network_no_help_sick_pct,mediator,KOSIS DT_1SSSP041R,시도×사회조사연도,pct no person to ask housework help when sick,positive,care gap mechanism,download_needed
+depression_experience_std_rate,mediator,KOSIS DT_H_MENTAL_DEPRESS,시군구→시도×연도,population-weighted or simple mean standardized rate,positive,mental health burden,download_needed
+basic_livelihood_male_40_64_count,need,KOSIS DT_11714_N002,시도×연도,male 40-64 recipients per male 40-64 population,positive,economic vulnerability,download_needed
+social_welfare_facility_count,capacity,KOSIS DT_110001_A043,시군구/시도,facilities per 100k or per high-risk single-person households,negative if protective; positive if need-driven,welfare capacity,download_needed_single_year_or_limited
+business_closure_male_40_64_count,event_proxy,KOSIS DT_13301N_9810,시도×연도,male 40-64 closures per businesses/population,positive,H2 acute event proxy,public_kosis_candidate_download_needed
+divorce_male_40_64_rate,event_proxy,KOSIS DT_1B85009/DT_1B85027,시도×연도,male 40-64 divorce rate/count,positive,relationship rupture event,public_kosis_candidate_download_needed
+employment_loss_male_45_64_count,event,근로복지공단/고용행정통계,시도×월/연도,"loss count by reason, age, sex, region",positive,H2 acute event direct,restricted_or_custom_request
+health_insurance_arrears_male_45_64_count,event,국민건강보험공단,시도×연도,premium arrears by sex-age-region,positive,income/health security shock,restricted_or_custom_request
+debt_arrears_male_45_64_count,event,신용회복위원회/한국신용정보원,시도×연도,debt adjustment/default/arrears by sex-age-region,positive,debt shock,restricted_or_custom_request
+emergency_self_harm_male_45_64_count,event/outcome_proxy,NEDIS/질병관리청 손상감시,시도×연도,self-harm/suicide attempt emergency cases,positive,pre-fatal self-harm,restricted_or_report_based

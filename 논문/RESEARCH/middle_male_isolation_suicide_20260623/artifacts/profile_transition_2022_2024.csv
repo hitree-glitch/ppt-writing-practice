@@ -1,0 +1,289 @@
+﻿age_band_2024,profile_2022,profile_2024,n,weighted_share
+40 - 44세,lower_observed_risk,lower_observed_risk,70,0.33377718976409404
+40 - 44세,alcohol_only,alcohol_only,37,0.13714734204753906
+40 - 44세,lower_observed_risk,alcohol_only,25,0.11140790622751652
+40 - 44세,alcohol_only,lower_observed_risk,17,0.06665297826510411
+40 - 44세,lower_observed_risk,psych_only,7,0.03736551809565272
+40 - 44세,lower_observed_risk,depression_alcohol,5,0.027621140848598045
+40 - 44세,low_income_only,lower_observed_risk,6,0.023941166470632352
+40 - 44세,low_income_only,low_income_only,4,0.02145083539592119
+40 - 44세,psych_low_income,low_income_only,3,0.02032846886056676
+40 - 44세,depression_alcohol,alcohol_only,5,0.019679357409336157
+40 - 44세,psych_only,lower_observed_risk,5,0.016000561396634357
+40 - 44세,lower_observed_risk,low_income_only,4,0.01543064389171492
+40 - 44세,psych_only,psych_only,3,0.015063448231273655
+40 - 44세,alcohol_only,depression_alcohol,4,0.01432775471813871
+40 - 44세,depression_alcohol,low_income_only,2,0.011976759081032937
+40 - 44세,depression_alcohol,psych_only,3,0.011821010270654164
+40 - 44세,depression_alcohol,low_self_esteem_alcohol,2,0.010833623618700888
+40 - 44세,low_income_only,depression_alcohol,1,0.009671354345771908
+40 - 44세,compound_psych_alcohol_low_income,alcohol_only,2,0.007833469809519105
+40 - 44세,alcohol_only,compound_psych_alcohol_low_income,2,0.007611401319677247
+40 - 44세,low_income_only,psych_only,1,0.007473628293026377
+40 - 44세,psych_low_income,low_self_esteem_alcohol,1,0.006944471970568279
+40 - 44세,psych_low_income,psych_low_income,3,0.006832498174036434
+40 - 44세,lower_observed_risk,psych_low_income,1,0.006731674312097246
+40 - 44세,alcohol_only,psych_only,2,0.006139576133886861
+40 - 44세,low_self_esteem_alcohol,lower_observed_risk,2,0.006025600738969749
+40 - 44세,low_income_only,low_self_esteem_alcohol,2,0.005928638331305287
+40 - 44세,compound_psych_alcohol_low_income,psych_low_income,1,0.005490192036600225
+40 - 44세,depression_alcohol,depression_alcohol,1,0.005333567580669673
+40 - 44세,depression_alcohol,lower_observed_risk,1,0.005303639334968412
+40 - 44세,compound_psych_alcohol_low_income,lower_observed_risk,1,0.003187522218975361
+40 - 44세,compound_psych_alcohol_low_income,compound_psych_alcohol_low_income,1,0.0029666977951480415
+40 - 44세,low_self_esteem_alcohol,alcohol_only,1,0.002495105338260053
+40 - 44세,psych_low_income,psych_only,1,0.0022213826172590217
+40 - 44세,psych_only,low_self_esteem_alcohol,1,0.001810381331677849
+40 - 44세,psych_low_income,alcohol_only,1,0.0017657792629717744
+40 - 44세,alcohol_only,low_self_esteem_alcohol,2,0.0017118292994366105
+40 - 44세,lower_observed_risk,low_self_esteem_alcohol,1,0.001695885162064004
+45 - 49세,lower_observed_risk,lower_observed_risk,124,0.286477615258774
+45 - 49세,alcohol_only,alcohol_only,68,0.16837476553970782
+45 - 49세,alcohol_only,lower_observed_risk,37,0.0837265553386352
+45 - 49세,lower_observed_risk,alcohol_only,34,0.07418712986001641
+45 - 49세,lower_observed_risk,psych_only,19,0.04881169892623471
+45 - 49세,psych_only,lower_observed_risk,12,0.04268797086144903
+45 - 49세,low_income_only,low_income_only,12,0.02891111777872618
+45 - 49세,psych_only,psych_only,11,0.025068139989076206
+45 - 49세,depression_alcohol,alcohol_only,8,0.023782218095518573
+45 - 49세,alcohol_only,depression_alcohol,11,0.023703972431222624
+45 - 49세,low_income_only,lower_observed_risk,7,0.017789354304568673
+45 - 49세,psych_low_income,low_income_only,5,0.014821226127273397
+45 - 49세,lower_observed_risk,depression_alcohol,8,0.014751627006481664
+45 - 49세,depression_alcohol,lower_observed_risk,4,0.01251546677675638
+45 - 49세,psych_low_income,psych_low_income,4,0.01186003879614809
+45 - 49세,psych_only,alcohol_only,4,0.011853274305715542
+45 - 49세,low_income_only,psych_low_income,6,0.011035299148718212
+45 - 49세,low_self_esteem_alcohol,psych_only,2,0.009956886311988352
+45 - 49세,alcohol_only,psych_only,7,0.008450911138851965
+45 - 49세,low_self_esteem_alcohol,alcohol_only,2,0.00792020056142516
+45 - 49세,depression_alcohol,depression_alcohol,3,0.007632888155423333
+45 - 49세,psych_low_income,lower_observed_risk,1,0.005885624348037183
+45 - 49세,low_self_esteem_alcohol,depression_alcohol,2,0.00565906968517336
+45 - 49세,psych_only,depression_alcohol,1,0.0054882336057220996
+45 - 49세,compound_psych_alcohol_low_income,lower_observed_risk,1,0.004651715136551051
+45 - 49세,low_self_esteem_alcohol,lower_observed_risk,1,0.004544116365863301
+45 - 49세,psych_low_income,psych_only,2,0.0043808364058941
+45 - 49세,compound_psych_alcohol_low_income,alcohol_only,1,0.003374405200979679
+45 - 49세,compound_psych_alcohol_low_income,compound_psych_alcohol_low_income,2,0.0031505727798051956
+45 - 49세,low_income_only,alcohol_only,2,0.0029843057215126413
+45 - 49세,psych_low_income,alcohol_only,1,0.0028467243455321746
+45 - 49세,alcohol_only,compound_psych_alcohol_low_income,1,0.002805927948402796
+45 - 49세,lower_observed_risk,psych_low_income,1,0.0022617482635395444
+45 - 49세,low_income_only,compound_psych_alcohol_low_income,1,0.002250727842857411
+45 - 49세,depression_alcohol,psych_only,1,0.0021881711422225554
+45 - 49세,alcohol_only,low_self_esteem_alcohol,1,0.002083729456816891
+45 - 49세,psych_low_income,compound_psych_alcohol_low_income,1,0.0016155922099812643
+45 - 49세,low_income_only,psych_only,3,0.0014242992421989668
+45 - 49세,depression_alcohol,low_income_only,1,0.0013881038662092698
+45 - 49세,compound_psych_alcohol_low_income,psych_low_income,1,0.0012771507537572178
+45 - 49세,compound_psych_alcohol_low_income,depression_alcohol,1,0.0012104505742287427
+45 - 49세,lower_observed_risk,low_income_only,1,0.0012081291521886504
+45 - 49세,depression_alcohol,low_self_esteem_alcohol,1,0.0009167511014076468
+45 - 49세,low_income_only,low_self_esteem_alcohol,1,0.0009167511014076468
+45 - 49세,lower_observed_risk,low_self_esteem_alcohol,1,0.0007984881345100652
+45 - 49세,psych_only,low_income_only,1,0.00024237502365554657
+45 - 49세,psych_low_income,low_self_esteem_alcohol,1,0.00012764387883341434
+50 - 54세,lower_observed_risk,lower_observed_risk,137,0.29146375469622904
+50 - 54세,alcohol_only,alcohol_only,70,0.11639269276515213
+50 - 54세,lower_observed_risk,alcohol_only,41,0.09066283960473465
+50 - 54세,alcohol_only,lower_observed_risk,32,0.06176261434145556
+50 - 54세,lower_observed_risk,psych_only,29,0.05344652946357991
+50 - 54세,low_income_only,low_income_only,20,0.04378733236511236
+50 - 54세,psych_only,lower_observed_risk,16,0.03957195934108392
+50 - 54세,psych_only,psych_only,18,0.03472129823458353
+50 - 54세,low_income_only,lower_observed_risk,14,0.025762335954559967
+50 - 54세,psych_low_income,psych_low_income,10,0.02501400649342001
+50 - 54세,psych_low_income,low_income_only,8,0.016811436291447088
+50 - 54세,alcohol_only,psych_only,7,0.014648293040636733
+50 - 54세,alcohol_only,depression_alcohol,4,0.014468718852050482
+50 - 54세,lower_observed_risk,depression_alcohol,6,0.01389248948768071
+50 - 54세,lower_observed_risk,low_income_only,6,0.012950426664766142
+50 - 54세,depression_alcohol,alcohol_only,6,0.012343713462388588
+50 - 54세,psych_only,low_income_only,3,0.011269698676769744
+50 - 54세,depression_alcohol,lower_observed_risk,5,0.010741546175729231
+50 - 54세,depression_alcohol,psych_only,4,0.010734599040984482
+50 - 54세,compound_psych_alcohol_low_income,compound_psych_alcohol_low_income,5,0.010476134196352072
+50 - 54세,low_self_esteem_alcohol,lower_observed_risk,4,0.009947456493935431
+50 - 54세,psych_low_income,alcohol_only,2,0.007327555616143233
+50 - 54세,alcohol_only,compound_psych_alcohol_low_income,4,0.007032120249120948
+50 - 54세,low_income_only,psych_low_income,5,0.00655055382555038
+50 - 54세,depression_alcohol,depression_alcohol,5,0.006319607192313475
+50 - 54세,compound_psych_alcohol_low_income,psych_low_income,3,0.004087513188773961
+50 - 54세,psych_low_income,lower_observed_risk,2,0.003695108021119475
+50 - 54세,low_self_esteem_alcohol,psych_only,1,0.0036833776855968656
+50 - 54세,alcohol_only,low_income_only,3,0.003495905945489473
+50 - 54세,depression_alcohol,low_income_only,2,0.0032866494497828676
+50 - 54세,compound_psych_alcohol_low_income,low_income_only,1,0.002988966852545584
+50 - 54세,depression_alcohol,low_self_esteem_alcohol,2,0.0029786296900466375
+50 - 54세,alcohol_only,low_self_esteem_alcohol,4,0.0027674499631360062
+50 - 54세,compound_psych_alcohol_low_income,depression_alcohol,1,0.002664481144360632
+50 - 54세,psych_low_income,psych_only,2,0.002651139621830369
+50 - 54세,low_self_esteem_alcohol,alcohol_only,2,0.002363469609870634
+50 - 54세,low_income_only,psych_only,1,0.0022274523948013353
+50 - 54세,psych_only,low_self_esteem_alcohol,1,0.00201642833081794
+50 - 54세,low_income_only,low_self_esteem_alcohol,1,0.0019369689889000752
+50 - 54세,lower_observed_risk,psych_low_income,1,0.0019312640058888177
+50 - 54세,lower_observed_risk,low_self_esteem_alcohol,1,0.0019270664497575965
+50 - 54세,compound_psych_alcohol_low_income,alcohol_only,2,0.0015460291797964392
+50 - 54세,psych_only,psych_low_income,1,0.0012709351677233482
+50 - 54세,low_self_esteem_alcohol,compound_psych_alcohol_low_income,1,0.0012422150780100577
+50 - 54세,psych_low_income,compound_psych_alcohol_low_income,1,0.0009704702643026942
+50 - 54세,compound_psych_alcohol_low_income,psych_only,1,0.0006099093459941486
+50 - 54세,depression_alcohol,psych_low_income,1,0.0006012803392041199
+50 - 54세,low_self_esteem_alcohol,low_self_esteem_alcohol,1,0.0005476537417230822
+50 - 54세,low_income_only,compound_psych_alcohol_low_income,1,0.000409923014747934
+55 - 59세,lower_observed_risk,lower_observed_risk,123,0.26702847360845033
+55 - 59세,alcohol_only,alcohol_only,56,0.12428006726078625
+55 - 59세,lower_observed_risk,alcohol_only,30,0.06799262926652598
+55 - 59세,alcohol_only,lower_observed_risk,31,0.06284998444058774
+55 - 59세,low_income_only,low_income_only,21,0.04519310335857543
+55 - 59세,psych_only,lower_observed_risk,13,0.031501837755417234
+55 - 59세,lower_observed_risk,psych_only,14,0.030364834319140017
+55 - 59세,psych_only,psych_only,13,0.030175796214787703
+55 - 59세,low_income_only,lower_observed_risk,13,0.027903859031060206
+55 - 59세,alcohol_only,low_self_esteem_alcohol,8,0.024083900329389226
+55 - 59세,psych_low_income,psych_low_income,12,0.02343063375815315
+55 - 59세,lower_observed_risk,low_income_only,8,0.021123525542449034
+55 - 59세,depression_alcohol,depression_alcohol,7,0.020802544693984605
+55 - 59세,depression_alcohol,alcohol_only,8,0.020521837828934287
+55 - 59세,low_income_only,psych_low_income,6,0.01594848218872533
+55 - 59세,psych_low_income,low_income_only,5,0.015439041236158172
+55 - 59세,compound_psych_alcohol_low_income,psych_low_income,3,0.013103057170528485
+55 - 59세,depression_alcohol,lower_observed_risk,6,0.012431845750072602
+55 - 59세,alcohol_only,depression_alcohol,8,0.010723067719171748
+55 - 59세,lower_observed_risk,depression_alcohol,5,0.010081411715021627
+55 - 59세,low_self_esteem_alcohol,psych_only,3,0.009399618330597112
+55 - 59세,low_self_esteem_alcohol,depression_alcohol,4,0.009270031089058132
+55 - 59세,alcohol_only,compound_psych_alcohol_low_income,5,0.00877225396661632
+55 - 59세,alcohol_only,low_income_only,3,0.007719891325353527
+55 - 59세,low_self_esteem_alcohol,alcohol_only,4,0.007541105733802669
+55 - 59세,psych_only,psych_low_income,2,0.00626145014136305
+55 - 59세,low_income_only,psych_only,5,0.006132197362917919
+55 - 59세,psych_only,low_self_esteem_alcohol,2,0.005993486565474541
+55 - 59세,compound_psych_alcohol_low_income,low_income_only,2,0.005216807813048105
+55 - 59세,alcohol_only,psych_only,2,0.005078429418808953
+55 - 59세,low_income_only,compound_psych_alcohol_low_income,1,0.005036254764092544
+55 - 59세,psych_low_income,lower_observed_risk,5,0.004801813016573286
+55 - 59세,lower_observed_risk,psych_low_income,3,0.004756194663231297
+55 - 59세,low_self_esteem_alcohol,low_self_esteem_alcohol,2,0.004754558045343144
+55 - 59세,psych_only,alcohol_only,4,0.004285050671864377
+55 - 59세,compound_psych_alcohol_low_income,depression_alcohol,2,0.004183067831110882
+55 - 59세,alcohol_only,psych_low_income,3,0.004037708431558502
+55 - 59세,compound_psych_alcohol_low_income,low_self_esteem_alcohol,1,0.00399949651832875
+55 - 59세,depression_alcohol,low_self_esteem_alcohol,1,0.0028843847885070286
+55 - 59세,compound_psych_alcohol_low_income,compound_psych_alcohol_low_income,2,0.0028364869917133525
+55 - 59세,low_income_only,alcohol_only,2,0.0027325868796733875
+55 - 59세,lower_observed_risk,compound_psych_alcohol_low_income,1,0.002473964972897105
+55 - 59세,compound_psych_alcohol_low_income,alcohol_only,1,0.002138063480172219
+55 - 59세,lower_observed_risk,low_self_esteem_alcohol,1,0.0019714241665062795
+55 - 59세,psych_low_income,alcohol_only,1,0.0009556506198915501
+55 - 59세,compound_psych_alcohol_low_income,lower_observed_risk,1,0.0007643772158684854
+55 - 59세,psych_low_income,compound_psych_alcohol_low_income,1,0.0006174053403402214
+55 - 59세,low_self_esteem_alcohol,lower_observed_risk,1,0.00040630666736814143
+60 - 64세,lower_observed_risk,lower_observed_risk,107,0.21549270273364748
+60 - 64세,alcohol_only,alcohol_only,46,0.10187307628403022
+60 - 64세,lower_observed_risk,psych_only,24,0.056209891351781616
+60 - 64세,psych_only,lower_observed_risk,19,0.05225578422339298
+60 - 64세,lower_observed_risk,alcohol_only,27,0.0500736860713493
+60 - 64세,alcohol_only,lower_observed_risk,26,0.048297520041601344
+60 - 64세,psych_low_income,psych_low_income,18,0.040968075158547335
+60 - 64세,low_income_only,low_income_only,18,0.03676947541177288
+60 - 64세,compound_psych_alcohol_low_income,compound_psych_alcohol_low_income,11,0.02865125199115043
+60 - 64세,psych_low_income,psych_only,8,0.025700306527182012
+60 - 64세,psych_only,psych_only,6,0.02446536090980436
+60 - 64세,low_income_only,lower_observed_risk,10,0.022390148589773323
+60 - 64세,low_income_only,psych_low_income,7,0.019526443558791438
+60 - 64세,lower_observed_risk,low_income_only,12,0.018784157586203748
+60 - 64세,depression_alcohol,alcohol_only,6,0.018271452927074744
+60 - 64세,alcohol_only,depression_alcohol,6,0.016641497179900693
+60 - 64세,lower_observed_risk,depression_alcohol,6,0.015649146933405685
+60 - 64세,low_income_only,alcohol_only,7,0.01533550823069209
+60 - 64세,psych_low_income,low_income_only,8,0.01524728579938573
+60 - 64세,psych_only,depression_alcohol,6,0.01336031819382557
+60 - 64세,psych_low_income,lower_observed_risk,6,0.012940902410635795
+60 - 64세,compound_psych_alcohol_low_income,psych_low_income,6,0.011469202799555179
+60 - 64세,lower_observed_risk,compound_psych_alcohol_low_income,2,0.01078675157827132
+60 - 64세,lower_observed_risk,psych_low_income,5,0.009350182687124522
+60 - 64세,alcohol_only,psych_only,4,0.009247682041342669
+60 - 64세,psych_only,psych_low_income,5,0.008688224489876958
+60 - 64세,alcohol_only,low_income_only,5,0.008652844899540138
+60 - 64세,compound_psych_alcohol_low_income,low_income_only,4,0.007813151755477995
+60 - 64세,psych_low_income,alcohol_only,3,0.006998349011128646
+60 - 64세,psych_only,low_income_only,4,0.006734233616090052
+60 - 64세,lower_observed_risk,low_self_esteem_alcohol,4,0.006726036282958672
+60 - 64세,alcohol_only,psych_low_income,3,0.006553301119461426
+60 - 64세,low_income_only,psych_only,3,0.006277801778885415
+60 - 64세,depression_alcohol,depression_alcohol,3,0.006211748014925991
+60 - 64세,depression_alcohol,low_income_only,2,0.005349311704594353
+60 - 64세,low_self_esteem_alcohol,alcohol_only,2,0.005281182200265603
+60 - 64세,compound_psych_alcohol_low_income,alcohol_only,3,0.004779002464533691
+60 - 64세,depression_alcohol,lower_observed_risk,3,0.004509694558539513
+60 - 64세,psych_low_income,compound_psych_alcohol_low_income,1,0.004474430725811755
+60 - 64세,depression_alcohol,psych_only,2,0.0042979828676357355
+60 - 64세,psych_only,alcohol_only,2,0.0035815739351878367
+60 - 64세,depression_alcohol,low_self_esteem_alcohol,1,0.0035496875904717437
+60 - 64세,low_self_esteem_alcohol,low_self_esteem_alcohol,1,0.0033626421225261697
+60 - 64세,compound_psych_alcohol_low_income,depression_alcohol,1,0.0023647123136785707
+60 - 64세,low_self_esteem_alcohol,psych_only,1,0.002054674764615551
+60 - 64세,compound_psych_alcohol_low_income,lower_observed_risk,2,0.0010627924988487276
+60 - 64세,alcohol_only,low_self_esteem_alcohol,2,0.0009188100647029619
+all,lower_observed_risk,lower_observed_risk,561,0.2756260698658308
+all,alcohol_only,alcohol_only,277,0.1288365283114953
+all,lower_observed_risk,alcohol_only,157,0.07690056473339923
+all,alcohol_only,lower_observed_risk,143,0.06455002065346929
+all,lower_observed_risk,psych_only,93,0.04557133835498005
+all,psych_only,lower_observed_risk,65,0.03767954796732008
+all,low_income_only,low_income_only,75,0.036684478604327025
+all,psych_only,psych_only,51,0.027049498057126448
+all,low_income_only,lower_observed_risk,50,0.023711294634987102
+all,psych_low_income,psych_low_income,47,0.022629761186440344
+all,depression_alcohol,alcohol_only,33,0.01871945859972979
+all,psych_low_income,low_income_only,29,0.01625195204201014
+all,alcohol_only,depression_alcohol,33,0.01591279899569399
+all,lower_observed_risk,depression_alcohol,30,0.015376655689628926
+all,lower_observed_risk,low_income_only,31,0.013889009735652174
+all,low_income_only,psych_low_income,24,0.011294718750560859
+all,depression_alcohol,depression_alcohol,19,0.00976661044059176
+all,compound_psych_alcohol_low_income,compound_psych_alcohol_low_income,21,0.009762841423421521
+all,depression_alcohol,lower_observed_risk,19,0.009546763785874787
+all,alcohol_only,psych_only,22,0.008976209600138495
+all,compound_psych_alcohol_low_income,psych_low_income,14,0.00721500203888234
+all,alcohol_only,low_self_esteem_alcohol,17,0.007025155292672214
+all,psych_low_income,psych_only,13,0.0068496064105197235
+all,psych_low_income,lower_observed_risk,14,0.005713873197671468
+all,low_self_esteem_alcohol,psych_only,7,0.0054754556584073145
+all,depression_alcohol,psych_only,10,0.005394998454154515
+all,low_self_esteem_alcohol,alcohol_only,11,0.0052852310782950706
+all,alcohol_only,compound_psych_alcohol_low_income,12,0.005264869217681782
+all,lower_observed_risk,psych_low_income,11,0.004743847986882421
+all,low_income_only,psych_only,13,0.004455838086382414
+all,alcohol_only,low_income_only,11,0.004288764129266042
+all,low_income_only,alcohol_only,11,0.004242682089916308
+all,low_self_esteem_alcohol,lower_observed_risk,8,0.0041703793121489734
+all,psych_low_income,alcohol_only,8,0.004131096689688249
+all,psych_only,alcohol_only,10,0.0041235733501982065
+all,psych_only,low_income_only,8,0.004012759498295365
+all,psych_only,depression_alcohol,7,0.003742768320184097
+all,depression_alcohol,low_income_only,7,0.003708865549098973
+all,depression_alcohol,low_self_esteem_alcohol,7,0.0036975286304978486
+all,compound_psych_alcohol_low_income,alcohol_only,9,0.003533457871618901
+all,psych_only,psych_low_income,8,0.0034380830912350852
+all,compound_psych_alcohol_low_income,low_income_only,7,0.0034299136179446956
+all,low_self_esteem_alcohol,depression_alcohol,6,0.0032952662295262047
+all,lower_observed_risk,compound_psych_alcohol_low_income,3,0.002679485815088396
+all,lower_observed_risk,low_self_esteem_alcohol,8,0.002613207569476547
+all,compound_psych_alcohol_low_income,depression_alcohol,5,0.0022988793402319444
+all,alcohol_only,psych_low_income,6,0.002210702899800311
+all,psych_only,low_self_esteem_alcohol,4,0.002094095115409677
+all,low_self_esteem_alcohol,low_self_esteem_alcohol,4,0.001879772124277988
+all,compound_psych_alcohol_low_income,lower_observed_risk,5,0.0017675126742097928
+all,low_income_only,compound_psych_alcohol_low_income,3,0.001717088112215756
+all,psych_low_income,compound_psych_alcohol_low_income,4,0.0015774846950105525
+all,low_income_only,low_self_esteem_alcohol,4,0.0014378008974978368
+all,low_income_only,depression_alcohol,1,0.0012962823979761314
+all,psych_low_income,low_self_esteem_alcohol,2,0.0009570379426143724
+all,compound_psych_alcohol_low_income,low_self_esteem_alcohol,1,0.0009196454558415471
+all,low_self_esteem_alcohol,compound_psych_alcohol_low_income,1,0.0002915750321873981
+all,compound_psych_alcohol_low_income,psych_only,1,0.000143159055414556
+all,depression_alcohol,psych_low_income,1,0.0001411336389008727

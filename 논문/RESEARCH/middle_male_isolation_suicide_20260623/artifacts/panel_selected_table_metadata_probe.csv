@@ -1,0 +1,32 @@
+﻿variable,category,org_id,tbl_id,title,stat_name,org_name,unit,period_detected,renewal_hint,axes_detected,items_detected,parse_status,official_url
+male_40_64_single_person_households,exposure,101,DT_1PL1502,성 및 연령별 1인가구 - 시군구,,국가데이터처,가구,1962-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=101&tblId=DT_1PL1502&conn_path=I2
+male_40_64_single_person_households_by_dwelling,exposure,101,DT_1PL1509,"성, 연령 및 거처의 종류별 1인가구 - 시군구",,국가데이터처,,1962-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=101&tblId=DT_1PL1509&conn_path=I2
+social_network_no_help_available,mediator,101,DT_1SSSP041R,사회적 관계망 (13세 이상 인구),,국가데이터처,%,1929-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=101&tblId=DT_1SSSP041R&conn_path=I2
+daily_exchange_absence,mediator,101,DT_1SSSP045R,사회적 관계망-일 평균 교류현황 (13세 이상 인구),,국가데이터처,%,1977-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=101&tblId=DT_1SSSP045R&conn_path=I2
+annual_depression_experience_rate,mediator,177,DT_H_MENTAL_DEPRESS,시·군·구별 연간 우울감 경험률,,질병관리청,,1999-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=177&tblId=DT_H_MENTAL_DEPRESS&conn_path=I2
+basic_livelihood_recipient_male_40_64,need,117,DT_11714_N002,"국민기초일반수급자수-시도별, 성별, 연령별",,보건복지부,명,1901-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=117&tblId=DT_11714_N002&conn_path=I2
+basic_livelihood_recipients_total,need,117,DT_11714_N001,"국민기초생활수급자총괄(일반,시설)-시도별",,보건복지부,명,1977-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=117&tblId=DT_11714_N001&conn_path=I2
+social_welfare_facilities,capacity,110,DT_110001_A043,사회복지시설 수,,행정안전부,,1976-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=110&tblId=DT_110001_A043&conn_path=I2
+male_40_64_suicide_rate_by_region,outcome,101,DT_1B34E11,"시도/사망원인(104항목)/성/연령(5세)별/ 사망자수, 사망률(1996~)",,국가데이터처,,1996-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=101&tblId=DT_1B34E11&conn_path=I2
+sex_specific_suicide_rate_city_county,outcome,101,DT_1B34E13,"시군구/사망원인(50항목)/성/ 사망자수, 사망률, 연령표준화 사망률(1998~)",,국가데이터처,,1998-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=101&tblId=DT_1B34E13&conn_path=I2
+business_closure_by_age_sex_region,event,133,DT_13301N_9810,"9.8.11 폐업자 현황 Ⅱ(연령, 성, 지역)[2014~]",,국세청,명,1976-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=133&tblId=DT_13301N_9810&conn_path=I2
+business_closure_by_age_sex_industry,event,133,DT_133N_987,"9.8.10 폐업자 현황Ⅰ(연령, 성, 업태)[2013~]",,국세청,명,1976-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=133&tblId=DT_133N_987&conn_path=I2
+business_closure_reason_region_industry,event,133,TX_13301_A169,"9.8.13 폐업자 현황 Ⅳ (폐업사유, 지역, 업태)[2005~]",,국세청,명,1976-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=133&tblId=TX_13301_A169&conn_path=I2
+business_duration_before_closure_region_industry,event,133,TX_13301_A171,"9.8.14 폐업자 현황 Ⅴ (사업존속연수, 지역, 업태)[2005~]",,국세청,명,1976-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=133&tblId=TX_13301_A171&conn_path=I2
+business_closure_city_county,event,133,DT_133001N_9816,9.8.16 폐업자 현황 Ⅶ (시·군·구)[2016~],,국세청,명,1976-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=133&tblId=DT_133001N_9816&conn_path=I2
+divorce_related_candidate,event,101,DT_1B85024,연령(5세)/외국인 남편의 국적별 이혼,,국가데이터처,건,1931-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=101&tblId=DT_1B85024&conn_path=I2
+divorce_related_candidate,event,101,DT_1B85002,이혼부부의 연령별 이혼,,국가데이터처,건,1962-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=101&tblId=DT_1B85002&conn_path=I2
+divorce_related_candidate,event,101,DT_1B85019,연령(5세)/이혼종류별 이혼,,국가데이터처,건,1962-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=101&tblId=DT_1B85019&conn_path=I2
+divorce_related_candidate,event,101,DT_1B85020,연령(5세)/미성년자녀수별 이혼,,국가데이터처,건,1962-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=101&tblId=DT_1B85020&conn_path=I2
+divorce_related_candidate,event,101,DT_1B85009,시도/성/연령별 이혼율,,국가데이터처,천명당,1962-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=101&tblId=DT_1B85009&conn_path=I2
+divorce_related_candidate,event,101,DT_1B85003,시도/연령(각세)별 이혼,,국가데이터처,건,1962-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=101&tblId=DT_1B85003&conn_path=I2
+divorce_related_candidate,event,101,DT_1B83A13,시도/이혼후 재혼연령별 혼인,,국가데이터처,건,1962-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=101&tblId=DT_1B83A13&conn_path=I2
+divorce_related_candidate,event,101,DT_1B85008,연령(5세)/ 혼인지속기간(동거기간)별 이혼,,국가데이터처,건,1962-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=101&tblId=DT_1B85008&conn_path=I2
+divorce_related_candidate,event,101,DT_1B85010,연령(5세)/교육정도별 이혼,,국가데이터처,건,1962-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=101&tblId=DT_1B85010&conn_path=I2
+divorce_related_candidate,event,101,DT_1B85027,시도/연령(5세)별 이혼,,국가데이터처,건,1962-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=101&tblId=DT_1B85027&conn_path=I2
+divorce_related_candidate,event,101,DT_1B85011,시도/평균 이혼 연령,,국가데이터처,세,1962-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=101&tblId=DT_1B85011&conn_path=I2
+divorce_related_candidate,event,154,DT_117079_22CC010400,이혼·별거 사유,,성평등가족부,%,1999-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=154&tblId=DT_117079_22CC010400&conn_path=I2
+employment_insurance_loss_candidate,event,434,DT_434_STBL_1028670,지역별 고용보험 상실자수,,한국문화관광연구원,명,1999-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=434&tblId=DT_434_STBL_1028670&conn_path=I2
+employment_insurance_loss_candidate,event,434,DT_434_STBL_1028672,연령별 고용보험 상실자수,,한국문화관광연구원,명,1999-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=434&tblId=DT_434_STBL_1028672&conn_path=I2
+employment_insurance_loss_candidate,event,434,DT_434_STBL_1028671,성별 고용보험 상실자수,,한국문화관광연구원,명,1999-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=434&tblId=DT_434_STBL_1028671&conn_path=I2
+employment_insurance_loss_candidate,event,434,DT_434_STBL_1028657,"고용보험 피보험자수, 취득자수, 상실자수",,한국문화관광연구원,명,1999-2084,,,,ok,https://kosis.kr/statHtml/statHtmlContent.do?orgId=434&tblId=DT_434_STBL_1028657&conn_path=I2
