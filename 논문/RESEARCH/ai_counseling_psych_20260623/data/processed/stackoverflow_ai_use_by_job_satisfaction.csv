@@ -1,0 +1,56 @@
+﻿AISelect,JobSat,weighted_n,raw_n,row_pct,row_raw_n
+"No, and I don't plan to",8.0,941.0,941,0.2583035959374142,3643
+"No, and I don't plan to",7.0,733.0,733,0.2012077957727148,3643
+"No, and I don't plan to",9.0,482.0,482,0.1323085369201208,3643
+"No, and I don't plan to",10.0,423.0,423,0.11611309360417238,3643
+"No, and I don't plan to",6.0,410.0,410,0.11254460609387867,3643
+"No, and I don't plan to",5.0,259.0,259,0.07109525116662092,3643
+"No, and I don't plan to",3.0,131.0,131,0.035959374142190505,3643
+"No, and I don't plan to",4.0,112.0,112,0.030743892396376614,3643
+"No, and I don't plan to",2.0,77.0,77,0.02113642602250892,3643
+"No, and I don't plan to",0.0,48.0,48,0.013175953884161406,3643
+"No, and I don't plan to",1.0,27.0,27,0.007411474059840791,3643
+"No, but I plan to soon",8.0,300.0,300,0.2643171806167401,1135
+"No, but I plan to soon",7.0,230.0,230,0.2026431718061674,1135
+"No, but I plan to soon",9.0,153.0,153,0.13480176211453745,1135
+"No, but I plan to soon",6.0,129.0,129,0.11365638766519824,1135
+"No, but I plan to soon",10.0,115.0,115,0.1013215859030837,1135
+"No, but I plan to soon",5.0,92.0,92,0.08105726872246696,1135
+"No, but I plan to soon",4.0,36.0,36,0.03171806167400881,1135
+"No, but I plan to soon",3.0,33.0,33,0.02907488986784141,1135
+"No, but I plan to soon",2.0,25.0,25,0.022026431718061675,1135
+"No, but I plan to soon",0.0,16.0,16,0.014096916299559472,1135
+"No, but I plan to soon",1.0,6.0,6,0.0052863436123348016,1135
+"Yes, I use AI tools daily",8.0,3327.0,3327,0.26406857687118024,12599
+"Yes, I use AI tools daily",7.0,2609.0,2609,0.2070799269783316,12599
+"Yes, I use AI tools daily",9.0,1743.0,1743,0.1383443130407175,12599
+"Yes, I use AI tools daily",10.0,1511.0,1511,0.11993015318676085,12599
+"Yes, I use AI tools daily",6.0,1464.0,1464,0.11619969838876101,12599
+"Yes, I use AI tools daily",5.0,892.0,892,0.07079926978331613,12599
+"Yes, I use AI tools daily",3.0,362.0,362,0.02873243908246686,12599
+"Yes, I use AI tools daily",4.0,352.0,352,0.027938725295658384,12599
+"Yes, I use AI tools daily",2.0,180.0,180,0.014286848162552584,12599
+"Yes, I use AI tools daily",0.0,92.0,92,0.007302166838637987,12599
+"Yes, I use AI tools daily",1.0,67.0,67,0.005317882371616795,12599
+"Yes, I use AI tools monthly or infrequently",8.0,833.0,833,0.2612923462986198,3188
+"Yes, I use AI tools monthly or infrequently",7.0,682.0,682,0.21392722710163112,3188
+"Yes, I use AI tools monthly or infrequently",9.0,441.0,441,0.13833124215809284,3188
+"Yes, I use AI tools monthly or infrequently",6.0,389.0,389,0.12202007528230865,3188
+"Yes, I use AI tools monthly or infrequently",10.0,291.0,291,0.09127979924717691,3188
+"Yes, I use AI tools monthly or infrequently",5.0,233.0,233,0.07308657465495609,3188
+"Yes, I use AI tools monthly or infrequently",3.0,107.0,107,0.0335633626097867,3188
+"Yes, I use AI tools monthly or infrequently",4.0,99.0,99,0.031053952321204517,3188
+"Yes, I use AI tools monthly or infrequently",2.0,53.0,53,0.016624843161856962,3188
+"Yes, I use AI tools monthly or infrequently",0.0,34.0,34,0.01066499372647428,3188
+"Yes, I use AI tools monthly or infrequently",1.0,26.0,26,0.008155583437892095,3188
+"Yes, I use AI tools weekly",8.0,1170.0,1170,0.2687801516195727,4353
+"Yes, I use AI tools weekly",7.0,960.0,960,0.22053756030323915,4353
+"Yes, I use AI tools weekly",6.0,616.0,616,0.14151160119457845,4353
+"Yes, I use AI tools weekly",9.0,580.0,580,0.13324144268320698,4353
+"Yes, I use AI tools weekly",10.0,359.0,359,0.0824718584883988,4353
+"Yes, I use AI tools weekly",5.0,278.0,278,0.063864001837813,4353
+"Yes, I use AI tools weekly",4.0,142.0,142,0.03262118079485413,4353
+"Yes, I use AI tools weekly",3.0,129.0,129,0.029634734665747762,4353
+"Yes, I use AI tools weekly",2.0,68.0,68,0.01562141052147944,4353
+"Yes, I use AI tools weekly",1.0,26.0,26,0.005972892258212727,4353
+"Yes, I use AI tools weekly",0.0,25.0,25,0.005743165632896853,4353

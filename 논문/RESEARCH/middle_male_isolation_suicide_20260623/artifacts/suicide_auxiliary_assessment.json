@@ -1,0 +1,60 @@
+{
+  "files": {
+    "age_rank": "C:\\Users\\user\\OneDrive\\D 대학원 박사\\A 아주대\\논문 작성\\중년남성 고독사\\연령대별_사망원인_순위_20260623215437.xlsx",
+    "quarter_sex_age": "C:\\Users\\user\\OneDrive\\D 대학원 박사\\A 아주대\\논문 작성\\중년남성 고독사\\성_연령별_특정_사망원인_고의적_자해__사망자_수_분기별__20260623215421.xlsx",
+    "quarter_region": "C:\\Users\\user\\OneDrive\\D 대학원 박사\\A 아주대\\논문 작성\\중년남성 고독사\\시도별_특정_사망원인_고의적_자해__사망자_수_분기별__20260623215426.xlsx",
+    "month_sex": "C:\\Users\\user\\OneDrive\\D 대학원 박사\\A 아주대\\논문 작성\\중년남성 고독사\\성_월별_특정_사망원인_고의적_자해__사망자_수_20260623215415.xlsx"
+  },
+  "male_2025q4_total": 2301.0,
+  "male_2026q1_total": 2213.0,
+  "male_2025q4_40_60s": 1359.0,
+  "male_2026q1_40_60s": 1336.0,
+  "male_2025q4_40_60s_share_pct": 59.0612777053455,
+  "male_2026q1_40_60s_share_pct": 60.37053773158608,
+  "male_2024_40_64_suicide_deaths": 5473.0,
+  "male_2024_40_64_suicide_rate": 52.8,
+  "top_region_increases": [
+    {
+      "region": "경상남도",
+      "suicide_deaths_2025q4_p": 169.0,
+      "suicide_deaths_2026q1_p": 206.0,
+      "change_2026q1_minus_2025q4": 37.0,
+      "pct_change_2026q1_vs_2025q4": 21.893491124260358
+    },
+    {
+      "region": "전라북도",
+      "suicide_deaths_2025q4_p": 93.0,
+      "suicide_deaths_2026q1_p": 122.0,
+      "change_2026q1_minus_2025q4": 29.0,
+      "pct_change_2026q1_vs_2025q4": 31.182795698924732
+    },
+    {
+      "region": "충청북도",
+      "suicide_deaths_2025q4_p": 112.0,
+      "suicide_deaths_2026q1_p": 128.0,
+      "change_2026q1_minus_2025q4": 16.0,
+      "pct_change_2026q1_vs_2025q4": 14.285714285714285
+    },
+    {
+      "region": "광주광역시",
+      "suicide_deaths_2025q4_p": 74.0,
+      "suicide_deaths_2026q1_p": 82.0,
+      "change_2026q1_minus_2025q4": 8.0,
+      "pct_change_2026q1_vs_2025q4": 10.81081081081081
+    },
+    {
+      "region": "세종특별자치시",
+      "suicide_deaths_2025q4_p": 18.0,
+      "suicide_deaths_2026q1_p": 22.0,
+      "change_2026q1_minus_2025q4": 4.0,
+      "pct_change_2026q1_vs_2025q4": 22.22222222222222
+    },
+    {
+      "region": "전라남도",
+      "suicide_deaths_2025q4_p": 118.0,
+      "suicide_deaths_2026q1_p": 120.0,
+      "change_2026q1_minus_2025q4": 2.0,
+      "pct_change_2026q1_vs_2025q4": 1.694915254237288
+    }
+  ]
+}

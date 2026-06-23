@@ -1,0 +1,6 @@
+﻿dataset,exposure,outcome,raw_n,cramers_v,exposure_levels,outcome_levels
+StackOverflow_2025,AISelect,JobSat,49191,0.2655310999678082,6,12
+StackOverflow_2025,AISent,JobSat,49191,0.24222113119593847,7,12
+StackOverflow_2025,AIAcc,JobSat,49191,0.2609608351825448,6,12
+StackOverflow_2025,AIComplex,JobSat,49191,0.2401835888919197,7,12
+StackOverflow_2025,AIAgents,JobSat,49191,0.22768266637122422,7,12

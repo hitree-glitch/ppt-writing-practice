@@ -1,0 +1,14 @@
+{
+  "r_welfare": 0.6761131155104545,
+  "p_welfare": 0.0028854938187512,
+  "r_single": 0.2144111423579611,
+  "p_single": 0.4085893732462828,
+  "r_closure_count": 0.4825155641847031,
+  "p_closure_count": 0.0497991340088923,
+  "logpop_coef": 1.1188767222063276,
+  "logpop_p": 3.479103664938421e-06,
+  "logpop_r2": 0.956011611727518,
+  "welfare_component_coef": 0.5522928877208219,
+  "welfare_component_p": 0.0723302493178019,
+  "welfare_component_r2": 0.5045173608473774
+}

@@ -1,0 +1,36 @@
+﻿IndicatorCode,IndicatorName
+MH_12,Age-standardized suicide rates (per 100 000 population)
+MH_21,"Total workforce in mental health sector (per 100,000)"
+MH_23,"Other non-specialized doctors in mental health sector (per 100,000)"
+MH_4,Government expenditures on mental health as a percentage of total government expenditures on health (%)
+MH_13,"Beds for mental health in general hospitals (per 100,000)"
+MH_18,"Mental health units in general hospitals (per 100,000)"
+MH_22,"Occupational therapists in mental health sector (per 100,000)"
+MH_1,Mental health policy
+MH_2,Mental health plan
+MH_3,Stand-alone mental health legislation
+MH_9,"Psychologists working in mental health sector (per 100,000)"
+MH_7,"Nurses working in mental health sector (per 100,000)"
+MH_8,"Social workers working in mental health sector (per 100,000)"
+MH_10,"Mental health outpatient facilities (per 100,000)"
+MH_11,"Mental health day treatment facilities (per 100,000)"
+MH_24,"Mental health units in general hospitals admissions (per 100,000)"
+MH_25,Stand-alone policy or plan for mental health
+MH_5,Government expenditures on mental hospitals as a percentage of total government expenditures on mental health (%)
+MH_6,"Psychiatrists working in mental health sector (per 100,000)"
+GDO_q17x2x1_1,Identification of other research plans in which dementia is integrated (Mental health)
+GDO_Q2x2x1_MENTAL,Identification of other plans in which dementia is integrated (Mental health)
+GDO_q35,Estimated population-based prevalence of depression
+GDO_q1x1x1,"Inclusion of dementia in a branch of government [health, ageing, social services, mental health, noncommunicable disease]"
+GDO_q8x3_2,"Accessibility of behaviour and psychological management in community for dementia [Capital/capital and main cities/capital, main cities, rural areas]"
+GDO_q8x2_2,Availability of behaviour and psychological management in community for dementia
+GDO_q8x4_2,"Majority provider of behaviour and psychological management in community for dementia [public, private]"
+GDO_q8x5_2,Estimated number of people receiving behaviour and psychological management services in community for dementia
+RSUD_32,Sector for the treatment of alcohol-induced psychoses and other alcohol-induced psychiatric conditions
+VIOLENCE_EXTENTIMP_ALLTYPES,Extent of implementation of  mental health services for victims of all types of violence
+SDG_SH_STA_SCIDEN,Number of suicide deaths
+PRISON_D3_DEATHS_SUICIDE_MRATE,In-prison suicide mortality rate (per 100 000 incarcerated persons per year)
+PRISON_B9_1_PHYCHIATRISTS_RATIO,Psychiatrists in prisons (FTEs per 1000 prisoners)
+SDGSUICIDE,Crude suicide rates (per 100 000 population)
+PRISON_B16_SUICIDERISK,In-prison standardized protocol for suicide
+CHILDVIOL,Indicator 16.2.1: Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month

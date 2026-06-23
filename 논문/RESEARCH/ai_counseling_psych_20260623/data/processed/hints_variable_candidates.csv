@@ -1,0 +1,134 @@
+﻿dataset,variable,label,nonmissing,unique_values,sample_values
+HINTS7_2024,APP_REGION,Appalachian Subregion,7278,2, |  |  |  |  | 
+HINTS7_2024,CancerTrustDoctor,"A3a. In general, how much would you trust information about cancer from a doctor",7278,6,1.0 | 1.0 | 1.0 | 1.0 | 1.0 | 1.0
+HINTS7_2024,CancerTrustFamily,"A3b. In general, how much would you trust information about cancer from family o",7278,6,3.0 | 2.0 | 2.0 | 2.0 | 1.0 | 2.0
+HINTS7_2024,CancerTrustGov,"A3c. In general, how much would you trust information about cancer from governme",7278,6,2.0 | 2.0 | 2.0 | 2.0 | 1.0 | 1.0
+HINTS7_2024,CancerTrustCharities,"A3d. In general, how much would you trust information about cancer from charitab",7278,6,2.0 | 2.0 | 2.0 | 4.0 | 2.0 | 2.0
+HINTS7_2024,CancerTrustReligiousOrgs,"A3e. In general, how much would you trust information about cancer from religiou",7278,6,4.0 | 4.0 | 2.0 | 4.0 | 3.0 | 4.0
+HINTS7_2024,CancerTrustScientists,A3f. In general how much would you trust information about cancer from scientist,7278,6,1.0 | 1.0 | 1.0 | 1.0 | 1.0 | 1.0
+HINTS7_2024,FreqUseInternet,"B1. About how often do you use the Internet, either on a computer, laptop, smart",7278,7,1.0 | 1.0 | 1.0 | 1.0 | 1.0 | 1.0
+HINTS7_2024,Internet_Cell2,"B2a. When you use the Internet, do you connect to it through a cellular network ",7278,5,1.0 | 1.0 | 1.0 | 1.0 | 1.0 | 1.0
+HINTS7_2024,Internet_HighSpeed2,"B2b. When you use the Internet, do you connect to it through a service such as D",7278,5,1.0 | 1.0 | 1.0 | 1.0 | 1.0 | 1.0
+HINTS7_2024,Electronic2_HealthInfo,B3a. In the past 12 months have you used the Internet to look for health or medi,7278,5,2.0 | 1.0 | 1.0 | 1.0 | 1.0 | 1.0
+HINTS7_2024,Electronic2_MessageDoc,B3b. In the past 12 months have you used the Internet to send a message to a hea,7278,5,2.0 | 1.0 | 1.0 | 2.0 | 1.0 | 1.0
+HINTS7_2024,Electronic2_TestResults,B3c. In the past 12 months have you used the Internet to view medical test resul,7278,5,1.0 | 1.0 | 1.0 | 1.0 | 1.0 | 1.0
+HINTS7_2024,Electronic2_MadeAppts,B3d. In the past 12 months have you used the Internet to make an appointment wit,7278,5,2.0 | 1.0 | 1.0 | 1.0 | 2.0 | 1.0
+HINTS7_2024,InternetConnection,B4. How satisfied are you with your Internet connection at home to meet health-r,7278,9,2.0 | 1.0 | 3.0 | 2.0 | 1.0 | 1.0
+HINTS7_2024,DigLit_UseNoHelp,B5b. How much do you agree or disagree: I can use applications/programs (like Zo,7278,6,3.0 | 1.0 | 1.0 | 1.0 | 2.0 | 1.0
+HINTS7_2024,UsedHealthWellnessApps2,"B7. In the past 12 months, have you used a health or wellness app on your tablet",7278,7,1.0 | 1.0 | 1.0 | 2.0 | 1.0 | 2.0
+HINTS7_2024,ChanceAskQuestions,"C4a. In the past 12 months, how often did your doctors, nurses, or other health ",7278,9,1.0 | 1.0 | 2.0 | 2.0 | 1.0 | 2.0
+HINTS7_2024,FeelingsAddressed,"C4b. In the past 12 months, how often did your doctors, nurses, or other health ",7278,9,2.0 | 1.0 | 2.0 | 3.0 | 1.0 | 2.0
+HINTS7_2024,InvolvedDecisions,"C4c. In the past 12 months, how often did your doctors, nurses, or other health ",7278,9,1.0 | 1.0 | 2.0 | 4.0 | 1.0 | 2.0
+HINTS7_2024,UnderstoodNextSteps,"C4d. In the past 12 months, how often did your doctors, nurses, or other health ",7278,9,1.0 | 1.0 | 2.0 | 3.0 | 1.0 | 2.0
+HINTS7_2024,ExplainedClearly,"C4e. In the past 12 months, how often did your doctors, nurses, or other health ",7278,9,1.0 | 1.0 | 2.0 | 2.0 | 1.0 | 2.0
+HINTS7_2024,SpentEnoughTime,"C4f. In the past 12 months, how often did your doctors, nurses, or other health ",7278,9,2.0 | 1.0 | 3.0 | 3.0 | 1.0 | 2.0
+HINTS7_2024,HelpUncertainty,"C4g. In the past 12 months, how often did your doctors, nurses, or other health ",7278,9,2.0 | 2.0 | 2.0 | 4.0 | 2.0 | 2.0
+HINTS7_2024,TalkedDoctor2,"C7. In the past 12 months, how often have you talked to a doctor, nurse, or othe",7278,5,1.0 | 1.0 | 2.0 | 2.0 | 2.0 | 1.0
+HINTS7_2024,DocInteraction,"C9. As a result of talking to my doctor, nurse, or other health professional abo",7278,9,-1.0 | -1.0 | 4.0 | 3.0 | 4.0 | -1.0
+HINTS7_2024,ConfidentMedForms,C10. How confident are you filling out medical forms by yourself?,7278,7,1.0 | 1.0 | 1.0 | 1.0 | 1.0 | 1.0
+HINTS7_2024,TrustHCSystem,"C11. How much do you trust the health care system (for example, hospitals, pharm",7278,7,1.0 | 2.0 | 1.0 | 2.0 | 2.0 | 2.0
+HINTS7_2024,ReceiveTelehealthCare,"D1. In the past 12 months, did you receive care from a doctor or health professi",7278,6,4.0 | 4.0 | 2.0 | 3.0 | 1.0 | 4.0
+HINTS7_2024,Telehealth_HCPRecommended,D3. What are the reasons you chose telehealth - The health care provider recomme,7278,7,-1.0 | -1.0 | 1.0 | 1.0 | 1.0 | -1.0
+HINTS7_2024,OfferedAccessHCP3,E1a. Have you ever been offered online access to your medical records (for examp,7278,6,1.0 | 1.0 | 1.0 | 1.0 | 1.0 | 1.0
+HINTS7_2024,OfferedAccessInsurer3,E1b. Have you ever been offered online access to your medical records (for examp,7278,6,3.0 | 1.0 | 1.0 | 1.0 | 2.0 | 1.0
+HINTS7_2024,HCPEncourageOnlineRec2,"E2. Have any of your health care providers, including doctors, nurses, or office",7278,4,1.0 | 1.0 | 1.0 | 1.0 | 1.0 | 1.0
+HINTS7_2024,AccessOnlineRecord3,E3. How many times did you access your online medical record or patient portal i,7278,7,2.0 | 2.0 | 1.0 | 2.0 | 2.0 | 2.0
+HINTS7_2024,HowAccessOnlineRecord2,E4. How did you access your online medical record or patient portal?,7278,9,2.0 | 3.0 | 1.0 | 3.0 | 1.0 | 3.0
+HINTS7_2024,RecordsOnline2_ViewResults,E5a. In the past 12 months have you used your online medical record or patient p,7278,6,1.0 | 1.0 | 1.0 | 1.0 | 1.0 | 1.0
+HINTS7_2024,RecordsOnline2_ViewNotes,E5b. In the past 12 months have you used your online medical record or patient p,7278,6,1.0 | 1.0 | 1.0 | 2.0 | 1.0 | 1.0
+HINTS7_2024,UnderstandOnlineMedRec2,E6. How easy or difficult was it to understand the health information in your on,7278,9,2.0 | 1.0 | 2.0 | 1.0 | 2.0 | 1.0
+HINTS7_2024,OnlinePortal_PCP,E7. Which of the following organizations/providers do you have an online medical,7278,4,1.0 | 2.0 | 1.0 | 1.0 | 1.0 | 1.0
+HINTS7_2024,OnlinePortal_OthHCP,E7. Which of the following organizations/providers do you have an online medical,7278,4,1.0 | 1.0 | 1.0 | 1.0 | 1.0 | 1.0
+HINTS7_2024,OnlinePortal_Insurer,E7. Which of the following organizations/providers do you have an online medical,7278,4,1.0 | 1.0 | 2.0 | 2.0 | 2.0 | 1.0
+HINTS7_2024,OnlinePortal_Lab,E7. Which of the following organizations/providers do you have an online medical,7278,4,2.0 | 1.0 | 1.0 | 1.0 | 1.0 | 1.0
+HINTS7_2024,OnlinePortal_Pharmacy,E7. Which of the following organizations/providers do you have an online medical,7278,4,1.0 | 1.0 | 1.0 | 2.0 | 2.0 | 1.0
+HINTS7_2024,OnlinePortal_Hospital,E7. Which of the following organizations/providers do you have an online medical,7278,4,2.0 | 2.0 | 2.0 | 2.0 | 2.0 | 2.0
+HINTS7_2024,OnlinePortal_NoRec,E7. Which of the following organizations/providers do you have an online medical,7278,4,2.0 | 2.0 | 2.0 | 2.0 | 2.0 | 2.0
+HINTS7_2024,OnlinePortal_Cat,Derived variable to categorize responses given to question E7.,7278,10,7.0 | 7.0 | 7.0 | 7.0 | 7.0 | 7.0
+HINTS7_2024,UsedPortalOrganizerApp,E8. Have you ever used an app like Apple Health Records or CommonHealth to combi,7278,4,2.0 | 2.0 | 1.0 | 2.0 | 2.0 | 2.0
+HINTS7_2024,Caregiving_MentalHealth2,F5. (For the individual to whom you provide the most care) Please mark all condi,7278,7,-1.0 | 2.0 | -1.0 | -1.0 | -1.0 | -1.0
+HINTS7_2024,ReasonTest_DocRec,G2. What were the reasons you had genetic testing? - Doctor's recommendation,7278,7,2.0 | 1.0 | -1.0 | -1.0 | 1.0 | -1.0
+HINTS7_2024,ConfidentTestAccurate,"G3. Overall, how confident are you that your genetic testing results are correct",7278,11,3.0 | 1.0 | -1.0 | -1.0 | 3.0 | -1.0
+HINTS7_2024,OwnAbilityTakeCareHealth,"I2. Overall, how confident are you about your ability to take good care of your ",7278,8,1.0 | 1.0 | 3.0 | 3.0 | 3.0 | 2.0
+HINTS7_2024,MedConditions_Diabetes,I5a. Has a doctor or other health professional ever told you that you had diabet,7278,4,2.0 | 2.0 | 2.0 | 2.0 | 1.0 | 2.0
+HINTS7_2024,MedConditions_HighBP,I5b. Has a doctor or other health professional ever told you that you had high b,7278,4,1.0 | 1.0 | 1.0 | 1.0 | 1.0 | 2.0
+HINTS7_2024,MedConditions_HeartCondition,I5c. Has a doctor or other health professional ever told you that you had a hear,7278,4,2.0 | 2.0 | 2.0 | 2.0 | 2.0 | 2.0
+HINTS7_2024,MedConditions_LungDisease,I5d. Has a doctor or other health professional ever told you that you had chroni,7278,4,2.0 | 2.0 | 2.0 | 2.0 | 1.0 | 2.0
+HINTS7_2024,MedConditions_Depression,I5e. Has a doctor or other health professional ever told you that you had depres,7278,4,2.0 | 2.0 | 1.0 | 2.0 | 1.0 | 2.0
+HINTS7_2024,TobMessages_Trusted,N3. Based on the message(s) that you saw which of the following are true? - I tr,7278,7,1.0 | -1.0 | 2.0 | -1.0 | 2.0 | -1.0
+HINTS7_2024,DocTalkLDCT,"O2. At any time in the past year, did a doctor or other health professional talk",7278,7,3.0 | 3.0 | 3.0 | 1.0 | 1.0 | 3.0
+HINTS7_2024,DocTellColorectalTests2,O3. Has a doctor or other health professional ever told you there are a few diff,7278,6,2.0 | 1.0 | 3.0 | 1.0 | 2.0 | 1.0
+HINTS6_2022,APP_REGION,Appalachian Subregion,6252,2,-9.0 | -9.0 | -9.0 | -9.0 | -9.0 | -9.0
+HINTS6_2022,CancerTrustDoctor,"A3a. In general, how much would you trust information about cancer from a doctor",6252,6,1.0 | 1.0 | 1.0 | 1.0 | 2.0 | 1.0
+HINTS6_2022,CancerTrustFamily,"A3b. In general, how much would you trust information about cancer from family o",6252,6,-9.0 | 2.0 | 2.0 | -9.0 | 2.0 | 2.0
+HINTS6_2022,CancerTrustGov,"A3c. In general, how much would you trust information about cancer from governme",6252,6,-9.0 | 1.0 | 2.0 | -9.0 | 2.0 | 2.0
+HINTS6_2022,CancerTrustCharities,"A3d. In general, how much would you trust information about cancer from charitab",6252,6,-9.0 | 2.0 | 3.0 | -9.0 | 4.0 | 1.0
+HINTS6_2022,CancerTrustReligiousOrgs,"A3e. In general, how much would you trust information about cancer from religiou",6252,6,-9.0 | 2.0 | 4.0 | -9.0 | 4.0 | 3.0
+HINTS6_2022,CancerTrustScientists,A3f. In general how much would you trust information about cancer from scientist,6252,6,-9.0 | 1.0 | 1.0 | -9.0 | 2.0 | 1.0
+HINTS6_2022,UseInternet,"B1. Do you ever go on-line to access the Internet or World Wide Web, or to send ",6252,3,2.0 | 1.0 | 1.0 | 2.0 | 1.0 | 1.0
+HINTS6_2022,Internet_DialUp,"B2a. When you use the Internet, do you access it through a regular dial-up telep",6252,6,-2.0 | 2.0 | 2.0 | -1.0 | 2.0 | 2.0
+HINTS6_2022,Internet_HighSpeed,"B2b. When you use the Internet, do you access it through a high-speed service su",6252,6,-1.0 | 1.0 | 1.0 | -1.0 | 1.0 | 1.0
+HINTS6_2022,Internet_Cell,"B2c. When you use the Internet, do you access it through a cellular network (i.e",6252,6,-1.0 | 2.0 | 1.0 | -1.0 | 1.0 | 1.0
+HINTS6_2022,Electronic2_HealthInfo,B3a. In the past 12 months have you used the Internet to look for health or medi,6252,6,-2.0 | 1.0 | 1.0 | -1.0 | 1.0 | 1.0
+HINTS6_2022,Electronic2_MessageDoc,B3b. In the past 12 months have you used the Internet to send a message to a hea,6252,6,-1.0 | 1.0 | 1.0 | -1.0 | 1.0 | 1.0
+HINTS6_2022,Electronic2_TestResults,B3c. In the past 12 months have you used the Internet to view medical test resul,6252,6,-1.0 | 1.0 | 1.0 | -1.0 | 1.0 | 1.0
+HINTS6_2022,Electronic2_MadeAppts,B3d. In the past 12 months have you used the Internet to make an appointment wit,6252,6,-1.0 | 2.0 | 1.0 | -1.0 | 1.0 | 1.0
+HINTS6_2022,InternetConnection,B4. How satisfied are you with your Internet connection at home to meet health-r,6252,10,-2.0 | 1.0 | 2.0 | -1.0 | 2.0 | 1.0
+HINTS6_2022,ConfidentInternetHealth,B5. How confident are you that you can find helpful health resources on the Inte,6252,7,5.0 | 1.0 | 1.0 | 5.0 | 4.0 | 2.0
+HINTS6_2022,UsedHealthWellnessApps2,"B7. In the past 12 months, have you used a health or wellness app on your tablet",6252,9,-2.0 | 2.0 | 1.0 | -2.0 | 1.0 | 1.0
+HINTS6_2022,ChanceAskQuestions,"C3a. In the past 12 months, how often did your doctors, nurses, or other health ",6252,9,1.0 | 1.0 | 1.0 | 1.0 | 1.0 | 1.0
+HINTS6_2022,FeelingsAddressed,"C3b. In the past 12 months, how often did your doctors, nurses, or other health ",6252,8,1.0 | 1.0 | 1.0 | 3.0 | 2.0 | 2.0
+HINTS6_2022,InvolvedDecisions,"C3c. In the past 12 months, how often did your doctors, nurses, or other health ",6252,9,1.0 | 1.0 | 1.0 | 1.0 | 3.0 | 1.0
+HINTS6_2022,UnderstoodNextSteps,"C3d. In the past 12 months, how often did your doctors, nurses, or other health ",6252,9,1.0 | 1.0 | 1.0 | 1.0 | 3.0 | 1.0
+HINTS6_2022,ExplainedClearly,"C3e. In the past 12 months, how often did your doctors, nurses, or other health ",6252,8,1.0 | 1.0 | 1.0 | 1.0 | 2.0 | 1.0
+HINTS6_2022,SpentEnoughTime,"C3f. In the past 12 months, how often did your doctors, nurses, or other health ",6252,8,1.0 | 1.0 | 1.0 | 1.0 | 2.0 | 3.0
+HINTS6_2022,HelpUncertainty,"C3g. In the past 12 months, how often did your doctors, nurses, or other health ",6252,9,1.0 | 1.0 | 1.0 | 1.0 | 3.0 | 2.0
+HINTS6_2022,ConfidentMedForms,C7. How confident are you filling out medical forms by yourself?,6252,7,4.0 | 1.0 | 2.0 | 1.0 | 1.0 | 2.0
+HINTS6_2022,TrustHCSystem,"C8. How much do you trust the health care system (for example, hospitals, pharma",6252,7,1.0 | 1.0 | 2.0 | 2.0 | 2.0 | 3.0
+HINTS6_2022,ReceiveTelehealthCare,"D1. In the past 12 months, did you receive care from a doctor or health professi",6252,6,4.0 | 1.0 | -9.0 | 2.0 | 1.0 | 1.0
+HINTS6_2022,OfferedAccessHCP3,E1a. Have you ever been offered online access to your medical records (for examp,6252,6,2.0 | 1.0 | -7.0 | 3.0 | 1.0 | 3.0
+HINTS6_2022,OfferedAccessInsurer3,E1b. Have you ever been offered online access to your medical records (for examp,6252,6,2.0 | 1.0 | -7.0 | 3.0 | 1.0 | 3.0
+HINTS6_2022,HCPEncourageOnlineRec2,"E2. Have any of your health care providers, including doctors, nurses, or office",6252,4,2.0 | 1.0 | -7.0 | 2.0 | 1.0 | 2.0
+HINTS6_2022,AccessOnlineRecord2,E3. How many times did you access your online medical record or patient portal i,6252,8,5.0 | 4.0 | -7.0 | 5.0 | 2.0 | 5.0
+HINTS6_2022,HowAccessOnlineRecord2,E4. How did you access your online medical record or patient portal?,6252,10,-1.0 | 2.0 | -7.0 | -1.0 | 2.0 | -1.0
+HINTS6_2022,RecordsOnline_ViewResults,E5a. In the past 12 months have you used your online medical record or patient p,6252,7,-1.0 | 1.0 | -7.0 | -1.0 | 1.0 | -1.0
+HINTS6_2022,RecordsOnline_DownloadHealth,E5b. In the past 12 months have you used your online medical record or patient p,6252,7,-1.0 | 2.0 | -7.0 | -1.0 | 2.0 | -1.0
+HINTS6_2022,RecordsOnline_Send3rdParty,E5c. In the past 12 months have you used your online medical record or patient p,6252,7,-1.0 | 1.0 | -7.0 | -1.0 | 2.0 | -1.0
+HINTS6_2022,RecordsOnline_ViewNotes,E5d. In the past 12 months have you used your online medical record or patient p,6252,7,-1.0 | 1.0 | -7.0 | -1.0 | 1.0 | -1.0
+HINTS6_2022,UnderstandOnlineMedRec2,E6. How easy or difficult was it to understand the health information in your on,6252,9,-1.0 | 1.0 | -7.0 | -1.0 | 1.0 | -1.0
+HINTS6_2022,OnlinePortal_PCP,E7. Which of the following organizations/providers do you have an online medical,6252,4,1.0 | 1.0 | -7.0 | 1.0 | 1.0 | 2.0
+HINTS6_2022,OnlinePortal_OthHCP,E7. Which of the following organizations/providers do you have an online medical,6252,4,2.0 | 2.0 | -7.0 | 2.0 | 1.0 | 2.0
+HINTS6_2022,OnlinePortal_Insurer,E7. Which of the following organizations/providers do you have an online medical,6252,4,2.0 | 1.0 | -7.0 | 2.0 | 1.0 | 2.0
+HINTS6_2022,OnlinePortal_Lab,E7. Which of the following organizations/providers do you have an online medical,6252,4,2.0 | 1.0 | -7.0 | 2.0 | 2.0 | 2.0
+HINTS6_2022,OnlinePortal_Pharmacy,E7. Which of the following organizations/providers do you have an online medical,6252,4,2.0 | 1.0 | -7.0 | 2.0 | 1.0 | 2.0
+HINTS6_2022,OnlinePortal_NoRec,E7. Which of the following organizations/providers do you have an online medical,6252,4,2.0 | 2.0 | -7.0 | 2.0 | 2.0 | 1.0
+HINTS6_2022,ONLINEPORTAL_CAT,Derived variable to categorize responses given to question E7.,6252,9,1.0 | 7.0 | -7.0 | 1.0 | 7.0 | 6.0
+HINTS6_2022,MultipleOnlinePortals,"E8. Do you have one, or more than one patient portal or online medical record?",6252,7,1.0 | 2.0 | -7.0 | 1.0 | 2.0 | -1.0
+HINTS6_2022,UsedPortalOrganizerApp,E9. Have you ever used an app like 'Apple Health Records' or 'CommonHealth' to c,6252,7,-1.0 | 2.0 | -7.0 | -2.0 | 2.0 | -1.0
+HINTS6_2022,Caregiving_MentalHealth2,F3. (For the individual to whom you provide the most care) For which conditions ,6252,7,-1.0 | -1.0 | -7.0 | -1.0 | -1.0 | -1.0
+HINTS6_2022,TestSource_HCPCounselor,G2. From which of the following sources did you read or hear anything about gene,6252,7,-1.0 | 2.0 | -7.0 | 2.0 | 2.0 | 2.0
+HINTS6_2022,RiskTest_Counselor,G4. If you had a genetic test for disease risk (including prenatal carrier testi,6252,7,-1.0 | -1.0 | -7.0 | -1.0 | -1.0 | -1.0
+HINTS6_2022,ReasonTest_DocRec,G5. What were the reasons you had genetic testing? - Doctor's recommendation,6252,7,-1.0 | -1.0 | -7.0 | -1.0 | -1.0 | -1.0
+HINTS6_2022,ConfidentTestAccurate,"G6. Overall, how confident are you that your genetic testing results are correct",6252,11,-1.0 | -1.0 | -7.0 | -1.0 | -1.0 | -1.0
+HINTS6_2022,SharedRes4_Counselor,"G7. If you had any genetic test, who did you share the results with? Genetic cou",6252,7,-1.0 | -1.0 | -7.0 | -1.0 | -1.0 | -1.0
+HINTS6_2022,GenTestExpectations,"G8. If you had a genetic test, what did you expect would happen to your test res",6252,7,-1.0 | -1.0 | -7.0 | -1.0 | -1.0 | -1.0
+HINTS6_2022,LabShare_ScientificRes,"G9. In addition to you and your health care provider, who did you think the labo",6252,7,-1.0 | -1.0 | -7.0 | -1.0 | -1.0 | -1.0
+HINTS6_2022,LabShare_ForProfitCo,"G9. In addition to you and your health care provider, who did you think the labo",6252,7,-1.0 | -1.0 | -7.0 | -1.0 | -1.0 | -1.0
+HINTS6_2022,LabShare_LEAgencies,"G9. In addition to you and your health care provider, who did you think the labo",6252,7,-1.0 | -1.0 | -7.0 | -1.0 | -1.0 | -1.0
+HINTS6_2022,LabShare_InsCo,"G9. In addition to you and your health care provider, who did you think the labo",6252,7,-1.0 | -1.0 | -7.0 | -1.0 | -1.0 | -1.0
+HINTS6_2022,UndGenTest3_Counselor,"G10. If you had any genetic test, who helped you understand the results? Genetic",6252,7,-1.0 | -1.0 | -7.0 | -1.0 | -1.0 | -1.0
+HINTS6_2022,OwnAbilityTakeCareHealth,"H2. Overall, how confident are you about your ability to take good care of your ",6252,8,1.0 | 3.0 | -7.0 | 2.0 | 3.0 | 4.0
+HINTS6_2022,MedConditions_Diabetes,H6a. Has a doctor or other health professional ever told you that you had diabet,6252,4,2.0 | 2.0 | -7.0 | 1.0 | 2.0 | 2.0
+HINTS6_2022,MedConditions_HighBP,H6b. Has a doctor or other health professional ever told you that you had high b,6252,4,1.0 | 1.0 | -7.0 | 1.0 | 1.0 | 2.0
+HINTS6_2022,MedConditions_HeartCondition,H6c. Has a doctor or other health professional ever told you that you had a hear,6252,4,1.0 | 2.0 | -7.0 | 1.0 | 2.0 | 2.0
+HINTS6_2022,MedConditions_LungDisease,H6d. Has a doctor or other health professional ever told you that you had chroni,6252,4,2.0 | 2.0 | -7.0 | 2.0 | 2.0 | 1.0
+HINTS6_2022,MedConditions_Depression,H6e. Has a doctor or other health professional ever told you that you had depres,6252,4,2.0 | 1.0 | -7.0 | 1.0 | 2.0 | 1.0
+HINTS6_2022,HCPAlcohol_Alcoholism,L8. Which of the following health consequences of alcohol did the doctor or othe,6252,6,1.0 | -1.0 | -7.0 | -1.0 | -1.0 | -1.0
+HINTS6_2022,HCPAlcohol_Cancer,L8. Which of the following health consequences of alcohol did the doctor or othe,6252,6,1.0 | -1.0 | -7.0 | -1.0 | -1.0 | -1.0
+HINTS6_2022,HCPAlcohol_Diabetes,L8. Which of the following health consequences of alcohol did the doctor or othe,6252,6,1.0 | -1.0 | -7.0 | -1.0 | -1.0 | -1.0
+HINTS6_2022,HCPAlcohol_Heart,L8. Which of the following health consequences of alcohol did the doctor or othe,6252,6,1.0 | -1.0 | -7.0 | -1.0 | -1.0 | -1.0
+HINTS6_2022,HCPAlcohol_Liver,L8. Which of the following health consequences of alcohol did the doctor or othe,6252,6,1.0 | -1.0 | -7.0 | -1.0 | -1.0 | -1.0
+HINTS6_2022,AntiTobacco_OthOnline,"N2. During the past 3 months, have you noticed or heard any anti-tobacco message",6252,4,2.0 | 2.0 | -7.0 | 2.0 | 2.0 | 2.0
+HINTS6_2022,TobaccoAds_OthOnline,"N3. During the past 3 months, have you noticed or heard tobacco products being a",6252,4,2.0 | 2.0 | -7.0 | 2.0 | 2.0 | 2.0
+HINTS6_2022,DocTalkLDCT,"O3. At any time in the past year, did a doctor or other health professional talk",6252,7,1.0 | 1.0 | -7.0 | 3.0 | 1.0 | 3.0
+HINTS6_2022,DocTellColorectalTests,O5. Has a doctor or other health professional ever told you there are a few diff,6252,6,-9.0 | 1.0 | -7.0 | 1.0 | 3.0 | 3.0

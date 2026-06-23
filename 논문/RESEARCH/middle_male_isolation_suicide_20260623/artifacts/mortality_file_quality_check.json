@@ -1,0 +1,9 @@
+{
+  "file_name": "07_자살률_성연령지역. 시도_사망원인_104항목__성_연령_5세_별__사망자수__사망률_1996__20260623212329.xlsx",
+  "causes": [
+    "계"
+  ],
+  "has_suicide_cause": false,
+  "parsed_cause": "계",
+  "note": "Downloaded table contains only cause='계'; parsed as all-cause mortality, not suicide."
+}

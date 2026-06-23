@@ -1,0 +1,131 @@
+﻿dataset,variable,label,value,raw_n,raw_pct
+HINTS7_2024,APP_REGION,Appalachian Subregion,,6876,0.9447650453421269
+HINTS7_2024,APP_REGION,Appalachian Subregion,A,402,0.055234954657873044
+HINTS7_2024,FreqUseInternet,"B1. About how often do you use the Internet, either on a computer, laptop, smart",1.0,5755,0.7907392140697994
+HINTS7_2024,FreqUseInternet,"B1. About how often do you use the Internet, either on a computer, laptop, smart",2.0,481,0.06608958505083815
+HINTS7_2024,FreqUseInternet,"B1. About how often do you use the Internet, either on a computer, laptop, smart",3.0,416,0.057158560043968125
+HINTS7_2024,FreqUseInternet,"B1. About how often do you use the Internet, either on a computer, laptop, smart",6.0,320,0.04396812311074471
+HINTS7_2024,FreqUseInternet,"B1. About how often do you use the Internet, either on a computer, laptop, smart",5.0,162,0.02225886232481451
+HINTS7_2024,FreqUseInternet,"B1. About how often do you use the Internet, either on a computer, laptop, smart",4.0,115,0.01580104424292388
+HINTS7_2024,FreqUseInternet,"B1. About how often do you use the Internet, either on a computer, laptop, smart",-9.0,29,0.003984611156911239
+HINTS7_2024,Internet_Cell2,"B2a. When you use the Internet, do you connect to it through a cellular network ",1.0,5640,0.7749381698268755
+HINTS7_2024,Internet_Cell2,"B2a. When you use the Internet, do you connect to it through a cellular network ",2.0,1271,0.17463588898048915
+HINTS7_2024,Internet_Cell2,"B2a. When you use the Internet, do you connect to it through a cellular network ",-1.0,273,0.03751030502885408
+HINTS7_2024,Internet_Cell2,"B2a. When you use the Internet, do you connect to it through a cellular network ",-9.0,47,0.006457818081890629
+HINTS7_2024,Internet_Cell2,"B2a. When you use the Internet, do you connect to it through a cellular network ",-2.0,47,0.006457818081890629
+HINTS7_2024,Internet_HighSpeed2,"B2b. When you use the Internet, do you connect to it through a service such as D",1.0,6063,0.8330585325638912
+HINTS7_2024,Internet_HighSpeed2,"B2b. When you use the Internet, do you connect to it through a service such as D",2.0,845,0.11610332508931025
+HINTS7_2024,Internet_HighSpeed2,"B2b. When you use the Internet, do you connect to it through a service such as D",-1.0,273,0.03751030502885408
+HINTS7_2024,Internet_HighSpeed2,"B2b. When you use the Internet, do you connect to it through a service such as D",-9.0,50,0.006870019236053861
+HINTS7_2024,Internet_HighSpeed2,"B2b. When you use the Internet, do you connect to it through a service such as D",-2.0,47,0.006457818081890629
+HINTS7_2024,Electronic2_HealthInfo,B3a. In the past 12 months have you used the Internet to look for health or medi,1.0,5806,0.7977466336905743
+HINTS7_2024,Electronic2_HealthInfo,B3a. In the past 12 months have you used the Internet to look for health or medi,2.0,1123,0.15430063204176972
+HINTS7_2024,Electronic2_HealthInfo,B3a. In the past 12 months have you used the Internet to look for health or medi,-1.0,263,0.03613630118164331
+HINTS7_2024,Electronic2_HealthInfo,B3a. In the past 12 months have you used the Internet to look for health or medi,-2.0,57,0.007831821929101401
+HINTS7_2024,Electronic2_HealthInfo,B3a. In the past 12 months have you used the Internet to look for health or medi,-9.0,29,0.003984611156911239
+HINTS7_2024,Electronic2_MessageDoc,B3b. In the past 12 months have you used the Internet to send a message to a hea,1.0,4558,0.62627095355867
+HINTS7_2024,Electronic2_MessageDoc,B3b. In the past 12 months have you used the Internet to send a message to a hea,2.0,2359,0.32412750755702113
+HINTS7_2024,Electronic2_MessageDoc,B3b. In the past 12 months have you used the Internet to send a message to a hea,-1.0,270,0.03709810387469085
+HINTS7_2024,Electronic2_MessageDoc,B3b. In the past 12 months have you used the Internet to send a message to a hea,-2.0,50,0.006870019236053861
+HINTS7_2024,Electronic2_MessageDoc,B3b. In the past 12 months have you used the Internet to send a message to a hea,-9.0,41,0.005633415773564166
+HINTS7_2024,Electronic2_TestResults,B3c. In the past 12 months have you used the Internet to view medical test resul,1.0,5025,0.690436933223413
+HINTS7_2024,Electronic2_TestResults,B3c. In the past 12 months have you used the Internet to view medical test resul,2.0,1885,0.25899972519923053
+HINTS7_2024,Electronic2_TestResults,B3c. In the past 12 months have you used the Internet to view medical test resul,-1.0,271,0.037235504259411925
+HINTS7_2024,Electronic2_TestResults,B3c. In the past 12 months have you used the Internet to view medical test resul,-2.0,49,0.006732618851332784
+HINTS7_2024,Electronic2_TestResults,B3c. In the past 12 months have you used the Internet to view medical test resul,-9.0,48,0.006595218466611707
+HINTS7_2024,Electronic2_MadeAppts,B3d. In the past 12 months have you used the Internet to make an appointment wit,1.0,4599,0.6319043693322342
+HINTS7_2024,Electronic2_MadeAppts,B3d. In the past 12 months have you used the Internet to make an appointment wit,2.0,2321,0.31890629293762024
+HINTS7_2024,Electronic2_MadeAppts,B3d. In the past 12 months have you used the Internet to make an appointment wit,-1.0,266,0.03654850233580654
+HINTS7_2024,Electronic2_MadeAppts,B3d. In the past 12 months have you used the Internet to make an appointment wit,-2.0,54,0.00741962077493817
+HINTS7_2024,Electronic2_MadeAppts,B3d. In the past 12 months have you used the Internet to make an appointment wit,-9.0,38,0.005221214619400934
+HINTS7_2024,Caregiving_MentalHealth2,F5. (For the individual to whom you provide the most care) Please mark all condi,-1.0,5776,0.793624622148942
+HINTS7_2024,Caregiving_MentalHealth2,F5. (For the individual to whom you provide the most care) Please mark all condi,2.0,857,0.11775212970596317
+HINTS7_2024,Caregiving_MentalHealth2,F5. (For the individual to whom you provide the most care) Please mark all condi,1.0,311,0.042731519648255015
+HINTS7_2024,Caregiving_MentalHealth2,F5. (For the individual to whom you provide the most care) Please mark all condi,-7.0,231,0.031739488870568835
+HINTS7_2024,Caregiving_MentalHealth2,F5. (For the individual to whom you provide the most care) Please mark all condi,-6.0,76,0.010442429238801869
+HINTS7_2024,Caregiving_MentalHealth2,F5. (For the individual to whom you provide the most care) Please mark all condi,-9.0,17,0.0023358065402583126
+HINTS7_2024,Caregiving_MentalHealth2,F5. (For the individual to whom you provide the most care) Please mark all condi,-2.0,10,0.0013740038472107722
+HINTS7_2024,MedConditions_Depression,I5e. Has a doctor or other health professional ever told you that you had depres,2.0,5031,0.6912613355317395
+HINTS7_2024,MedConditions_Depression,I5e. Has a doctor or other health professional ever told you that you had depres,1.0,1866,0.2563891178895301
+HINTS7_2024,MedConditions_Depression,I5e. Has a doctor or other health professional ever told you that you had depres,-7.0,288,0.03957131079967024
+HINTS7_2024,MedConditions_Depression,I5e. Has a doctor or other health professional ever told you that you had depres,-9.0,93,0.012778235779060182
+HINTS6_2022,APP_REGION,Appalachian Subregion,-9.0,5932,0.9488163787587972
+HINTS6_2022,APP_REGION,Appalachian Subregion,1.0,320,0.05118362124120281
+HINTS6_2022,UseInternet,"B1. Do you ever go on-line to access the Internet or World Wide Web, or to send ",1.0,5166,0.8262955854126679
+HINTS6_2022,UseInternet,"B1. Do you ever go on-line to access the Internet or World Wide Web, or to send ",2.0,1084,0.17338451695457455
+HINTS6_2022,UseInternet,"B1. Do you ever go on-line to access the Internet or World Wide Web, or to send ",-9.0,2,0.0003198976327575176
+HINTS6_2022,Internet_DialUp,"B2a. When you use the Internet, do you access it through a regular dial-up telep",2.0,4920,0.7869481765834933
+HINTS6_2022,Internet_DialUp,"B2a. When you use the Internet, do you access it through a regular dial-up telep",-1.0,977,0.15626999360204735
+HINTS6_2022,Internet_DialUp,"B2a. When you use the Internet, do you access it through a regular dial-up telep",1.0,186,0.029750479846449136
+HINTS6_2022,Internet_DialUp,"B2a. When you use the Internet, do you access it through a regular dial-up telep",-2.0,107,0.01711452335252719
+HINTS6_2022,Internet_DialUp,"B2a. When you use the Internet, do you access it through a regular dial-up telep",-9.0,60,0.009596928982725527
+HINTS6_2022,Internet_DialUp,"B2a. When you use the Internet, do you access it through a regular dial-up telep",-6.0,2,0.0003198976327575176
+HINTS6_2022,Internet_HighSpeed,"B2b. When you use the Internet, do you access it through a high-speed service su",1.0,4675,0.7477607165706974
+HINTS6_2022,Internet_HighSpeed,"B2b. When you use the Internet, do you access it through a high-speed service su",-1.0,971,0.1553103007037748
+HINTS6_2022,Internet_HighSpeed,"B2b. When you use the Internet, do you access it through a high-speed service su",2.0,439,0.07021753039027512
+HINTS6_2022,Internet_HighSpeed,"B2b. When you use the Internet, do you access it through a high-speed service su",-2.0,113,0.018074216250799743
+HINTS6_2022,Internet_HighSpeed,"B2b. When you use the Internet, do you access it through a high-speed service su",-9.0,52,0.008317338451695458
+HINTS6_2022,Internet_HighSpeed,"B2b. When you use the Internet, do you access it through a high-speed service su",-6.0,2,0.0003198976327575176
+HINTS6_2022,Internet_Cell,"B2c. When you use the Internet, do you access it through a cellular network (i.e",1.0,4141,0.6623480486244402
+HINTS6_2022,Internet_Cell,"B2c. When you use the Internet, do you access it through a cellular network (i.e",-1.0,970,0.15515035188739604
+HINTS6_2022,Internet_Cell,"B2c. When you use the Internet, do you access it through a cellular network (i.e",2.0,954,0.15259117082533588
+HINTS6_2022,Internet_Cell,"B2c. When you use the Internet, do you access it through a cellular network (i.e",-2.0,114,0.018234165067178502
+HINTS6_2022,Internet_Cell,"B2c. When you use the Internet, do you access it through a cellular network (i.e",-9.0,71,0.011356365962891874
+HINTS6_2022,Internet_Cell,"B2c. When you use the Internet, do you access it through a cellular network (i.e",-6.0,2,0.0003198976327575176
+HINTS6_2022,Electronic2_HealthInfo,B3a. In the past 12 months have you used the Internet to look for health or medi,1.0,4371,0.6991362763915547
+HINTS6_2022,Electronic2_HealthInfo,B3a. In the past 12 months have you used the Internet to look for health or medi,-1.0,902,0.14427383237364044
+HINTS6_2022,Electronic2_HealthInfo,B3a. In the past 12 months have you used the Internet to look for health or medi,2.0,751,0.12012156110044786
+HINTS6_2022,Electronic2_HealthInfo,B3a. In the past 12 months have you used the Internet to look for health or medi,-2.0,182,0.0291106845809341
+HINTS6_2022,Electronic2_HealthInfo,B3a. In the past 12 months have you used the Internet to look for health or medi,-9.0,44,0.007037747920665387
+HINTS6_2022,Electronic2_HealthInfo,B3a. In the past 12 months have you used the Internet to look for health or medi,-6.0,2,0.0003198976327575176
+HINTS6_2022,Electronic2_MessageDoc,B3b. In the past 12 months have you used the Internet to send a message to a hea,1.0,3337,0.5337492002559181
+HINTS6_2022,Electronic2_MessageDoc,B3b. In the past 12 months have you used the Internet to send a message to a hea,2.0,1773,0.28358925143953934
+HINTS6_2022,Electronic2_MessageDoc,B3b. In the past 12 months have you used the Internet to send a message to a hea,-1.0,921,0.14731285988483686
+HINTS6_2022,Electronic2_MessageDoc,B3b. In the past 12 months have you used the Internet to send a message to a hea,-2.0,163,0.026071657069737682
+HINTS6_2022,Electronic2_MessageDoc,B3b. In the past 12 months have you used the Internet to send a message to a hea,-9.0,56,0.008957133717210493
+HINTS6_2022,Electronic2_MessageDoc,B3b. In the past 12 months have you used the Internet to send a message to a hea,-6.0,2,0.0003198976327575176
+HINTS6_2022,Electronic2_TestResults,B3c. In the past 12 months have you used the Internet to view medical test resul,1.0,3721,0.5951695457453615
+HINTS6_2022,Electronic2_TestResults,B3c. In the past 12 months have you used the Internet to view medical test resul,2.0,1384,0.22136916186820219
+HINTS6_2022,Electronic2_TestResults,B3c. In the past 12 months have you used the Internet to view medical test resul,-1.0,927,0.1482725527831094
+HINTS6_2022,Electronic2_TestResults,B3c. In the past 12 months have you used the Internet to view medical test resul,-2.0,157,0.02511196417146513
+HINTS6_2022,Electronic2_TestResults,B3c. In the past 12 months have you used the Internet to view medical test resul,-9.0,61,0.009756877799104287
+HINTS6_2022,Electronic2_TestResults,B3c. In the past 12 months have you used the Internet to view medical test resul,-6.0,2,0.0003198976327575176
+HINTS6_2022,Caregiving_MentalHealth2,F3. (For the individual to whom you provide the most care) For which conditions ,-1.0,5080,0.8125399872040947
+HINTS6_2022,Caregiving_MentalHealth2,F3. (For the individual to whom you provide the most care) For which conditions ,2.0,692,0.11068458093410109
+HINTS6_2022,Caregiving_MentalHealth2,F3. (For the individual to whom you provide the most care) For which conditions ,1.0,224,0.03582853486884197
+HINTS6_2022,Caregiving_MentalHealth2,F3. (For the individual to whom you provide the most care) For which conditions ,-7.0,150,0.02399232245681382
+HINTS6_2022,Caregiving_MentalHealth2,F3. (For the individual to whom you provide the most care) For which conditions ,-6.0,66,0.01055662188099808
+HINTS6_2022,Caregiving_MentalHealth2,F3. (For the individual to whom you provide the most care) For which conditions ,-9.0,31,0.004958413307741522
+HINTS6_2022,Caregiving_MentalHealth2,F3. (For the individual to whom you provide the most care) For which conditions ,-2.0,9,0.0014395393474088292
+HINTS6_2022,TestSource_HCPCounselor,G2. From which of the following sources did you read or hear anything about gene,2.0,3191,0.5103966730646193
+HINTS6_2022,TestSource_HCPCounselor,G2. From which of the following sources did you read or hear anything about gene,1.0,1514,0.24216250799744082
+HINTS6_2022,TestSource_HCPCounselor,G2. From which of the following sources did you read or hear anything about gene,-1.0,1237,0.19785668586052463
+HINTS6_2022,TestSource_HCPCounselor,G2. From which of the following sources did you read or hear anything about gene,-7.0,155,0.024792066538707615
+HINTS6_2022,TestSource_HCPCounselor,G2. From which of the following sources did you read or hear anything about gene,-6.0,99,0.01583493282149712
+HINTS6_2022,TestSource_HCPCounselor,G2. From which of the following sources did you read or hear anything about gene,-9.0,47,0.007517594369801663
+HINTS6_2022,TestSource_HCPCounselor,G2. From which of the following sources did you read or hear anything about gene,-2.0,9,0.0014395393474088292
+HINTS6_2022,RiskTest_Counselor,G4. If you had a genetic test for disease risk (including prenatal carrier testi,-1.0,4171,0.667146513115803
+HINTS6_2022,RiskTest_Counselor,G4. If you had a genetic test for disease risk (including prenatal carrier testi,2.0,1545,0.24712092130518235
+HINTS6_2022,RiskTest_Counselor,G4. If you had a genetic test for disease risk (including prenatal carrier testi,-7.0,158,0.02527191298784389
+HINTS6_2022,RiskTest_Counselor,G4. If you had a genetic test for disease risk (including prenatal carrier testi,1.0,152,0.02431222008957134
+HINTS6_2022,RiskTest_Counselor,G4. If you had a genetic test for disease risk (including prenatal carrier testi,-6.0,133,0.02127319257837492
+HINTS6_2022,RiskTest_Counselor,G4. If you had a genetic test for disease risk (including prenatal carrier testi,-9.0,89,0.014235444657709533
+HINTS6_2022,RiskTest_Counselor,G4. If you had a genetic test for disease risk (including prenatal carrier testi,-2.0,4,0.0006397952655150352
+HINTS6_2022,SharedRes4_Counselor,"G7. If you had any genetic test, who did you share the results with? Genetic cou",-1.0,4169,0.6668266154830454
+HINTS6_2022,SharedRes4_Counselor,"G7. If you had any genetic test, who did you share the results with? Genetic cou",2.0,1456,0.2328854766474728
+HINTS6_2022,SharedRes4_Counselor,"G7. If you had any genetic test, who did you share the results with? Genetic cou",-9.0,175,0.02799104286628279
+HINTS6_2022,SharedRes4_Counselor,"G7. If you had any genetic test, who did you share the results with? Genetic cou",-7.0,160,0.025591810620601407
+HINTS6_2022,SharedRes4_Counselor,"G7. If you had any genetic test, who did you share the results with? Genetic cou",1.0,147,0.023512476007677544
+HINTS6_2022,SharedRes4_Counselor,"G7. If you had any genetic test, who did you share the results with? Genetic cou",-6.0,139,0.022232885476647472
+HINTS6_2022,SharedRes4_Counselor,"G7. If you had any genetic test, who did you share the results with? Genetic cou",-2.0,6,0.0009596928982725527
+HINTS6_2022,UndGenTest3_Counselor,"G10. If you had any genetic test, who helped you understand the results? Genetic",-1.0,4161,0.6655470249520153
+HINTS6_2022,UndGenTest3_Counselor,"G10. If you had any genetic test, who helped you understand the results? Genetic",2.0,1373,0.21960972488803582
+HINTS6_2022,UndGenTest3_Counselor,"G10. If you had any genetic test, who helped you understand the results? Genetic",1.0,219,0.03502879078694818
+HINTS6_2022,UndGenTest3_Counselor,"G10. If you had any genetic test, who helped you understand the results? Genetic",-9.0,183,0.02927063339731286
+HINTS6_2022,UndGenTest3_Counselor,"G10. If you had any genetic test, who helped you understand the results? Genetic",-7.0,163,0.026071657069737682
+HINTS6_2022,UndGenTest3_Counselor,"G10. If you had any genetic test, who helped you understand the results? Genetic",-6.0,139,0.022232885476647472
+HINTS6_2022,UndGenTest3_Counselor,"G10. If you had any genetic test, who helped you understand the results? Genetic",-2.0,14,0.0022392834293026233
+HINTS6_2022,MedConditions_Depression,H6e. Has a doctor or other health professional ever told you that you had depres,2.0,4433,0.7090531030070377
+HINTS6_2022,MedConditions_Depression,H6e. Has a doctor or other health professional ever told you that you had depres,1.0,1578,0.2523992322456814
+HINTS6_2022,MedConditions_Depression,H6e. Has a doctor or other health professional ever told you that you had depres,-7.0,172,0.027511196417146513
+HINTS6_2022,MedConditions_Depression,H6e. Has a doctor or other health professional ever told you that you had depres,-9.0,69,0.011036468330134356

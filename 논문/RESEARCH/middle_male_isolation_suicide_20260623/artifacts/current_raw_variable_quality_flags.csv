@@ -1,0 +1,8 @@
+﻿variable_group,source_prefix,observed_year,regional_variation,target_fit,note
+one_person_households,01,2024,True,exact male 40-64,summed five-year age bands 40-44 to 60-64
+social_network,02,2025,False,national male and national one-person household context only,downloaded file contains only nationwide rows
+depression,03,2025,True,"all adults, not male 40-64-specific",used city/province subtotal standardized rate
+basic_livelihood,04,2024,True,exact male 40-64,summed five-year age bands
+business_closure,05,2024,True,approximate male 40-64,used male 40s + 50s + half of 60s
+divorce,06,2025,True,"male/husband 40-64 rates, unweighted mean",population weights not in downloaded file
+suicide_or_mortality,07,2024,True,not suicide; all-cause male 40-64 mortality,"Downloaded table contains only cause='계'; parsed as all-cause mortality, not suicide."

@@ -1,0 +1,1534 @@
+﻿variable,value,raw_n,raw_pct
+Age,25-34 years old,16519,0.33581346181212013
+Age,35-44 years old,13241,0.2691752556361936
+Age,18-24 years old,9210,0.18722937122644387
+Age,45-54 years old,6275,0.1275639852818605
+Age,55-64 years old,2626,0.05338374905978736
+Age,65 years or older,942,0.019149844483747028
+Age,Prefer not to say,378,0.0076843324998475335
+EdLevel,"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",20278,0.4122298794494928
+EdLevel,"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",12589,0.2559207985200545
+EdLevel,Some college/university study without earning a degree,6182,0.12567339553983453
+EdLevel,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",3631,0.0738143156268423
+EdLevel,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",2624,0.05334309121587282
+EdLevel,"Associate degree (A.A., A.S., etc.)",1562,0.031753776097253564
+EdLevel,,1042,0.021182736679473887
+EdLevel,Other (please specify):,701,0.014250574292045293
+EdLevel,Primary/elementary school,582,0.011831432579130328
+Employment,Employed,33750,0.6861011160578154
+Employment,"Independent contractor, freelancer, or self-employed",6708,0.1363664084893578
+Employment,Student,4428,0.09001646642678539
+Employment,Not employed,2227,0.045272509198837185
+Employment,,852,0.017320241507592853
+Employment,Retired,708,0.014392876745746174
+Employment,I prefer not to say,518,0.010530381573865138
+YearsCode,,6149,0.12500254111524467
+YearsCode,10.0,3108,0.06318228944319083
+YearsCode,15.0,2540,0.05163546177146226
+YearsCode,20.0,2497,0.05076131812729971
+YearsCode,5.0,2267,0.04608566607712793
+YearsCode,8.0,2113,0.04295501209570857
+YearsCode,6.0,1925,0.039133174767742064
+YearsCode,25.0,1832,0.037242585025716084
+YearsCode,7.0,1820,0.03699863796222886
+YearsCode,12.0,1800,0.03659205952308349
+YearsCode,30.0,1740,0.03537232420564738
+YearsCode,4.0,1602,0.032566932975544305
+YearsCode,9.0,1399,0.02844016181821878
+YearsCode,3.0,1284,0.02610233579313289
+YearsCode,13.0,1171,0.02380516761196154
+YearsCode,14.0,1109,0.022544774450610885
+YearsCode,18.0,1028,0.020898131772072125
+YearsCode,11.0,1021,0.020755829318371246
+YearsCode,40.0,979,0.019902014596165966
+YearsCode,16.0,977,0.019861356752251428
+YearsCode,2.0,913,0.018560305746986236
+YearsCode,35.0,907,0.018438332215242624
+YearsCode,17.0,825,0.0167713606147466
+YearsCode,1.0,794,0.016141164034071273
+YearsCode,22.0,619,0.012583602691549267
+YearsCode,28.0,515,0.010469394807993332
+YearsCode,23.0,506,0.010286434510377914
+YearsCode,27.0,479,0.009737553617531662
+YearsCode,26.0,469,0.009534264397958975
+YearsCode,19.0,464,0.009432619788172633
+DevType,"Developer, full-stack",12351,0.2510825150942246
+DevType,"Developer, back-end",6453,0.13118253339025432
+DevType,,5511,0.11203268890650729
+DevType,Student,3008,0.06114939724746397
+DevType,"Architect, software or solutions",2684,0.05456282653330894
+DevType,"Developer, front-end",1974,0.040129291943648226
+DevType,"Developer, desktop or enterprise applications",1919,0.03901120123599845
+DevType,Other (please specify):,1825,0.037100282572015204
+DevType,"Developer, mobile",1391,0.028277530442560633
+DevType,"Developer, embedded applications or devices",1274,0.025899046573560205
+DevType,Academic researcher,1131,0.022992010733670794
+DevType,Engineering manager,1068,0.02171128865036287
+DevType,DevOps engineer or professional,1053,0.021406354821003844
+DevType,Data engineer,770,0.015653269907096826
+DevType,AI/ML engineer,677,0.013762680165070847
+DevType,Data scientist,574,0.01166880120347218
+DevType,"Senior executive (C-suite, VP, etc.)",528,0.010733670793437825
+DevType,System administrator,480,0.009757882539488932
+DevType,Retired,458,0.009310646256429021
+DevType,"Developer, game or graphics",451,0.009168343802728142
+DevType,Cloud infrastructure engineer,441,0.008965054583155455
+DevType,"Founder, technology or otherwise",431,0.00876176536358277
+DevType,Cybersecurity or InfoSec professional,370,0.007521701124189384
+DevType,Data or business analyst,351,0.007135451607001281
+DevType,"Developer, QA or test",343,0.0069728202313431315
+DevType,Project manager,302,0.0061393344310951194
+DevType,Applied scientist,297,0.006037689821308776
+DevType,Support engineer or analyst,251,0.00510255941127442
+DevType,"Developer, AI apps or physical AI",236,0.004797625581915391
+DevType,Product manager,205,0.004167429001240064
+RemoteWork,,15411,0.3132890162834665
+RemoteWork,Remote,10931,0.22221544591490314
+RemoteWork,"Hybrid (some remote, leans heavy to in-person)",6732,0.13685430261633225
+RemoteWork,In-person,6042,0.12282734646581692
+RemoteWork,"Hybrid (some in-person, leans heavy to flexibility)",5831,0.11853794393283325
+RemoteWork,"Your choice (very flexible, you can come in when you want or just as needed)",4244,0.08627594478664796
+Country,,13754,0.2796039926002724
+Country,United States of America,7233,0.14703909251692382
+Country,Germany,3025,0.061494988920737535
+Country,India,2547,0.05177776422516314
+Country,United Kingdom of Great Britain and Northern Ireland,2042,0.04151165863674249
+Country,France,1409,0.028643451037791465
+Country,Canada,1305,0.02652924315423553
+Country,Ukraine,964,0.019597080766806937
+Country,Poland,888,0.01805208269805452
+Country,Netherlands,867,0.017625175336951883
+Country,Italy,835,0.016974649834319285
+Country,Brazil,825,0.0167713606147466
+Country,Australia,804,0.01634445325364396
+Country,Spain,717,0.01457583704336159
+Country,Sweden,616,0.01252261592567746
+Country,Switzerland,546,0.011099591388668659
+Country,Czech Republic,520,0.010571039417779675
+Country,Austria,410,0.008334858002480128
+Country,Romania,323,0.00656624179219776
+Country,Belgium,321,0.0065255839482832225
+Country,Denmark,316,0.00642393933849688
+Country,Israel,297,0.006037689821308776
+Country,Turkey,295,0.005997031977394238
+Country,Mexico,286,0.005814071679778821
+Country,Portugal,280,0.0056920981480352096
+Country,China,255,0.005183875099103495
+Country,New Zealand,255,0.005183875099103495
+Country,Finland,254,0.005163546177146226
+Country,South Africa,253,0.005143217255188957
+Country,Greece,252,0.005122888333231689
+LearnCodeAI,"Yes, I learned how to use AI-enabled tools required for my job or to benefit my career",16403,0.33345530686507696
+LearnCodeAI,"Yes, I learned how to use AI-enabled tools for my personal curiosity and/or hobbies",14027,0.28515378829460675
+LearnCodeAI,"No, I learned something that was not related to AI or AI enablement for my personal curiosity and/or hobbies",5282,0.10737736577829278
+LearnCodeAI,"No, I didn't spend time learning in the past year",4864,0.0988798764001545
+LearnCodeAI,"No, I learned something that was not related to AI or AI enablement as required for my job or to benefit my career",4625,0.0940212640523673
+LearnCodeAI,,3990,0.08111239860950174
+AILearnHow,,20934,0.425565652253461
+AILearnHow,AI CodeGen tools or AI-enabled apps,2555,0.05194039560082129
+AILearnHow,"Other online resources (e.g. standard search, forum, online community)",991,0.02014596165965319
+AILearnHow,Colleague or on-the-job training,777,0.01579557236079771
+AILearnHow,Videos (not associated with specific online course or certification),687,0.013965969384643532
+AILearnHow,Technical documentation (is generated for/by the tool or system),644,0.013091825740480982
+AILearnHow,"AI CodeGen tools or AI-enabled apps;Other online resources (e.g. standard search, forum, online community)",585,0.011892419345002134
+AILearnHow,AI CodeGen tools or AI-enabled apps;Technical documentation (is generated for/by the tool or system),578,0.011750116891301255
+AILearnHow,AI CodeGen tools or AI-enabled apps;Videos (not associated with specific online course or certification),576,0.011709459047386716
+AILearnHow,"Technical documentation (is generated for/by the tool or system);Other online resources (e.g. standard search, forum, online community)",573,0.011648472281514912
+AILearnHow,Other (please specify):,539,0.01095728893496778
+AILearnHow,"AI CodeGen tools or AI-enabled apps;Technical documentation (is generated for/by the tool or system);Other online resources (e.g. standard search, forum, online community)",479,0.009737553617531662
+AILearnHow,AI CodeGen tools or AI-enabled apps;Colleague or on-the-job training,453,0.009209001646642678
+AILearnHow,Online Courses or Certification (includes all media types),380,0.00772499034376207
+AILearnHow,"Videos (not associated with specific online course or certification);Other online resources (e.g. standard search, forum, online community)",368,0.007481043280274847
+AILearnHow,"AI CodeGen tools or AI-enabled apps;Videos (not associated with specific online course or certification);Other online resources (e.g. standard search, forum, online community)",341,0.006932162387428595
+AILearnHow,"AI CodeGen tools or AI-enabled apps;Technical documentation (is generated for/by the tool or system);Videos (not associated with specific online course or certification);Other online resources (e.g. standard search, forum, online community);Blogs or podcasts",324,0.0065865707141550284
+AILearnHow,"AI CodeGen tools or AI-enabled apps;Technical documentation (is generated for/by the tool or system);Videos (not associated with specific online course or certification);Other online resources (e.g. standard search, forum, online community)",295,0.005997031977394238
+AILearnHow,AI CodeGen tools or AI-enabled apps;Technical documentation (is generated for/by the tool or system);Videos (not associated with specific online course or certification),277,0.005631111382163404
+AILearnHow,Blogs or podcasts,271,0.005509137850419793
+AILearnHow,"Technical documentation (is generated for/by the tool or system);Videos (not associated with specific online course or certification);Other online resources (e.g. standard search, forum, online community)",270,0.005488808928462523
+AILearnHow,Technical documentation (is generated for/by the tool or system);Videos (not associated with specific online course or certification),258,0.0052448618649753006
+AILearnHow,Videos (not associated with specific online course or certification);Blogs or podcasts,247,0.005021243723445346
+AILearnHow,"AI CodeGen tools or AI-enabled apps;Technical documentation (is generated for/by the tool or system);Other online resources (e.g. standard search, forum, online community);Blogs or podcasts",241,0.004899270191701734
+AILearnHow,"Videos (not associated with specific online course or certification);Other online resources (e.g. standard search, forum, online community);Blogs or podcasts",240,0.004878941269744466
+AILearnHow,AI CodeGen tools or AI-enabled apps;Blogs or podcasts,228,0.004634994206257242
+AILearnHow,AI CodeGen tools or AI-enabled apps;Videos (not associated with specific online course or certification);Blogs or podcasts,215,0.00437071822081275
+AILearnHow,"AI CodeGen tools or AI-enabled apps;Videos (not associated with specific online course or certification);Other online resources (e.g. standard search, forum, online community);Blogs or podcasts",206,0.004187757923197333
+AILearnHow,"Other online resources (e.g. standard search, forum, online community);Colleague or on-the-job training",202,0.004106442235368259
+AILearnHow,"Technical documentation (is generated for/by the tool or system);Other online resources (e.g. standard search, forum, online community);Blogs or podcasts",200,0.004065784391453721
+AIThreat,No,22958,0.46671139029497266
+AIThreat,,13113,0.26657315362566325
+AIThreat,I'm not sure,7700,0.15653269907096826
+AIThreat,Yes,5420,0.11018275700839585
+AIModelsChoice,,18952,0.3852737289341546
+AIModelsChoice,Yes,16916,0.3438840438291557
+AIModelsChoice,No,13323,0.27084222723668966
+AIModelsHaveWorkedWith,,32910,0.6690248216137098
+AIModelsHaveWorkedWith,openAI GPT (chatbot models),2379,0.04836250533634202
+AIModelsHaveWorkedWith,Anthropic: Claude Sonnet;openAI GPT (chatbot models),934,0.018987213108088877
+AIModelsHaveWorkedWith,openAI GPT (chatbot models);openAI Reasoning models,460,0.00935130410034356
+AIModelsHaveWorkedWith,Anthropic: Claude Sonnet,440,0.008944725661198187
+AIModelsHaveWorkedWith,openAI GPT (chatbot models);openAI Image generating models;openAI Reasoning models,389,0.007907950641377488
+AIModelsHaveWorkedWith,Gemini (Flash general purpose models);openAI GPT (chatbot models),379,0.007704661421804802
+AIModelsHaveWorkedWith,openAI GPT (chatbot models);openAI Image generating models,326,0.006627228558069565
+AIModelsHaveWorkedWith,Anthropic: Claude Sonnet;openAI GPT (chatbot models);openAI Reasoning models,297,0.006037689821308776
+AIModelsHaveWorkedWith,Anthropic: Claude Sonnet;Gemini (Flash general purpose models);openAI GPT (chatbot models),203,0.004126771157325527
+AIModelsHaveWorkedWith,Anthropic: Claude Sonnet;openAI GPT (chatbot models);openAI Image generating models;openAI Reasoning models,199,0.004045455469496453
+AIModelsHaveWorkedWith,Gemini (Flash general purpose models);Gemini (Pro Reasoning models);openAI GPT (chatbot models),175,0.003557561342522006
+AIModelsHaveWorkedWith,Gemini (Flash general purpose models),173,0.0035169034986074687
+AIModelsHaveWorkedWith,Gemini (Flash general purpose models);Gemini (Pro Reasoning models),145,0.002947693683803948
+AIModelsHaveWorkedWith,Anthropic: Claude Sonnet;Gemini (Flash general purpose models);Gemini (Pro Reasoning models);openAI GPT (chatbot models),141,0.0028663779959748736
+AIModelsHaveWorkedWith,Anthropic: Claude Sonnet;openAI GPT (chatbot models);openAI Image generating models,137,0.002785062308145799
+AIModelsHaveWorkedWith,Meta Llama (all models);openAI GPT (chatbot models),137,0.002785062308145799
+AIModelsHaveWorkedWith,Anthropic: Claude Sonnet;Gemini (Flash general purpose models);Gemini (Pro Reasoning models);openAI GPT (chatbot models);openAI Reasoning models,133,0.0027037466203167246
+AIModelsHaveWorkedWith,DeepSeek (R- Reasoning models);openAI GPT (chatbot models),120,0.002439470634872233
+AIModelsHaveWorkedWith,Anthropic: Claude Sonnet;Gemini (Flash general purpose models);Gemini (Pro Reasoning models);openAI GPT (chatbot models);openAI Image generating models;openAI Reasoning models,117,0.002378483869000427
+AIModelsHaveWorkedWith,Meta Llama (all models),116,0.002358154947043158
+AIModelsHaveWorkedWith,Gemini (Flash general purpose models);openAI GPT (chatbot models);openAI Image generating models,98,0.0019922343518123235
+AIModelsHaveWorkedWith,Anthropic: Claude Sonnet;Gemini (Pro Reasoning models);openAI GPT (chatbot models),95,0.0019312475859405175
+AIModelsHaveWorkedWith,Gemini (Flash general purpose models);Gemini (Pro Reasoning models);openAI GPT (chatbot models);openAI Reasoning models,93,0.0018905897420259804
+AIModelsHaveWorkedWith,Gemini (Pro Reasoning models);openAI GPT (chatbot models),93,0.0018905897420259804
+AIModelsHaveWorkedWith,Gemini (Flash general purpose models);Gemini (Pro Reasoning models);openAI GPT (chatbot models);openAI Image generating models;openAI Reasoning models,84,0.0017076294444105628
+AIModelsHaveWorkedWith,Anthropic: Claude Sonnet;Gemini (Pro Reasoning models);openAI GPT (chatbot models);openAI Reasoning models,76,0.001544998068752414
+AIModelsHaveWorkedWith,openAI GPT (chatbot models);X Grok models,74,0.001504340224837877
+AIModelsHaveWorkedWith,Anthropic: Claude Sonnet;Gemini (Flash general purpose models);Gemini (Pro Reasoning models),72,0.0014636823809233395
+AIModelsHaveWorkedWith,Gemini (Flash general purpose models);openAI GPT (chatbot models);openAI Image generating models;openAI Reasoning models,72,0.0014636823809233395
+AIModelsWantToWorkWith,,37346,0.7592039194161534
+AIModelsWantToWorkWith,openAI GPT (chatbot models),1368,0.027809965237543453
+AIModelsWantToWorkWith,Anthropic: Claude Sonnet,600,0.012197353174361164
+AIModelsWantToWorkWith,Anthropic: Claude Sonnet;openAI GPT (chatbot models),530,0.010774328637352362
+AIModelsWantToWorkWith,openAI GPT (chatbot models);openAI Reasoning models,302,0.0061393344310951194
+AIModelsWantToWorkWith,openAI GPT (chatbot models);openAI Image generating models;openAI Reasoning models,271,0.005509137850419793
+AIModelsWantToWorkWith,Anthropic: Claude Sonnet;openAI GPT (chatbot models);openAI Reasoning models,224,0.004553678518428168
+AIModelsWantToWorkWith,openAI GPT (chatbot models);openAI Image generating models,210,0.004269073611026407
+AIModelsWantToWorkWith,Gemini (Flash general purpose models);Gemini (Pro Reasoning models),178,0.003618548108393812
+AIModelsWantToWorkWith,Gemini (Flash general purpose models);openAI GPT (chatbot models),169,0.0034355878107783944
+AIModelsWantToWorkWith,Anthropic: Claude Sonnet;openAI GPT (chatbot models);openAI Image generating models;openAI Reasoning models,139,0.0028257201520603364
+AIModelsWantToWorkWith,Gemini (Flash general purpose models),120,0.002439470634872233
+AIModelsWantToWorkWith,Anthropic: Claude Sonnet;Gemini (Flash general purpose models);Gemini (Pro Reasoning models);openAI GPT (chatbot models);openAI Image generating models;openAI Reasoning models,117,0.002378483869000427
+AIModelsWantToWorkWith,Meta Llama (all models),111,0.002256510337256815
+AIModelsWantToWorkWith,Anthropic: Claude Sonnet;Gemini (Flash general purpose models);Gemini (Pro Reasoning models),110,0.0022361814152995468
+AIModelsWantToWorkWith,Gemini (Pro Reasoning models),110,0.0022361814152995468
+AIModelsWantToWorkWith,Gemini (Flash general purpose models);Gemini (Pro Reasoning models);openAI GPT (chatbot models),105,0.0021345368055132037
+AIModelsWantToWorkWith,Mistral AI models,96,0.0019515765078977861
+AIModelsWantToWorkWith,Anthropic: Claude Sonnet;Gemini (Flash general purpose models);Gemini (Pro Reasoning models);openAI GPT (chatbot models);openAI Reasoning models,95,0.0019312475859405175
+AIModelsWantToWorkWith,Anthropic: Claude Sonnet;Gemini (Flash general purpose models);openAI GPT (chatbot models),95,0.0019312475859405175
+AIModelsWantToWorkWith,Anthropic: Claude Sonnet;Gemini (Flash general purpose models);Gemini (Pro Reasoning models);openAI GPT (chatbot models),85,0.0017279583663678316
+AIModelsWantToWorkWith,Anthropic: Claude Sonnet;openAI GPT (chatbot models);openAI Image generating models,84,0.0017076294444105628
+AIModelsWantToWorkWith,Anthropic: Claude Sonnet;Gemini (Pro Reasoning models),83,0.0016873005224532943
+AIModelsWantToWorkWith,DeepSeek (R- Reasoning models),78,0.0015856559126669512
+AIModelsWantToWorkWith,Gemini (Flash general purpose models);Gemini (Pro Reasoning models);openAI GPT (chatbot models);openAI Image generating models;openAI Reasoning models,76,0.001544998068752414
+AIModelsWantToWorkWith,DeepSeek (R- Reasoning models);openAI GPT (chatbot models),74,0.001504340224837877
+AIModelsWantToWorkWith,Anthropic: Claude Sonnet;Gemini (Pro Reasoning models);openAI GPT (chatbot models);openAI Reasoning models,74,0.001504340224837877
+AIModelsWantToWorkWith,X Grok models,73,0.0014840113028806083
+AIModelsWantToWorkWith,Gemini (Pro Reasoning models);openAI GPT (chatbot models),72,0.0014636823809233395
+AIModelsWantToWorkWith,Gemini (Flash general purpose models);Gemini (Pro Reasoning models);openAI GPT (chatbot models);openAI Reasoning models,70,0.0014230245370088024
+AIModelsAdmired,,37907,0.7706084446341811
+AIModelsAdmired,openAI GPT (chatbot models),1719,0.03494541684454473
+AIModelsAdmired,Anthropic: Claude Sonnet,658,0.013376430647882742
+AIModelsAdmired,Anthropic: Claude Sonnet;openAI GPT (chatbot models),605,0.012298997784147506
+AIModelsAdmired,openAI GPT (chatbot models);openAI Reasoning models,371,0.007542030046146653
+AIModelsAdmired,openAI GPT (chatbot models);openAI Image generating models;openAI Reasoning models,331,0.006728873167855909
+AIModelsAdmired,Anthropic: Claude Sonnet;openAI GPT (chatbot models);openAI Reasoning models,246,0.005000914801488077
+AIModelsAdmired,openAI GPT (chatbot models);openAI Image generating models,243,0.004939928035616271
+AIModelsAdmired,Gemini (Flash general purpose models);openAI GPT (chatbot models),228,0.004634994206257242
+AIModelsAdmired,Gemini (Flash general purpose models);Gemini (Pro Reasoning models),184,0.0037405216401374237
+AIModelsAdmired,Anthropic: Claude Sonnet;openAI GPT (chatbot models);openAI Image generating models;openAI Reasoning models,175,0.003557561342522006
+AIModelsAdmired,Gemini (Flash general purpose models),152,0.003089996137504828
+AIModelsAdmired,Meta Llama (all models),112,0.002276839259214084
+AIModelsAdmired,Gemini (Flash general purpose models);Gemini (Pro Reasoning models);openAI GPT (chatbot models),111,0.002256510337256815
+AIModelsAdmired,Anthropic: Claude Sonnet;Gemini (Flash general purpose models);openAI GPT (chatbot models),109,0.002215852493342278
+AIModelsAdmired,Anthropic: Claude Sonnet;Gemini (Flash general purpose models);Gemini (Pro Reasoning models),104,0.002114207883555935
+AIModelsAdmired,Anthropic: Claude Sonnet;Gemini (Flash general purpose models);Gemini (Pro Reasoning models);openAI GPT (chatbot models);openAI Image generating models;openAI Reasoning models,104,0.002114207883555935
+AIModelsAdmired,Gemini (Pro Reasoning models),95,0.0019312475859405175
+AIModelsAdmired,Anthropic: Claude Sonnet;openAI GPT (chatbot models);openAI Image generating models,95,0.0019312475859405175
+AIModelsAdmired,Mistral AI models,92,0.0018702608200687118
+AIModelsAdmired,Anthropic: Claude Sonnet;Gemini (Flash general purpose models);Gemini (Pro Reasoning models);openAI GPT (chatbot models);openAI Reasoning models,81,0.0016466426785387571
+AIModelsAdmired,Anthropic: Claude Sonnet;Gemini (Pro Reasoning models),77,0.0015653269907096826
+AIModelsAdmired,Meta Llama (all models);openAI GPT (chatbot models),76,0.001544998068752414
+AIModelsAdmired,Gemini (Pro Reasoning models);openAI GPT (chatbot models),76,0.001544998068752414
+AIModelsAdmired,openAI Reasoning models,75,0.0015246691467951455
+AIModelsAdmired,DeepSeek (R- Reasoning models);openAI GPT (chatbot models),73,0.0014840113028806083
+AIModelsAdmired,Anthropic: Claude Sonnet;Gemini (Flash general purpose models);Gemini (Pro Reasoning models);openAI GPT (chatbot models),73,0.0014840113028806083
+AIModelsAdmired,Anthropic: Claude Sonnet;Gemini (Pro Reasoning models);openAI GPT (chatbot models),69,0.0014026956150515338
+AIModelsAdmired,Anthropic: Claude Sonnet;Gemini (Pro Reasoning models);openAI GPT (chatbot models);openAI Reasoning models,67,0.0013620377711369967
+AIModelsAdmired,DeepSeek (R- Reasoning models),63,0.0012807220833079222
+AIModelsHaveEntry,,48415,0.9842247565611596
+AIModelsHaveEntry,Copilot,42,0.0008538147222052814
+AIModelsHaveEntry,copilot,27,0.0005488808928462524
+AIModelsHaveEntry,Gemma,22,0.00044723628305990933
+AIModelsHaveEntry,GitHub Copilot,21,0.0004269073611026407
+AIModelsHaveEntry,Microsoft Copilot,19,0.0003862495171881035
+AIModelsHaveEntry,Qwen,19,0.0003862495171881035
+AIModelsHaveEntry,Github Copilot,18,0.0003659205952308349
+AIModelsHaveEntry,Claude,14,0.0002846049074017605
+AIModelsHaveEntry,Claude Opus,9,0.00018296029761541744
+AIModelsHaveEntry,github copilot,8,0.00016263137565814884
+AIModelsHaveEntry,Amazon Q,8,0.00016263137565814884
+AIModelsHaveEntry,IBM Granite,7,0.00014230245370088024
+AIModelsHaveEntry,Ollama,6,0.00012197353174361163
+AIModelsHaveEntry,Codeium,6,0.00012197353174361163
+AIModelsHaveEntry,claude,6,0.00012197353174361163
+AIModelsHaveEntry,CoPilot,5,0.00010164460978634303
+AIModelsHaveEntry,GitHub CoPilot,5,0.00010164460978634303
+AIModelsHaveEntry,Github copilot,5,0.00010164460978634303
+AIModelsHaveEntry,No,5,0.00010164460978634303
+AIModelsHaveEntry,phind,4,8.131568782907442e-05
+AIModelsHaveEntry,Granite,4,8.131568782907442e-05
+AIModelsHaveEntry,qwen,4,8.131568782907442e-05
+AIModelsHaveEntry,Junie,4,8.131568782907442e-05
+AIModelsHaveEntry,no,4,8.131568782907442e-05
+AIModelsHaveEntry,Augment,3,6.0986765871805816e-05
+AIModelsHaveEntry,ollama,3,6.0986765871805816e-05
+AIModelsHaveEntry,supermaven,3,6.0986765871805816e-05
+AIModelsHaveEntry,GitHub copilot,3,6.0986765871805816e-05
+AIModelsHaveEntry,Claude Sonnet,3,6.0986765871805816e-05
+AIModelsWantEntry,,48716,0.9903437620702974
+AIModelsWantEntry,Copilot,18,0.0003659205952308349
+AIModelsWantEntry,Gemma,18,0.0003659205952308349
+AIModelsWantEntry,copilot,16,0.0003252627513162977
+AIModelsWantEntry,GitHub Copilot,16,0.0003252627513162977
+AIModelsWantEntry,Qwen,14,0.0002846049074017605
+AIModelsWantEntry,Microsoft Copilot,9,0.00018296029761541744
+AIModelsWantEntry,Claude Opus,8,0.00016263137565814884
+AIModelsWantEntry,Claude,7,0.00014230245370088024
+AIModelsWantEntry,Github Copilot,6,0.00012197353174361163
+AIModelsWantEntry,github copilot,6,0.00012197353174361163
+AIModelsWantEntry,No,5,0.00010164460978634303
+AIModelsWantEntry,Junie,5,0.00010164460978634303
+AIModelsWantEntry,Amazon Q,5,0.00010164460978634303
+AIModelsWantEntry,Ollama,4,8.131568782907442e-05
+AIModelsWantEntry,GitHub CoPilot,4,8.131568782907442e-05
+AIModelsWantEntry,no,4,8.131568782907442e-05
+AIModelsWantEntry,Yes,4,8.131568782907442e-05
+AIModelsWantEntry,1,4,8.131568782907442e-05
+AIModelsWantEntry,ollama,3,6.0986765871805816e-05
+AIModelsWantEntry,gemma,3,6.0986765871805816e-05
+AIModelsWantEntry,phind,3,6.0986765871805816e-05
+AIModelsWantEntry,qwen,3,6.0986765871805816e-05
+AIModelsWantEntry,Windsurf,3,6.0986765871805816e-05
+AIModelsWantEntry,2,3,6.0986765871805816e-05
+AIModelsWantEntry,claude,3,6.0986765871805816e-05
+AIModelsWantEntry,IBM Granite,3,6.0986765871805816e-05
+AIModelsWantEntry,Anthropic: Claude Opus,3,6.0986765871805816e-05
+AIModelsWantEntry,Mellum,2,4.065784391453721e-05
+AIModelsWantEntry,Cursor,2,4.065784391453721e-05
+AISelect,"Yes, I use AI tools daily",15883,0.32288426744729726
+AISelect,,15471,0.3145087516009026
+AISelect,"Yes, I use AI tools weekly",5958,0.12111971702140635
+AISelect,"No, and I don't plan to",5454,0.11087394035494298
+AISelect,"Yes, I use AI tools monthly or infrequently",4628,0.09408225081823911
+AISelect,"No, but I plan to soon",1797,0.03653107275721169
+AISent,,15724,0.31965196885609154
+AISent,Favorable,12311,0.2502693582159338
+AISent,Very favorable,7677,0.15606513386595108
+AISent,Indifferent,5880,0.1195340611087394
+AISent,Unfavorable,3621,0.07361102640726962
+AISent,Very unfavorable,3219,0.06543879978044764
+AISent,Unsure,759,0.015429651765566871
+AIAcc,,15894,0.32310788558882725
+AIAcc,Somewhat trust,9869,0.20062613079628389
+AIAcc,Somewhat distrust,8685,0.17655668719887785
+AIAcc,Neither trust nor distrust,7162,0.14559573905795775
+AIAcc,Highly distrust,6533,0.1328088471468358
+AIAcc,Highly trust,1048,0.0213047102112175
+AIComplex,,15908,0.323392490496229
+AIComplex,"Good, but not great at handling complex tasks",8384,0.17043768168974
+AIComplex,Bad at handling complex tasks,7328,0.14897034010286433
+AIComplex,Very poor at handling complex tasks,5844,0.11880221991827773
+AIComplex,I don't use AI tools for complex tasks / I don't know,5582,0.11347604236547336
+AIComplex,Neither good or bad at handling complex tasks,4688,0.09530198613567523
+AIComplex,Very well at handling complex tasks,1457,0.02961923929174036
+AIToolCurrently partially AI,,28163,0.5725234290825557
+AIToolCurrently partially AI,Search for answers,904,0.01837734544937082
+AIToolCurrently partially AI,Search for answers;Learning new concepts or technologies,509,0.01034742127624972
+AIToolCurrently partially AI,Writing code,472,0.009595251163830781
+AIToolCurrently partially AI,Learning new concepts or technologies,336,0.006830517777642251
+AIToolCurrently partially AI,Writing code;Search for answers,301,0.00611900550913785
+AIToolCurrently partially AI,Writing code;Debugging or fixing code;Search for answers;Learning new concepts or technologies,299,0.0060783476652233135
+AIToolCurrently partially AI,Writing code;Search for answers;Learning new concepts or technologies,275,0.005590453538248867
+AIToolCurrently partially AI,Writing code;Debugging or fixing code;Search for answers,260,0.005285519708889837
+AIToolCurrently partially AI,Generating content or synthetic data,228,0.004634994206257242
+AIToolCurrently partially AI,Writing code;Debugging or fixing code,227,0.004614665284299974
+AIToolCurrently partially AI,Debugging or fixing code,187,0.003801508406009229
+AIToolCurrently partially AI,Debugging or fixing code;Search for answers,180,0.003659205952308349
+AIToolCurrently partially AI,Debugging or fixing code;Search for answers;Learning new concepts or technologies,168,0.0034152588888211256
+AIToolCurrently partially AI,Learning about a codebase;Writing code;Debugging or fixing code;Search for answers;Learning new concepts or technologies,157,0.003191640747291171
+AIToolCurrently partially AI,Writing code;Learning new concepts or technologies,152,0.003089996137504828
+AIToolCurrently partially AI,Learning about a codebase,126,0.0025614441666158443
+AIToolCurrently partially AI,Writing code;Debugging or fixing code;Learning new concepts or technologies,123,0.0025004574007440384
+AIToolCurrently partially AI,Testing code,123,0.0025004574007440384
+AIToolCurrently partially AI,Search for answers;Generating content or synthetic data,118,0.0023988127909576953
+AIToolCurrently partially AI,Documenting code,112,0.002276839259214084
+AIToolCurrently partially AI,Learning about a codebase;Search for answers;Learning new concepts or technologies,110,0.0022361814152995468
+AIToolCurrently partially AI,Learning about a codebase;Project planning;Writing code;Documenting code;Debugging or fixing code;Testing code;Committing and reviewing code;Deployment and monitoring;Predictive analytics;Search for answers;Generating content or synthetic data;Creating or maintaining documentation;Learning new concepts or technologies,102,0.0020735500396413978
+AIToolCurrently partially AI,Learning about a codebase;Writing code;Search for answers;Learning new concepts or technologies,102,0.0020735500396413978
+AIToolCurrently partially AI,Committing and reviewing code,97,0.0019719054298550547
+AIToolCurrently partially AI,Search for answers;Generating content or synthetic data;Learning new concepts or technologies,95,0.0019312475859405175
+AIToolCurrently partially AI,Writing code;Generating content or synthetic data,88,0.0017889451322396373
+AIToolCurrently partially AI,Debugging or fixing code;Learning new concepts or technologies,87,0.0017686162102823688
+AIToolCurrently partially AI,Creating or maintaining documentation,86,0.0017482872883251002
+AIToolCurrently partially AI,Project planning,86,0.0017482872883251002
+AIToolDon't plan to use AI for this task,,23810,0.48403163180256553
+AIToolDon't plan to use AI for this task,Learning about a codebase;Project planning;Writing code;Documenting code;Debugging or fixing code;Testing code;Committing and reviewing code;Deployment and monitoring;Predictive analytics;Search for answers;Generating content or synthetic data;Creating or maintaining documentation;Learning new concepts or technologies;Other (write in):,1414,0.02874509564757781
+AIToolDon't plan to use AI for this task,Learning about a codebase;Project planning;Writing code;Documenting code;Debugging or fixing code;Testing code;Committing and reviewing code;Deployment and monitoring;Predictive analytics;Search for answers;Generating content or synthetic data;Creating or maintaining documentation;Learning new concepts or technologies,1174,0.023866154377833345
+AIToolDon't plan to use AI for this task,Deployment and monitoring,822,0.016710373848874794
+AIToolDon't plan to use AI for this task,Project planning,599,0.012177024252403894
+AIToolDon't plan to use AI for this task,Project planning;Deployment and monitoring;Predictive analytics,542,0.011018275700839585
+AIToolDon't plan to use AI for this task,Deployment and monitoring;Predictive analytics,462,0.009391961944258096
+AIToolDon't plan to use AI for this task,Predictive analytics,429,0.008721107519668233
+AIToolDon't plan to use AI for this task,Project planning;Deployment and monitoring,398,0.008090910938992906
+AIToolDon't plan to use AI for this task,Project planning;Committing and reviewing code;Deployment and monitoring;Predictive analytics,326,0.006627228558069565
+AIToolDon't plan to use AI for this task,Committing and reviewing code,310,0.006301965806753268
+AIToolDon't plan to use AI for this task,Committing and reviewing code;Deployment and monitoring,290,0.005895387367607896
+AIToolDon't plan to use AI for this task,Project planning;Predictive analytics,264,0.005366835396718912
+AIToolDon't plan to use AI for this task,Learning about a codebase;Project planning;Writing code;Documenting code;Debugging or fixing code;Testing code;Committing and reviewing code;Deployment and monitoring;Predictive analytics;Generating content or synthetic data;Creating or maintaining documentation;Learning new concepts or technologies,198,0.004025126547539184
+AIToolDon't plan to use AI for this task,Project planning;Committing and reviewing code;Deployment and monitoring,190,0.003862495171881035
+AIToolDon't plan to use AI for this task,Committing and reviewing code;Deployment and monitoring;Predictive analytics,189,0.0038421662499237667
+AIToolDon't plan to use AI for this task,Learning about a codebase;Project planning;Writing code;Documenting code;Debugging or fixing code;Testing code;Committing and reviewing code;Deployment and monitoring;Predictive analytics;Generating content or synthetic data;Creating or maintaining documentation,175,0.003557561342522006
+AIToolDon't plan to use AI for this task,Project planning;Deployment and monitoring;Predictive analytics;Generating content or synthetic data,174,0.0035372324205647375
+AIToolDon't plan to use AI for this task,Project planning;Documenting code;Testing code;Committing and reviewing code;Deployment and monitoring;Predictive analytics;Generating content or synthetic data;Creating or maintaining documentation,136,0.0027647333861885305
+AIToolDon't plan to use AI for this task,Learning new concepts or technologies,131,0.0026630887764021874
+AIToolDon't plan to use AI for this task,Project planning;Committing and reviewing code,130,0.0026427598544449186
+AIToolDon't plan to use AI for this task,Generating content or synthetic data,126,0.0025614441666158443
+AIToolDon't plan to use AI for this task,Testing code,121,0.0024597995568295013
+AIToolDon't plan to use AI for this task,Project planning;Testing code;Committing and reviewing code;Deployment and monitoring;Predictive analytics,120,0.002439470634872233
+AIToolDon't plan to use AI for this task,Learning about a codebase;Project planning;Documenting code;Testing code;Committing and reviewing code;Deployment and monitoring;Predictive analytics;Generating content or synthetic data;Creating or maintaining documentation,118,0.0023988127909576953
+AIToolDon't plan to use AI for this task,Learning about a codebase;Project planning;Documenting code;Debugging or fixing code;Testing code;Committing and reviewing code;Deployment and monitoring;Predictive analytics;Generating content or synthetic data;Creating or maintaining documentation,109,0.002215852493342278
+AIToolDon't plan to use AI for this task,Project planning;Testing code;Deployment and monitoring;Predictive analytics,106,0.002154865727470472
+AIToolDon't plan to use AI for this task,Project planning;Committing and reviewing code;Deployment and monitoring;Predictive analytics;Generating content or synthetic data,105,0.0021345368055132037
+AIToolDon't plan to use AI for this task,Project planning;Documenting code;Testing code;Committing and reviewing code;Deployment and monitoring;Predictive analytics;Creating or maintaining documentation,104,0.002114207883555935
+AIToolDon't plan to use AI for this task,Writing code,103,0.0020938789615986666
+AIToolPlan to partially use AI,,26635,0.5414608363318493
+AIToolPlan to partially use AI,Deployment and monitoring,438,0.008904067817283649
+AIToolPlan to partially use AI,Learning about a codebase,422,0.008578805065967351
+AIToolPlan to partially use AI,Generating content or synthetic data,391,0.007948608485292025
+AIToolPlan to partially use AI,Committing and reviewing code,390,0.007928279563334757
+AIToolPlan to partially use AI,Testing code,369,0.007501372202232116
+AIToolPlan to partially use AI,Project planning,343,0.0069728202313431315
+AIToolPlan to partially use AI,Writing code,322,0.006545912870240491
+AIToolPlan to partially use AI,Learning new concepts or technologies,304,0.006179992275009656
+AIToolPlan to partially use AI,Predictive analytics,285,0.005793742757821553
+AIToolPlan to partially use AI,Search for answers,276,0.005610782460206135
+AIToolPlan to partially use AI,Debugging or fixing code,247,0.005021243723445346
+AIToolPlan to partially use AI,Creating or maintaining documentation,212,0.004309731454940944
+AIToolPlan to partially use AI,Documenting code;Creating or maintaining documentation,169,0.0034355878107783944
+AIToolPlan to partially use AI,Documenting code,166,0.0033746010449065885
+AIToolPlan to partially use AI,Search for answers;Learning new concepts or technologies,142,0.002886706917932142
+AIToolPlan to partially use AI,Learning about a codebase;Project planning;Writing code;Documenting code;Debugging or fixing code;Testing code;Committing and reviewing code;Deployment and monitoring;Predictive analytics;Search for answers;Generating content or synthetic data;Creating or maintaining documentation;Learning new concepts or technologies,139,0.0028257201520603364
+AIToolPlan to partially use AI,Writing code;Debugging or fixing code,123,0.0025004574007440384
+AIToolPlan to partially use AI,Committing and reviewing code;Deployment and monitoring,116,0.002358154947043158
+AIToolPlan to partially use AI,Project planning;Deployment and monitoring,113,0.0022971681811713527
+AIToolPlan to partially use AI,Deployment and monitoring;Predictive analytics,96,0.0019515765078977861
+AIToolPlan to partially use AI,Project planning;Committing and reviewing code,92,0.0018702608200687118
+AIToolPlan to partially use AI,Testing code;Committing and reviewing code,90,0.0018296029761541745
+AIToolPlan to partially use AI,Project planning;Predictive analytics,85,0.0017279583663678316
+AIToolPlan to partially use AI,Writing code;Search for answers,85,0.0017279583663678316
+AIToolPlan to partially use AI,Learning about a codebase;Learning new concepts or technologies,85,0.0017279583663678316
+AIToolPlan to partially use AI,Writing code;Testing code,84,0.0017076294444105628
+AIToolPlan to partially use AI,Learning about a codebase;Committing and reviewing code,83,0.0016873005224532943
+AIToolPlan to partially use AI,Learning about a codebase;Testing code,81,0.0016466426785387571
+AIToolPlan to partially use AI,Testing code;Generating content or synthetic data,81,0.0016466426785387571
+AIToolPlan to mostly use AI,,36373,0.739423878351731
+AIToolPlan to mostly use AI,Generating content or synthetic data,810,0.01646642678538757
+AIToolPlan to mostly use AI,Creating or maintaining documentation,484,0.009839198227318005
+AIToolPlan to mostly use AI,Testing code,427,0.008680449675753694
+AIToolPlan to mostly use AI,Predictive analytics,421,0.008558476144010084
+AIToolPlan to mostly use AI,Search for answers,409,0.00831452908052286
+AIToolPlan to mostly use AI,Learning about a codebase,404,0.008212884470736518
+AIToolPlan to mostly use AI,Documenting code,388,0.007887621719420219
+AIToolPlan to mostly use AI,Documenting code;Creating or maintaining documentation,341,0.006932162387428595
+AIToolPlan to mostly use AI,Learning new concepts or technologies,260,0.005285519708889837
+AIToolPlan to mostly use AI,Committing and reviewing code,213,0.004330060376898213
+AIToolPlan to mostly use AI,Project planning,213,0.004330060376898213
+AIToolPlan to mostly use AI,Deployment and monitoring,195,0.003964139781667379
+AIToolPlan to mostly use AI,Debugging or fixing code,176,0.0035778902644792747
+AIToolPlan to mostly use AI,Writing code,168,0.0034152588888211256
+AIToolPlan to mostly use AI,Documenting code;Generating content or synthetic data;Creating or maintaining documentation,118,0.0023988127909576953
+AIToolPlan to mostly use AI,Predictive analytics;Generating content or synthetic data,96,0.0019515765078977861
+AIToolPlan to mostly use AI,Documenting code;Testing code;Creating or maintaining documentation,93,0.0018905897420259804
+AIToolPlan to mostly use AI,Generating content or synthetic data;Creating or maintaining documentation,92,0.0018702608200687118
+AIToolPlan to mostly use AI,Learning about a codebase;Generating content or synthetic data,90,0.0018296029761541745
+AIToolPlan to mostly use AI,Testing code;Generating content or synthetic data,89,0.001809274054196906
+AIToolPlan to mostly use AI,Documenting code;Testing code,87,0.0017686162102823688
+AIToolPlan to mostly use AI,Testing code;Creating or maintaining documentation,77,0.0015653269907096826
+AIToolPlan to mostly use AI,Search for answers;Generating content or synthetic data,70,0.0014230245370088024
+AIToolPlan to mostly use AI,Documenting code;Generating content or synthetic data,69,0.0014026956150515338
+AIToolPlan to mostly use AI,Search for answers;Learning new concepts or technologies,63,0.0012807220833079222
+AIToolPlan to mostly use AI,Learning about a codebase;Creating or maintaining documentation,60,0.0012197353174361165
+AIToolPlan to mostly use AI,Testing code;Predictive analytics,60,0.0012197353174361165
+AIToolPlan to mostly use AI,Learning about a codebase;Documenting code;Creating or maintaining documentation,60,0.0012197353174361165
+AIToolPlan to mostly use AI,Learning about a codebase;Learning new concepts or technologies,54,0.0010977617856925048
+AIToolCurrently mostly AI,,37966,0.7718078510296599
+AIToolCurrently mostly AI,Search for answers,1630,0.03313614279034783
+AIToolCurrently mostly AI,Generating content or synthetic data,835,0.016974649834319285
+AIToolCurrently mostly AI,Search for answers;Learning new concepts or technologies,511,0.010388079120164258
+AIToolCurrently mostly AI,Learning new concepts or technologies,433,0.008802423207497306
+AIToolCurrently mostly AI,Documenting code,283,0.0057530849139070155
+AIToolCurrently mostly AI,Search for answers;Generating content or synthetic data,237,0.00481795450387266
+AIToolCurrently mostly AI,Documenting code;Creating or maintaining documentation,213,0.004330060376898213
+AIToolCurrently mostly AI,Testing code,212,0.004309731454940944
+AIToolCurrently mostly AI,Debugging or fixing code,164,0.0033339432009920514
+AIToolCurrently mostly AI,Debugging or fixing code;Search for answers,130,0.0026427598544449186
+AIToolCurrently mostly AI,Creating or maintaining documentation,128,0.0026021020105303815
+AIToolCurrently mostly AI,Documenting code;Generating content or synthetic data;Creating or maintaining documentation,122,0.00248012847878677
+AIToolCurrently mostly AI,Learning about a codebase,119,0.002419141712914964
+AIToolCurrently mostly AI,Writing code,118,0.0023988127909576953
+AIToolCurrently mostly AI,Learning about a codebase;Project planning;Writing code;Documenting code;Debugging or fixing code;Testing code;Committing and reviewing code;Deployment and monitoring;Predictive analytics;Search for answers;Generating content or synthetic data;Creating or maintaining documentation;Learning new concepts or technologies,115,0.00233782602508589
+AIToolCurrently mostly AI,Learning about a codebase;Search for answers;Learning new concepts or technologies,114,0.002317497103128621
+AIToolCurrently mostly AI,Documenting code;Generating content or synthetic data,103,0.0020938789615986666
+AIToolCurrently mostly AI,Predictive analytics,103,0.0020938789615986666
+AIToolCurrently mostly AI,Search for answers;Generating content or synthetic data;Learning new concepts or technologies,100,0.0020328921957268606
+AIToolCurrently mostly AI,Other (write in):,94,0.001910918663983249
+AIToolCurrently mostly AI,Generating content or synthetic data;Learning new concepts or technologies,84,0.0017076294444105628
+AIToolCurrently mostly AI,Learning about a codebase;Project planning;Writing code;Documenting code;Debugging or fixing code;Testing code;Committing and reviewing code;Deployment and monitoring;Predictive analytics;Search for answers;Generating content or synthetic data;Creating or maintaining documentation;Learning new concepts or technologies;Other (write in):,84,0.0017076294444105628
+AIToolCurrently mostly AI,Documenting code;Search for answers,83,0.0016873005224532943
+AIToolCurrently mostly AI,Project planning,73,0.0014840113028806083
+AIToolCurrently mostly AI,Learning about a codebase;Search for answers,66,0.001341708849179728
+AIToolCurrently mostly AI,Documenting code;Search for answers;Creating or maintaining documentation,65,0.0013213799272224593
+AIToolCurrently mostly AI,Testing code;Generating content or synthetic data,63,0.0012807220833079222
+AIToolCurrently mostly AI,Testing code;Search for answers,61,0.001240064239393385
+AIToolCurrently mostly AI,Debugging or fixing code;Search for answers;Learning new concepts or technologies,60,0.0012197353174361165
+AIFrustration,,17669,0.359191722062979
+AIFrustration,"AI solutions that are almost right, but not quite",6188,0.12579536907157812
+AIFrustration,"AI solutions that are almost right, but not quite;Debugging AI-generated code is more time-consuming",4680,0.09513935476001707
+AIFrustration,I don’t use AI tools regularly,3696,0.07513569555406477
+AIFrustration,Debugging AI-generated code is more time-consuming,1430,0.029070358398894106
+AIFrustration,"AI solutions that are almost right, but not quite;I’ve become less confident in my own problem-solving",1354,0.027525360330141694
+AIFrustration,"AI solutions that are almost right, but not quite;Debugging AI-generated code is more time-consuming;I’ve become less confident in my own problem-solving",1339,0.027220426500782664
+AIFrustration,"AI solutions that are almost right, but not quite;Debugging AI-generated code is more time-consuming;It’s hard to understand how or why the code works",1164,0.023662865158260656
+AIFrustration,"AI solutions that are almost right, but not quite;Debugging AI-generated code is more time-consuming;I’ve become less confident in my own problem-solving;It’s hard to understand how or why the code works",799,0.016242808643857617
+AIFrustration,"AI solutions that are almost right, but not quite;I don’t use AI tools regularly",784,0.015937874814498588
+AIFrustration,"AI solutions that are almost right, but not quite;Other (write in):",772,0.015693927751011364
+AIFrustration,Other (write in):,720,0.014636823809233396
+AIFrustration,I haven’t encountered any problems,711,0.01445386351161798
+AIFrustration,"AI solutions that are almost right, but not quite;Debugging AI-generated code is more time-consuming;I don’t use AI tools regularly",709,0.014413205667703441
+AIFrustration,"AI solutions that are almost right, but not quite;Debugging AI-generated code is more time-consuming;Other (write in):",671,0.013640706633327235
+AIFrustration,I’ve become less confident in my own problem-solving,540,0.010977617856925047
+AIFrustration,"AI solutions that are almost right, but not quite;It’s hard to understand how or why the code works",516,0.010489723729950601
+AIFrustration,Debugging AI-generated code is more time-consuming;I don’t use AI tools regularly,507,0.010306763432335183
+AIFrustration,Debugging AI-generated code is more time-consuming;I’ve become less confident in my own problem-solving,467,0.009493606554044439
+AIFrustration,Debugging AI-generated code is more time-consuming;It’s hard to understand how or why the code works,408,0.008294200158565591
+AIFrustration,"AI solutions that are almost right, but not quite;I’ve become less confident in my own problem-solving;It’s hard to understand how or why the code works",314,0.006383281494582342
+AIFrustration,Debugging AI-generated code is more time-consuming;Other (write in):,310,0.006301965806753268
+AIFrustration,Debugging AI-generated code is more time-consuming;I’ve become less confident in my own problem-solving;It’s hard to understand how or why the code works,302,0.0061393344310951194
+AIFrustration,It’s hard to understand how or why the code works,281,0.005712427069992478
+AIFrustration,"AI solutions that are almost right, but not quite;I haven’t encountered any problems",182,0.003699863796222886
+AIFrustration,"AI solutions that are almost right, but not quite;Debugging AI-generated code is more time-consuming;I don’t use AI tools regularly;It’s hard to understand how or why the code works",181,0.0036795348742656177
+AIFrustration,I don’t use AI tools regularly;Other (write in):,172,0.0034965745766502004
+AIFrustration,I’ve become less confident in my own problem-solving;It’s hard to understand how or why the code works,168,0.0034152588888211256
+AIFrustration,Debugging AI-generated code is more time-consuming;I don’t use AI tools regularly;It’s hard to understand how or why the code works,163,0.0033136142790347826
+AIFrustration,"AI solutions that are almost right, but not quite;Debugging AI-generated code is more time-consuming;Other (write in):;It’s hard to understand how or why the code works",135,0.0027444044642312617
+AIExplain,,22605,0.4595352808440568
+AIExplain,No,6716,0.13652903986501597
+AIExplain,no,3400,0.06911833465471326
+AIExplain,No.,1121,0.022788721514098106
+AIExplain,Yes,763,0.015510967453395946
+AIExplain,yes,571,0.011607814437600374
+AIExplain,NO,237,0.00481795450387266
+AIExplain,Not at all,125,0.0025411152446585756
+AIExplain,Absolutely not,118,0.0023988127909576953
+AIExplain,Nope,115,0.00233782602508589
+AIExplain,Absolutely not.,95,0.0019312475859405175
+AIExplain,Hell no,76,0.001544998068752414
+AIExplain,nope,73,0.0014840113028806083
+AIExplain,Yes.,59,0.0011994063954788477
+AIExplain,Not at all.,58,0.001179077473521579
+AIExplain,Not really,51,0.0010367750198206989
+AIExplain,Partially,50,0.0010164460978634303
+AIExplain,Not yet,48,0.0009757882539488931
+AIExplain,not at all,47,0.0009554593319916245
+AIExplain,Somewhat,46,0.0009351304100343559
+AIExplain,no.,44,0.0008944725661198187
+AIExplain,not yet,40,0.0008131568782907443
+AIExplain,fuck no,40,0.0008131568782907443
+AIExplain,Fuck no,39,0.0007928279563334756
+AIExplain,Sometimes,39,0.0007928279563334756
+AIExplain,absolutely not,36,0.0007318411904616698
+AIExplain,hell no,36,0.0007318411904616698
+AIExplain,Nope.,34,0.0006911833465471326
+AIExplain,sometimes,34,0.0006911833465471326
+AIExplain,not really,33,0.000670854424589864
+AIAgents,,17272,0.35112114004594336
+AIAgents,"No, and I don't plan to",12082,0.24561403508771928
+AIAgents,"No, but I plan to",5561,0.11304913500437072
+AIAgents,"Yes, I use AI agents at work daily",4509,0.09166310910532414
+AIAgents,"No, I use AI exclusively in copilot/autocomplete mode",4401,0.08946758553393913
+AIAgents,"Yes, I use AI agents at work weekly",2868,0.05830334817344636
+AIAgents,"Yes, I use AI agents at work monthly or infrequently",2498,0.05078164704925698
+AIAgentChange,,17513,0.3560204102376451
+AIAgentChange,Not at all or minimally,13097,0.2662478908743469
+AIAgentChange,"Yes, somewhat",11171,0.2270943871846476
+AIAgentChange,"Yes, to a great extent",5178,0.10526315789473684
+AIAgentChange,"No, but my development work has changed somewhat due to non-AI factors",1410,0.028663779959748736
+AIAgentChange,"No, but my development work has significantly changed due to non-AI factors",822,0.016710373848874794
+AIAgent_Uses,,36871,0.7495476814864508
+AIAgent_Uses,Software engineering,5937,0.12069280966030371
+AIAgent_Uses,Software engineering;Data and analytics,664,0.013498404179626354
+AIAgent_Uses,Software engineering;IT operations,471,0.009574922241873514
+AIAgent_Uses,Data and analytics,301,0.00611900550913785
+AIAgent_Uses,Software engineering;Business process automation,300,0.006098676587180582
+AIAgent_Uses,IT operations,206,0.004187757923197333
+AIAgent_Uses,Software engineering;Decision intelligence,190,0.003862495171881035
+AIAgent_Uses,Business process automation,182,0.003699863796222886
+AIAgent_Uses,Software engineering;IT operations;Data and analytics,181,0.0036795348742656177
+AIAgent_Uses,Software engineering;Business process automation;Data and analytics,151,0.0030696672155475597
+AIAgent_Uses,Software engineering;Customer service support,133,0.0027037466203167246
+AIAgent_Uses,Other Industry purpose (write in):,128,0.0026021020105303815
+AIAgent_Uses,Software engineering;Decision intelligence;Data and analytics,117,0.002378483869000427
+AIAgent_Uses,Software engineering;Marketing,108,0.0021955235713850096
+AIAgent_Uses,Software engineering;Cybersecurity,105,0.0021345368055132037
+AIAgent_Uses,Customer service support,102,0.0020735500396413978
+AIAgent_Uses,Software engineering;Business process automation;Decision intelligence;IT operations;Data and analytics;Customer service support;Marketing;Robotics;Cybersecurity,93,0.0018905897420259804
+AIAgent_Uses,Software engineering;Business process automation;IT operations,90,0.0018296029761541745
+AIAgent_Uses,Software engineering;Robotics,80,0.0016263137565814885
+AIAgent_Uses,Business process automation;Data and analytics,79,0.00160598483462422
+AIAgent_Uses,Software engineering;Business process automation;IT operations;Data and analytics,67,0.0013620377711369967
+AIAgent_Uses,Cybersecurity,65,0.0013213799272224593
+AIAgent_Uses,Software engineering;Business process automation;Customer service support,64,0.0013010510052651907
+AIAgent_Uses,Marketing,64,0.0013010510052651907
+AIAgent_Uses,Software engineering;Data and analytics;Customer service support,60,0.0012197353174361165
+AIAgent_Uses,Business process automation;Customer service support,55,0.0011180907076497734
+AIAgent_Uses,Decision intelligence,51,0.0010367750198206989
+AIAgent_Uses,Software engineering;Business process automation;Decision intelligence,49,0.0009961171759061617
+AIAgent_Uses,Software engineering;Decision intelligence;IT operations;Data and analytics,46,0.0009351304100343559
+AgentUsesGeneral,,43386,0.8819906080380557
+AgentUsesGeneral,Language processing,1003,0.02038990872314041
+AgentUsesGeneral,Integration with external agents and APIs,485,0.009859527149275274
+AgentUsesGeneral,MCP servers,455,0.009249659490557215
+AgentUsesGeneral,Agent/multi-agent orchestration,229,0.0046553231282145105
+AgentUsesGeneral,Multi-platform search enablement,222,0.00451302067451363
+AgentUsesGeneral,Language processing;Integration with external agents and APIs,164,0.0033339432009920514
+AgentUsesGeneral,Multi-platform search enablement;Language processing;Agent/multi-agent orchestration;Vector databases for AI applications;MCP servers;Integration with external agents and APIs;Personalized agent creation,162,0.0032932853570775142
+AgentUsesGeneral,Multi-platform search enablement;Language processing,158,0.00321196966924844
+AgentUsesGeneral,Vector databases for AI applications,142,0.002886706917932142
+AgentUsesGeneral,Personalized agent creation,136,0.0027647333861885305
+AgentUsesGeneral,Language processing;MCP servers,119,0.002419141712914964
+AgentUsesGeneral,Other specific task (write in):,117,0.002378483869000427
+AgentUsesGeneral,MCP servers;Integration with external agents and APIs,117,0.002378483869000427
+AgentUsesGeneral,Language processing;Vector databases for AI applications,109,0.002215852493342278
+AgentUsesGeneral,Agent/multi-agent orchestration;MCP servers,85,0.0017279583663678316
+AgentUsesGeneral,Agent/multi-agent orchestration;Integration with external agents and APIs,83,0.0016873005224532943
+AgentUsesGeneral,Agent/multi-agent orchestration;MCP servers;Integration with external agents and APIs,80,0.0016263137565814885
+AgentUsesGeneral,Language processing;Agent/multi-agent orchestration,65,0.0013213799272224593
+AgentUsesGeneral,Language processing;MCP servers;Integration with external agents and APIs,64,0.0013010510052651907
+AgentUsesGeneral,Language processing;Personalized agent creation,59,0.0011994063954788477
+AgentUsesGeneral,Vector databases for AI applications;Integration with external agents and APIs,55,0.0011180907076497734
+AgentUsesGeneral,Vector databases for AI applications;MCP servers,53,0.001077432863735236
+AgentUsesGeneral,Language processing;Agent/multi-agent orchestration;Vector databases for AI applications;MCP servers;Integration with external agents and APIs;Personalized agent creation,51,0.0010367750198206989
+AgentUsesGeneral,Language processing;Agent/multi-agent orchestration;Vector databases for AI applications;MCP servers;Integration with external agents and APIs,47,0.0009554593319916245
+AgentUsesGeneral,Multi-platform search enablement;Language processing;Integration with external agents and APIs,47,0.0009554593319916245
+AgentUsesGeneral,Agent/multi-agent orchestration;Vector databases for AI applications;MCP servers;Integration with external agents and APIs,46,0.0009351304100343559
+AgentUsesGeneral,Language processing;Agent/multi-agent orchestration;Integration with external agents and APIs,45,0.0009148014880770872
+AgentUsesGeneral,Language processing;Vector databases for AI applications;Integration with external agents and APIs,45,0.0009148014880770872
+AgentUsesGeneral,Language processing;Agent/multi-agent orchestration;MCP servers,42,0.0008538147222052814
+AIAgentImpactSomewhat agree,,39045,0.7937427578215527
+AIAgentImpactSomewhat agree,AI agents have accelerated my learning about new technologies or codebases.,387,0.007867292797462951
+AIAgentImpactSomewhat agree,AI agents have helped me automate repetitive tasks.,387,0.007867292797462951
+AIAgentImpactSomewhat agree,AI agents have reduced the time spent on specific development tasks.,354,0.007196438372873087
+AIAgentImpactSomewhat agree,AI agents have increased my productivity.,343,0.0069728202313431315
+AIAgentImpactSomewhat agree,AI agents have increased my productivity.;AI agents have reduced the time spent on specific development tasks.,337,0.0068508466995995205
+AIAgentImpactSomewhat agree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have reduced the time spent on specific development tasks.,331,0.006728873167855909
+AIAgentImpactSomewhat agree,AI agents have improved the quality of my code.,279,0.005671769226077941
+AIAgentImpactSomewhat agree,AI agents have helped me solve complex problems more effectively.,261,0.0053058486308471065
+AIAgentImpactSomewhat agree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.,259,0.005265190786932569
+AIAgentImpactSomewhat agree,AI agents have increased my productivity.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have reduced the time spent on specific development tasks.,252,0.005122888333231689
+AIAgentImpactSomewhat agree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have reduced the time spent on specific development tasks.,243,0.004939928035616271
+AIAgentImpactSomewhat agree,AI agents have helped me automate repetitive tasks.;AI agents have reduced the time spent on specific development tasks.,240,0.004878941269744466
+AIAgentImpactSomewhat agree,AI agents have increased my productivity.;AI agents have accelerated my learning about new technologies or codebases.,195,0.003964139781667379
+AIAgentImpactSomewhat agree,AI agents have increased my productivity.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.,188,0.003821837327966498
+AIAgentImpactSomewhat agree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.,185,0.003760850562094692
+AIAgentImpactSomewhat agree,AI agents have helped me automate repetitive tasks.;AI agents have accelerated my learning about new technologies or codebases.,178,0.003618548108393812
+AIAgentImpactSomewhat agree,AI agents have accelerated my learning about new technologies or codebases.;AI agents have reduced the time spent on specific development tasks.,177,0.0035982191864365434
+AIAgentImpactSomewhat agree,AI agents have increased my productivity.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.,171,0.0034762456546929316
+AIAgentImpactSomewhat agree,AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.,162,0.0032932853570775142
+AIAgentImpactSomewhat agree,AI agents have increased my productivity.;AI agents have helped me solve complex problems more effectively.,154,0.003130653981419365
+AIAgentImpactSomewhat agree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have accelerated my learning about new technologies or codebases.,154,0.003130653981419365
+AIAgentImpactSomewhat agree,AI agents have helped me automate repetitive tasks.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have reduced the time spent on specific development tasks.,148,0.003008680449675754
+AIAgentImpactSomewhat agree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.,145,0.002947693683803948
+AIAgentImpactSomewhat agree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.,140,0.0028460490740176048
+AIAgentImpactSomewhat agree,AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.,133,0.0027037466203167246
+AIAgentImpactSomewhat agree,AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.,125,0.0025411152446585756
+AIAgentImpactSomewhat agree,AI agents have increased my productivity.;AI agents have improved the quality of my code.,125,0.0025411152446585756
+AIAgentImpactSomewhat agree,AI agents have improved the quality of my code.;AI agents have helped me solve complex problems more effectively.,121,0.0024597995568295013
+AIAgentImpactSomewhat agree,AI agents have increased my productivity.;AI agents have improved the quality of my code.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.,120,0.002439470634872233
+AIAgentImpactNeutral,,39516,0.8033176800634262
+AIAgentImpactNeutral,AI agents have improved collaboration within my team.,1269,0.02579740196377386
+AIAgentImpactNeutral,AI agents have improved the quality of my code.,667,0.01355939094549816
+AIAgentImpactNeutral,AI agents have improved the quality of my code.;AI agents have improved collaboration within my team.,549,0.011160578154540465
+AIAgentImpactNeutral,AI agents have helped me solve complex problems more effectively.,397,0.008070582017035637
+AIAgentImpactNeutral,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.;AI agents have improved collaboration within my team.;Write in the most significant benefit if not listed above.,363,0.007379398670488504
+AIAgentImpactNeutral,AI agents have helped me automate repetitive tasks.,350,0.007115122685044012
+AIAgentImpactNeutral,AI agents have accelerated my learning about new technologies or codebases.,301,0.00611900550913785
+AIAgentImpactNeutral,AI agents have increased my productivity.,298,0.006058018743266044
+AIAgentImpactNeutral,AI agents have helped me automate repetitive tasks.;AI agents have improved collaboration within my team.,245,0.0049805858795308085
+AIAgentImpactNeutral,AI agents have helped me solve complex problems more effectively.;AI agents have improved collaboration within my team.,217,0.004411376064727288
+AIAgentImpactNeutral,AI agents have reduced the time spent on specific development tasks.,216,0.004391047142770019
+AIAgentImpactNeutral,AI agents have accelerated my learning about new technologies or codebases.;AI agents have improved collaboration within my team.,201,0.00408611331341099
+AIAgentImpactNeutral,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.;AI agents have improved collaboration within my team.,190,0.003862495171881035
+AIAgentImpactNeutral,AI agents have improved the quality of my code.;AI agents have helped me solve complex problems more effectively.,177,0.0035982191864365434
+AIAgentImpactNeutral,AI agents have improved the quality of my code.;AI agents have helped me solve complex problems more effectively.;AI agents have improved collaboration within my team.,176,0.0035778902644792747
+AIAgentImpactNeutral,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.,123,0.0025004574007440384
+AIAgentImpactNeutral,AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.,121,0.0024597995568295013
+AIAgentImpactNeutral,AI agents have helped me automate repetitive tasks.;AI agents have improved the quality of my code.;AI agents have improved collaboration within my team.,117,0.002378483869000427
+AIAgentImpactNeutral,AI agents have helped me automate repetitive tasks.;AI agents have improved the quality of my code.,109,0.002215852493342278
+AIAgentImpactNeutral,AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have improved collaboration within my team.,108,0.0021955235713850096
+AIAgentImpactNeutral,AI agents have increased my productivity.;AI agents have improved the quality of my code.,102,0.0020735500396413978
+AIAgentImpactNeutral,AI agents have helped me automate repetitive tasks.;AI agents have helped me solve complex problems more effectively.,91,0.001849931898111443
+AIAgentImpactNeutral,AI agents have improved the quality of my code.;AI agents have reduced the time spent on specific development tasks.,87,0.0017686162102823688
+AIAgentImpactNeutral,AI agents have reduced the time spent on specific development tasks.;AI agents have improved collaboration within my team.,87,0.0017686162102823688
+AIAgentImpactNeutral,AI agents have increased my productivity.;AI agents have improved collaboration within my team.,84,0.0017076294444105628
+AIAgentImpactNeutral,AI agents have increased my productivity.;AI agents have reduced the time spent on specific development tasks.,84,0.0017076294444105628
+AIAgentImpactNeutral,AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have improved collaboration within my team.,81,0.0016466426785387571
+AIAgentImpactNeutral,AI agents have increased my productivity.;AI agents have helped me solve complex problems more effectively.,79,0.00160598483462422
+AIAgentImpactNeutral,AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.,78,0.0015856559126669512
+AIAgentImpactSomewhat disagree,,43400,0.8822752129454575
+AIAgentImpactSomewhat disagree,AI agents have improved collaboration within my team.,1147,0.02331727348498709
+AIAgentImpactSomewhat disagree,AI agents have improved the quality of my code.,741,0.015063731170336037
+AIAgentImpactSomewhat disagree,AI agents have helped me solve complex problems more effectively.,505,0.010266105588420647
+AIAgentImpactSomewhat disagree,AI agents have improved the quality of my code.;AI agents have improved collaboration within my team.,324,0.0065865707141550284
+AIAgentImpactSomewhat disagree,AI agents have accelerated my learning about new technologies or codebases.,243,0.004939928035616271
+AIAgentImpactSomewhat disagree,AI agents have helped me automate repetitive tasks.,238,0.004838283425829928
+AIAgentImpactSomewhat disagree,AI agents have improved the quality of my code.;AI agents have helped me solve complex problems more effectively.,195,0.003964139781667379
+AIAgentImpactSomewhat disagree,AI agents have helped me solve complex problems more effectively.;AI agents have improved collaboration within my team.,187,0.003801508406009229
+AIAgentImpactSomewhat disagree,AI agents have reduced the time spent on specific development tasks.,148,0.003008680449675754
+AIAgentImpactSomewhat disagree,AI agents have increased my productivity.,134,0.0027240755422739934
+AIAgentImpactSomewhat disagree,AI agents have improved the quality of my code.;AI agents have helped me solve complex problems more effectively.;AI agents have improved collaboration within my team.,105,0.0021345368055132037
+AIAgentImpactSomewhat disagree,AI agents have accelerated my learning about new technologies or codebases.;AI agents have improved collaboration within my team.,89,0.001809274054196906
+AIAgentImpactSomewhat disagree,AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.,82,0.0016669716004960257
+AIAgentImpactSomewhat disagree,AI agents have improved the quality of my code.;AI agents have reduced the time spent on specific development tasks.,74,0.001504340224837877
+AIAgentImpactSomewhat disagree,AI agents have helped me automate repetitive tasks.;AI agents have improved collaboration within my team.,74,0.001504340224837877
+AIAgentImpactSomewhat disagree,AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.,66,0.001341708849179728
+AIAgentImpactSomewhat disagree,AI agents have increased my productivity.;AI agents have helped me solve complex problems more effectively.,56,0.001138419629607042
+AIAgentImpactSomewhat disagree,AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.,53,0.001077432863735236
+AIAgentImpactSomewhat disagree,AI agents have reduced the time spent on specific development tasks.;AI agents have improved collaboration within my team.,53,0.001077432863735236
+AIAgentImpactSomewhat disagree,AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.,52,0.0010571039417779675
+AIAgentImpactSomewhat disagree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.,46,0.0009351304100343559
+AIAgentImpactSomewhat disagree,AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have improved collaboration within my team.,45,0.0009148014880770872
+AIAgentImpactSomewhat disagree,AI agents have helped me automate repetitive tasks.;AI agents have improved the quality of my code.,43,0.0008741436441625501
+AIAgentImpactSomewhat disagree,AI agents have increased my productivity.;AI agents have reduced the time spent on specific development tasks.,42,0.0008538147222052814
+AIAgentImpactSomewhat disagree,AI agents have increased my productivity.;AI agents have improved the quality of my code.,41,0.0008334858002480128
+AIAgentImpactSomewhat disagree,AI agents have helped me automate repetitive tasks.;AI agents have helped me solve complex problems more effectively.,40,0.0008131568782907443
+AIAgentImpactSomewhat disagree,AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have improved collaboration within my team.,37,0.0007521701124189384
+AIAgentImpactSomewhat disagree,AI agents have improved the quality of my code.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.,35,0.0007115122685044012
+AIAgentImpactSomewhat disagree,AI agents have helped me automate repetitive tasks.;AI agents have improved the quality of my code.;AI agents have improved collaboration within my team.,33,0.000670854424589864
+AIAgentImpactStrongly agree,,42504,0.8640604988717449
+AIAgentImpactStrongly agree,AI agents have helped me automate repetitive tasks.,641,0.013030838974609176
+AIAgentImpactStrongly agree,AI agents have accelerated my learning about new technologies or codebases.,606,0.012319326706104776
+AIAgentImpactStrongly agree,AI agents have reduced the time spent on specific development tasks.,404,0.008212884470736518
+AIAgentImpactStrongly agree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have reduced the time spent on specific development tasks.,285,0.005793742757821553
+AIAgentImpactStrongly agree,AI agents have increased my productivity.,278,0.005651440304120673
+AIAgentImpactStrongly agree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.;AI agents have improved collaboration within my team.,249,0.005061901567359883
+AIAgentImpactStrongly agree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.,245,0.0049805858795308085
+AIAgentImpactStrongly agree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.,232,0.004716309894086316
+AIAgentImpactStrongly agree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.;AI agents have improved collaboration within my team.;Write in the most significant benefit if not listed above.,225,0.004574007440385436
+AIAgentImpactStrongly agree,AI agents have helped me automate repetitive tasks.;AI agents have reduced the time spent on specific development tasks.,195,0.003964139781667379
+AIAgentImpactStrongly agree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.,189,0.0038421662499237667
+AIAgentImpactStrongly agree,AI agents have increased my productivity.;AI agents have reduced the time spent on specific development tasks.,176,0.0035778902644792747
+AIAgentImpactStrongly agree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have reduced the time spent on specific development tasks.,174,0.0035372324205647375
+AIAgentImpactStrongly agree,AI agents have helped me automate repetitive tasks.;AI agents have accelerated my learning about new technologies or codebases.,163,0.0033136142790347826
+AIAgentImpactStrongly agree,Write in the most significant benefit if not listed above.,144,0.002927364761846679
+AIAgentImpactStrongly agree,AI agents have accelerated my learning about new technologies or codebases.;AI agents have reduced the time spent on specific development tasks.,138,0.0028053912301030676
+AIAgentImpactStrongly agree,AI agents have increased my productivity.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have reduced the time spent on specific development tasks.,112,0.002276839259214084
+AIAgentImpactStrongly agree,AI agents have increased my productivity.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.,109,0.002215852493342278
+AIAgentImpactStrongly agree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have accelerated my learning about new technologies or codebases.,105,0.0021345368055132037
+AIAgentImpactStrongly agree,AI agents have increased my productivity.;AI agents have accelerated my learning about new technologies or codebases.,98,0.0019922343518123235
+AIAgentImpactStrongly agree,AI agents have helped me solve complex problems more effectively.,75,0.0015246691467951455
+AIAgentImpactStrongly agree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.,74,0.001504340224837877
+AIAgentImpactStrongly agree,AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.,72,0.0014636823809233395
+AIAgentImpactStrongly agree,AI agents have increased my productivity.;AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.,70,0.0014230245370088024
+AIAgentImpactStrongly agree,AI agents have increased my productivity.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.,65,0.0013213799272224593
+AIAgentImpactStrongly agree,AI agents have helped me automate repetitive tasks.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have reduced the time spent on specific development tasks.,64,0.0013010510052651907
+AIAgentImpactStrongly agree,AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.,54,0.0010977617856925048
+AIAgentImpactStrongly agree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have reduced the time spent on specific development tasks.,54,0.0010977617856925048
+AIAgentImpactStrongly agree,AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.,51,0.0010367750198206989
+AIAgentImpactStrongly disagree,,45412,0.9231770039234819
+AIAgentImpactStrongly disagree,AI agents have improved collaboration within my team.,1059,0.021528328352747452
+AIAgentImpactStrongly disagree,AI agents have improved the quality of my code.,281,0.005712427069992478
+AIAgentImpactStrongly disagree,AI agents have helped me solve complex problems more effectively.,240,0.004878941269744466
+AIAgentImpactStrongly disagree,AI agents have improved the quality of my code.;AI agents have improved collaboration within my team.,229,0.0046553231282145105
+AIAgentImpactStrongly disagree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.;AI agents have improved collaboration within my team.,152,0.003089996137504828
+AIAgentImpactStrongly disagree,AI agents have helped me solve complex problems more effectively.;AI agents have improved collaboration within my team.,147,0.002988351527718485
+AIAgentImpactStrongly disagree,AI agents have improved the quality of my code.;AI agents have helped me solve complex problems more effectively.;AI agents have improved collaboration within my team.,126,0.0025614441666158443
+AIAgentImpactStrongly disagree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.;AI agents have improved collaboration within my team.;Write in the most significant benefit if not listed above.,89,0.001809274054196906
+AIAgentImpactStrongly disagree,AI agents have accelerated my learning about new technologies or codebases.,88,0.0017889451322396373
+AIAgentImpactStrongly disagree,AI agents have helped me automate repetitive tasks.;AI agents have improved collaboration within my team.,80,0.0016263137565814885
+AIAgentImpactStrongly disagree,AI agents have helped me automate repetitive tasks.,73,0.0014840113028806083
+AIAgentImpactStrongly disagree,AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have improved collaboration within my team.,70,0.0014230245370088024
+AIAgentImpactStrongly disagree,AI agents have accelerated my learning about new technologies or codebases.;AI agents have improved collaboration within my team.,68,0.0013823666930942652
+AIAgentImpactStrongly disagree,AI agents have improved the quality of my code.;AI agents have helped me solve complex problems more effectively.,58,0.001179077473521579
+AIAgentImpactStrongly disagree,AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have improved collaboration within my team.,55,0.0011180907076497734
+AIAgentImpactStrongly disagree,AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have improved collaboration within my team.,46,0.0009351304100343559
+AIAgentImpactStrongly disagree,AI agents have helped me automate repetitive tasks.;AI agents have improved the quality of my code.;AI agents have improved collaboration within my team.,43,0.0008741436441625501
+AIAgentImpactStrongly disagree,AI agents have increased my productivity.,29,0.0005895387367607895
+AIAgentImpactStrongly disagree,AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.;AI agents have improved collaboration within my team.,28,0.000569209814803521
+AIAgentImpactStrongly disagree,Write in the most significant benefit if not listed above.,28,0.000569209814803521
+AIAgentImpactStrongly disagree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have improved collaboration within my team.,27,0.0005488808928462524
+AIAgentImpactStrongly disagree,AI agents have increased my productivity.;AI agents have improved the quality of my code.;AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.;AI agents have improved collaboration within my team.,26,0.0005285519708889837
+AIAgentImpactStrongly disagree,AI agents have accelerated my learning about new technologies or codebases.;AI agents have helped me solve complex problems more effectively.,25,0.0005082230489317152
+AIAgentImpactStrongly disagree,AI agents have increased my productivity.;AI agents have helped me automate repetitive tasks.;AI agents have improved the quality of my code.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.;AI agents have improved collaboration within my team.,24,0.00048789412697444653
+AIAgentImpactStrongly disagree,AI agents have helped me automate repetitive tasks.;AI agents have improved the quality of my code.;AI agents have helped me solve complex problems more effectively.;AI agents have improved collaboration within my team.,24,0.00048789412697444653
+AIAgentImpactStrongly disagree,AI agents have reduced the time spent on specific development tasks.,24,0.00048789412697444653
+AIAgentImpactStrongly disagree,AI agents have improved the quality of my code.;AI agents have helped me solve complex problems more effectively.;AI agents have reduced the time spent on specific development tasks.;AI agents have improved collaboration within my team.,22,0.00044723628305990933
+AIAgentImpactStrongly disagree,AI agents have improved the quality of my code.;AI agents have reduced the time spent on specific development tasks.;AI agents have improved collaboration within my team.,21,0.0004269073611026407
+AIAgentImpactStrongly disagree,AI agents have helped me automate repetitive tasks.;AI agents have improved the quality of my code.,20,0.00040657843914537213
+AIAgentChallengesNeutral,,27896,0.5670956069199651
+AIAgentChallengesNeutral,Integrating AI agents with my existing tools and workflows can be difficult.,2334,0.047447703848264924
+AIAgentChallengesNeutral,My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,2150,0.043707182208127505
+AIAgentChallengesNeutral,The cost of using certain AI agent platforms is a barrier.,1683,0.03421357565408306
+AIAgentChallengesNeutral,It takes significant time and effort to learn how to use AI agents effectively.,1642,0.03338008985383505
+AIAgentChallengesNeutral,Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.,1115,0.022666747982354497
+AIAgentChallengesNeutral,Integrating AI agents with my existing tools and workflows can be difficult.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,960,0.019515765078977863
+AIAgentChallengesNeutral,Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.,935,0.019007542030046145
+AIAgentChallengesNeutral,Integrating AI agents with my existing tools and workflows can be difficult.;The cost of using certain AI agent platforms is a barrier.,923,0.018763594966558925
+AIAgentChallengesNeutral,It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.,845,0.01717793905389197
+AIAgentChallengesNeutral,Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,646,0.01313248358439552
+AIAgentChallengesNeutral,The cost of using certain AI agent platforms is a barrier.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,616,0.01252261592567746
+AIAgentChallengesNeutral,Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,561,0.011404525218027688
+AIAgentChallengesNeutral,It takes significant time and effort to learn how to use AI agents effectively.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,553,0.01124189384236954
+AIAgentChallengesNeutral,I have concerns about the security and privacy of data when using AI agents.,506,0.010286434510377914
+AIAgentChallengesNeutral,Integrating AI agents with my existing tools and workflows can be difficult.;The cost of using certain AI agent platforms is a barrier.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,489,0.009940842837104348
+AIAgentChallengesNeutral,I am concerned about the accuracy of the information provided by AI agents.,479,0.009737553617531662
+AIAgentChallengesNeutral,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms;Write in the most significant challenge if not listed above:,448,0.009107357036856336
+AIAgentChallengesNeutral,It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,296,0.006017360899351508
+AIAgentChallengesNeutral,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,268,0.005448151084547987
+AIAgentChallengesNeutral,The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.,217,0.004411376064727288
+AIAgentChallengesNeutral,Integrating AI agents with my existing tools and workflows can be difficult.;I have concerns about the security and privacy of data when using AI agents.,204,0.0041471000792827955
+AIAgentChallengesNeutral,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.,140,0.0028460490740176048
+AIAgentChallengesNeutral,I am concerned about the accuracy of the information provided by AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,139,0.0028257201520603364
+AIAgentChallengesNeutral,I am concerned about the accuracy of the information provided by AI agents.;The cost of using certain AI agent platforms is a barrier.,133,0.0027037466203167246
+AIAgentChallengesNeutral,Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,132,0.002683417698359456
+AIAgentChallengesNeutral,I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,132,0.002683417698359456
+AIAgentChallengesNeutral,It takes significant time and effort to learn how to use AI agents effectively.;I have concerns about the security and privacy of data when using AI agents.,126,0.0025614441666158443
+AIAgentChallengesNeutral,I am concerned about the accuracy of the information provided by AI agents.;It takes significant time and effort to learn how to use AI agents effectively.,108,0.0021955235713850096
+AIAgentChallengesNeutral,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.,106,0.002154865727470472
+AIAgentChallengesSomewhat disagree,,37066,0.7535118212681181
+AIAgentChallengesSomewhat disagree,My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,2484,0.050497042141855214
+AIAgentChallengesSomewhat disagree,It takes significant time and effort to learn how to use AI agents effectively.,2286,0.046471915594316036
+AIAgentChallengesSomewhat disagree,Integrating AI agents with my existing tools and workflows can be difficult.,1376,0.027972596613201603
+AIAgentChallengesSomewhat disagree,The cost of using certain AI agent platforms is a barrier.,1098,0.02232115630908093
+AIAgentChallengesSomewhat disagree,Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.,730,0.014840113028806083
+AIAgentChallengesSomewhat disagree,It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.,492,0.010001829602976154
+AIAgentChallengesSomewhat disagree,I have concerns about the security and privacy of data when using AI agents.,464,0.009432619788172633
+AIAgentChallengesSomewhat disagree,It takes significant time and effort to learn how to use AI agents effectively.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,452,0.00918867272468541
+AIAgentChallengesSomewhat disagree,Integrating AI agents with my existing tools and workflows can be difficult.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,273,0.005549795694334329
+AIAgentChallengesSomewhat disagree,Integrating AI agents with my existing tools and workflows can be difficult.;The cost of using certain AI agent platforms is a barrier.,233,0.004736638816043586
+AIAgentChallengesSomewhat disagree,I am concerned about the accuracy of the information provided by AI agents.,230,0.00467565205017178
+AIAgentChallengesSomewhat disagree,The cost of using certain AI agent platforms is a barrier.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,214,0.004350389298855482
+AIAgentChallengesSomewhat disagree,Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.,201,0.00408611331341099
+AIAgentChallengesSomewhat disagree,Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,172,0.0034965745766502004
+AIAgentChallengesSomewhat disagree,It takes significant time and effort to learn how to use AI agents effectively.;I have concerns about the security and privacy of data when using AI agents.,139,0.0028257201520603364
+AIAgentChallengesSomewhat disagree,The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.,111,0.002256510337256815
+AIAgentChallengesSomewhat disagree,It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,105,0.0021345368055132037
+AIAgentChallengesSomewhat disagree,Integrating AI agents with my existing tools and workflows can be difficult.;I have concerns about the security and privacy of data when using AI agents.,89,0.001809274054196906
+AIAgentChallengesSomewhat disagree,I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,86,0.0017482872883251002
+AIAgentChallengesSomewhat disagree,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.,72,0.0014636823809233395
+AIAgentChallengesSomewhat disagree,Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,68,0.0013823666930942652
+AIAgentChallengesSomewhat disagree,It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.,54,0.0010977617856925048
+AIAgentChallengesSomewhat disagree,Integrating AI agents with my existing tools and workflows can be difficult.;The cost of using certain AI agent platforms is a barrier.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,50,0.0010164460978634303
+AIAgentChallengesSomewhat disagree,Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;I have concerns about the security and privacy of data when using AI agents.,50,0.0010164460978634303
+AIAgentChallengesSomewhat disagree,I am concerned about the accuracy of the information provided by AI agents.;It takes significant time and effort to learn how to use AI agents effectively.,44,0.0008944725661198187
+AIAgentChallengesSomewhat disagree,I am concerned about the accuracy of the information provided by AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,40,0.0008131568782907443
+AIAgentChallengesSomewhat disagree,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.,37,0.0007521701124189384
+AIAgentChallengesSomewhat disagree,I am concerned about the accuracy of the information provided by AI agents.;I have concerns about the security and privacy of data when using AI agents.,37,0.0007521701124189384
+AIAgentChallengesSomewhat disagree,The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,34,0.0006911833465471326
+AIAgentChallengesStrongly agree,,26083,0.530239271411437
+AIAgentChallengesStrongly agree,I am concerned about the accuracy of the information provided by AI agents.;I have concerns about the security and privacy of data when using AI agents.,4433,0.09011811103657173
+AIAgentChallengesStrongly agree,I am concerned about the accuracy of the information provided by AI agents.,2984,0.06066150312048952
+AIAgentChallengesStrongly agree,I have concerns about the security and privacy of data when using AI agents.,2175,0.04421540525705922
+AIAgentChallengesStrongly agree,I am concerned about the accuracy of the information provided by AI agents.;The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.,1439,0.029253318696509524
+AIAgentChallengesStrongly agree,The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.,699,0.014209916448130756
+AIAgentChallengesStrongly agree,I am concerned about the accuracy of the information provided by AI agents.;I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,698,0.014189587526173487
+AIAgentChallengesStrongly agree,The cost of using certain AI agent platforms is a barrier.,659,0.013396759569840011
+AIAgentChallengesStrongly agree,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.;I have concerns about the security and privacy of data when using AI agents.,565,0.011485840905856762
+AIAgentChallengesStrongly agree,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.,564,0.011465511983899494
+AIAgentChallengesStrongly agree,I am concerned about the accuracy of the information provided by AI agents.;I have concerns about the security and privacy of data when using AI agents.;Write in the most significant challenge if not listed above:,490,0.009961171759061617
+AIAgentChallengesStrongly agree,I am concerned about the accuracy of the information provided by AI agents.;The cost of using certain AI agent platforms is a barrier.,402,0.00817222662682198
+AIAgentChallengesStrongly agree,I am concerned about the accuracy of the information provided by AI agents.;It takes significant time and effort to learn how to use AI agents effectively.;I have concerns about the security and privacy of data when using AI agents.,396,0.008050253095078367
+AIAgentChallengesStrongly agree,I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,368,0.007481043280274847
+AIAgentChallengesStrongly agree,I am concerned about the accuracy of the information provided by AI agents.;It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.,366,0.00744038543636031
+AIAgentChallengesStrongly agree,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,346,0.0070338069972149374
+AIAgentChallengesStrongly agree,My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,335,0.006810188855684983
+AIAgentChallengesStrongly agree,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.;The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.,320,0.006505255026325954
+AIAgentChallengesStrongly agree,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.,313,0.006362952572625074
+AIAgentChallengesStrongly agree,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;I have concerns about the security and privacy of data when using AI agents.,285,0.005793742757821553
+AIAgentChallengesStrongly agree,I am concerned about the accuracy of the information provided by AI agents.;The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,281,0.005712427069992478
+AIAgentChallengesStrongly agree,It takes significant time and effort to learn how to use AI agents effectively.,253,0.005143217255188957
+AIAgentChallengesStrongly agree,Integrating AI agents with my existing tools and workflows can be difficult.,234,0.004756967738000854
+AIAgentChallengesStrongly agree,I am concerned about the accuracy of the information provided by AI agents.;It takes significant time and effort to learn how to use AI agents effectively.,227,0.004614665284299974
+AIAgentChallengesStrongly agree,I am concerned about the accuracy of the information provided by AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,205,0.004167429001240064
+AIAgentChallengesStrongly agree,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms;Write in the most significant challenge if not listed above:,189,0.0038421662499237667
+AIAgentChallengesStrongly agree,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.;I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,180,0.003659205952308349
+AIAgentChallengesStrongly agree,I am concerned about the accuracy of the information provided by AI agents.;Write in the most significant challenge if not listed above:,156,0.0031713118253339024
+AIAgentChallengesStrongly agree,Write in the most significant challenge if not listed above:,153,0.003110325059462097
+AIAgentChallengesStrongly agree,The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,151,0.0030696672155475597
+AIAgentChallengesSomewhat agree,,27244,0.5538411498038259
+AIAgentChallengesSomewhat agree,I am concerned about the accuracy of the information provided by AI agents.,1758,0.035738244800878206
+AIAgentChallengesSomewhat agree,Integrating AI agents with my existing tools and workflows can be difficult.,1622,0.03297351141468968
+AIAgentChallengesSomewhat agree,The cost of using certain AI agent platforms is a barrier.,1606,0.03264824866337338
+AIAgentChallengesSomewhat agree,It takes significant time and effort to learn how to use AI agents effectively.,1407,0.02860279319387693
+AIAgentChallengesSomewhat agree,I have concerns about the security and privacy of data when using AI agents.,1340,0.027240755422739932
+AIAgentChallengesSomewhat agree,I am concerned about the accuracy of the information provided by AI agents.;I have concerns about the security and privacy of data when using AI agents.,922,0.018743266044601654
+AIAgentChallengesSomewhat agree,Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.,844,0.017157610131934703
+AIAgentChallengesSomewhat agree,My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,699,0.014209916448130756
+AIAgentChallengesSomewhat agree,I am concerned about the accuracy of the information provided by AI agents.;The cost of using certain AI agent platforms is a barrier.,628,0.012766562989164685
+AIAgentChallengesSomewhat agree,It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.,613,0.012461629159805655
+AIAgentChallengesSomewhat agree,Integrating AI agents with my existing tools and workflows can be difficult.;The cost of using certain AI agent platforms is a barrier.,609,0.012380313471976582
+AIAgentChallengesSomewhat agree,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.,596,0.012116037486532089
+AIAgentChallengesSomewhat agree,I am concerned about the accuracy of the information provided by AI agents.;It takes significant time and effort to learn how to use AI agents effectively.,554,0.011262222764326807
+AIAgentChallengesSomewhat agree,The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.,467,0.009493606554044439
+AIAgentChallengesSomewhat agree,Integrating AI agents with my existing tools and workflows can be difficult.;I have concerns about the security and privacy of data when using AI agents.,447,0.009087028114899066
+AIAgentChallengesSomewhat agree,It takes significant time and effort to learn how to use AI agents effectively.;I have concerns about the security and privacy of data when using AI agents.,424,0.008619462909881888
+AIAgentChallengesSomewhat agree,Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.,419,0.008517818300095546
+AIAgentChallengesSomewhat agree,I am concerned about the accuracy of the information provided by AI agents.;The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.,389,0.007907950641377488
+AIAgentChallengesSomewhat agree,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.,379,0.007704661421804802
+AIAgentChallengesSomewhat agree,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.;I have concerns about the security and privacy of data when using AI agents.,316,0.00642393933849688
+AIAgentChallengesSomewhat agree,Integrating AI agents with my existing tools and workflows can be difficult.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,313,0.006362952572625074
+AIAgentChallengesSomewhat agree,The cost of using certain AI agent platforms is a barrier.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,283,0.0057530849139070155
+AIAgentChallengesSomewhat agree,Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;I have concerns about the security and privacy of data when using AI agents.,267,0.0054278221625907175
+AIAgentChallengesSomewhat agree,It takes significant time and effort to learn how to use AI agents effectively.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,266,0.005407493240633449
+AIAgentChallengesSomewhat agree,I am concerned about the accuracy of the information provided by AI agents.;It takes significant time and effort to learn how to use AI agents effectively.;I have concerns about the security and privacy of data when using AI agents.,262,0.005326177552804375
+AIAgentChallengesSomewhat agree,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.;The cost of using certain AI agent platforms is a barrier.,257,0.005224532943018031
+AIAgentChallengesSomewhat agree,I am concerned about the accuracy of the information provided by AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,230,0.00467565205017178
+AIAgentChallengesSomewhat agree,I am concerned about the accuracy of the information provided by AI agents.;It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.,220,0.0044723628305990935
+AIAgentChallengesSomewhat agree,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.,199,0.004045455469496453
+AIAgentChallengesStrongly disagree,,39877,0.8106564208900002
+AIAgentChallengesStrongly disagree,My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,5502,0.11184972860889188
+AIAgentChallengesStrongly disagree,It takes significant time and effort to learn how to use AI agents effectively.,687,0.013965969384643532
+AIAgentChallengesStrongly disagree,It takes significant time and effort to learn how to use AI agents effectively.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,421,0.008558476144010084
+AIAgentChallengesStrongly disagree,The cost of using certain AI agent platforms is a barrier.,352,0.007155780528958549
+AIAgentChallengesStrongly disagree,The cost of using certain AI agent platforms is a barrier.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,303,0.006159663353052388
+AIAgentChallengesStrongly disagree,Integrating AI agents with my existing tools and workflows can be difficult.,239,0.004858612347787197
+AIAgentChallengesStrongly disagree,Integrating AI agents with my existing tools and workflows can be difficult.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,221,0.004492691752556362
+AIAgentChallengesStrongly disagree,I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,175,0.003557561342522006
+AIAgentChallengesStrongly disagree,Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.,136,0.0027647333861885305
+AIAgentChallengesStrongly disagree,It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.,117,0.002378483869000427
+AIAgentChallengesStrongly disagree,I have concerns about the security and privacy of data when using AI agents.,113,0.0022971681811713527
+AIAgentChallengesStrongly disagree,Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,110,0.0022361814152995468
+AIAgentChallengesStrongly disagree,It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,104,0.002114207883555935
+AIAgentChallengesStrongly disagree,I am concerned about the accuracy of the information provided by AI agents.,101,0.0020532211176841294
+AIAgentChallengesStrongly disagree,Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,64,0.0013010510052651907
+AIAgentChallengesStrongly disagree,Write in the most significant challenge if not listed above:,61,0.001240064239393385
+AIAgentChallengesStrongly disagree,Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.,51,0.0010367750198206989
+AIAgentChallengesStrongly disagree,The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,48,0.0009757882539488931
+AIAgentChallengesStrongly disagree,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms;Write in the most significant challenge if not listed above:,45,0.0009148014880770872
+AIAgentChallengesStrongly disagree,I am concerned about the accuracy of the information provided by AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,35,0.0007115122685044012
+AIAgentChallengesStrongly disagree,It takes significant time and effort to learn how to use AI agents effectively.;I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,30,0.0006098676587180582
+AIAgentChallengesStrongly disagree,Integrating AI agents with my existing tools and workflows can be difficult.;The cost of using certain AI agent platforms is a barrier.,30,0.0006098676587180582
+AIAgentChallengesStrongly disagree,It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,26,0.0005285519708889837
+AIAgentChallengesStrongly disagree,Integrating AI agents with my existing tools and workflows can be difficult.;The cost of using certain AI agent platforms is a barrier.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,25,0.0005082230489317152
+AIAgentChallengesStrongly disagree,My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms;Write in the most significant challenge if not listed above:,25,0.0005082230489317152
+AIAgentChallengesStrongly disagree,The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.,24,0.00048789412697444653
+AIAgentChallengesStrongly disagree,Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,22,0.00044723628305990933
+AIAgentChallengesStrongly disagree,Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,21,0.0004269073611026407
+AIAgentChallengesStrongly disagree,I am concerned about the accuracy of the information provided by AI agents.;Integrating AI agents with my existing tools and workflows can be difficult.;It takes significant time and effort to learn how to use AI agents effectively.;The cost of using certain AI agent platforms is a barrier.;I have concerns about the security and privacy of data when using AI agents.;My company's IT and/or InfoSec teams have strict rules that do not allow me to use AI agent tools or platforms,21,0.0004269073611026407
+AIAgentKnowledge,,45790,0.9308613364233295
+AIAgentKnowledge,GitHub MCP Server,657,0.013356101725925475
+AIAgentKnowledge,Redis,485,0.009859527149275274
+AIAgentKnowledge,supabase,160,0.003252627513162977
+AIAgentKnowledge,Redis;GitHub MCP Server,137,0.002785062308145799
+AIAgentKnowledge,ChromaDB,134,0.0027240755422739934
+AIAgentKnowledge,pgvector,113,0.0022971681811713527
+AIAgentKnowledge,Redis;supabase,92,0.0018702608200687118
+AIAgentKnowledge,Redis;Neo4j,59,0.0011994063954788477
+AIAgentKnowledge,Neo4j,52,0.0010571039417779675
+AIAgentKnowledge,GitHub MCP Server;supabase,51,0.0010367750198206989
+AIAgentKnowledge,Redis;pgvector,48,0.0009757882539488931
+AIAgentKnowledge,GitHub MCP Server;ChromaDB,48,0.0009757882539488931
+AIAgentKnowledge,Redis;GitHub MCP Server;supabase,41,0.0008334858002480128
+AIAgentKnowledge,Redis;ChromaDB,34,0.0006911833465471326
+AIAgentKnowledge,Redis;Fireproof;LanceDB;Letta;Neo4j;Qdrant;GitHub MCP Server;ChromaDB;supabase;pgvector;Milvus;Weaviate;Pinecone;Zep;LangMem;mem0,32,0.0006505255026325954
+AIAgentKnowledge,Pinecone,31,0.0006301965806753268
+AIAgentKnowledge,Qdrant,31,0.0006301965806753268
+AIAgentKnowledge,GitHub MCP Server;pgvector,29,0.0005895387367607895
+AIAgentKnowledge,ChromaDB;pgvector,24,0.00048789412697444653
+AIAgentKnowledge,supabase;pgvector,24,0.00048789412697444653
+AIAgentKnowledge,LanceDB,22,0.00044723628305990933
+AIAgentKnowledge,Redis;GitHub MCP Server;ChromaDB,22,0.00044723628305990933
+AIAgentKnowledge,Milvus,21,0.0004269073611026407
+AIAgentKnowledge,Neo4j;GitHub MCP Server,21,0.0004269073611026407
+AIAgentKnowledge,Redis;GitHub MCP Server;pgvector,19,0.0003862495171881035
+AIAgentKnowledge,Weaviate,18,0.0003659205952308349
+AIAgentKnowledge,Redis;Qdrant,18,0.0003659205952308349
+AIAgentKnowledge,Redis;Pinecone,17,0.0003455916732735663
+AIAgentKnowledge,Redis;GitHub MCP Server;supabase;pgvector,15,0.0003049338293590291
+AIAgentKnowWrite,,48425,0.9844280457807323
+AIAgentKnowWrite,Copilot,15,0.0003049338293590291
+AIAgentKnowWrite,n8n,15,0.0003049338293590291
+AIAgentKnowWrite,Cursor,13,0.00026427598544449186
+AIAgentKnowWrite,ChatGPT,13,0.00026427598544449186
+AIAgentKnowWrite,Junie,12,0.00024394706348722326
+AIAgentKnowWrite,no,9,0.00018296029761541744
+AIAgentKnowWrite,Claude Code,8,0.00016263137565814884
+AIAgentKnowWrite,copilot,7,0.00014230245370088024
+AIAgentKnowWrite,LangChain,7,0.00014230245370088024
+AIAgentKnowWrite,Langchain,7,0.00014230245370088024
+AIAgentKnowWrite,No,7,0.00014230245370088024
+AIAgentKnowWrite,cursor,7,0.00014230245370088024
+AIAgentKnowWrite,Github Copilot,7,0.00014230245370088024
+AIAgentKnowWrite,custom,6,0.00012197353174361163
+AIAgentKnowWrite,GitHub Copilot,6,0.00012197353174361163
+AIAgentKnowWrite,chatgpt,5,0.00010164460978634303
+AIAgentKnowWrite,1,5,0.00010164460978634303
+AIAgentKnowWrite,Azure AI Search,4,8.131568782907442e-05
+AIAgentKnowWrite,Tidewave,4,8.131568782907442e-05
+AIAgentKnowWrite,Cline,4,8.131568782907442e-05
+AIAgentKnowWrite,yes,4,8.131568782907442e-05
+AIAgentKnowWrite,Claude,4,8.131568782907442e-05
+AIAgentKnowWrite,MongoDB,3,6.0986765871805816e-05
+AIAgentKnowWrite,LangGraph,3,6.0986765871805816e-05
+AIAgentKnowWrite,Gemini,3,6.0986765871805816e-05
+AIAgentKnowWrite,langgraph,3,6.0986765871805816e-05
+AIAgentKnowWrite,CoPilot,3,6.0986765871805816e-05
+AIAgentKnowWrite,"LangChain, LangGraph",3,6.0986765871805816e-05
+AIAgentKnowWrite,Custom,3,6.0986765871805816e-05
+AIAgentOrchestration,,45431,0.92356325344067
+AIAgentOrchestration,Ollama,796,0.01618182187798581
+AIAgentOrchestration,Amazon Bedrock Agents,171,0.0034762456546929316
+AIAgentOrchestration,LangChain,170,0.0034559167327356632
+AIAgentOrchestration,Ollama;LangChain,157,0.003191640747291171
+AIAgentOrchestration,Zapier,150,0.003049338293590291
+AIAgentOrchestration,Vertex AI,134,0.0027240755422739934
+AIAgentOrchestration,AutoGen (Microsoft),134,0.0027240755422739934
+AIAgentOrchestration,LangChain;LangGraph,110,0.0022361814152995468
+AIAgentOrchestration,Ollama;OpenRouter,90,0.0018296029761541745
+AIAgentOrchestration,OpenRouter,71,0.001443353458966071
+AIAgentOrchestration,Ollama;LangChain;LangGraph,68,0.0013823666930942652
+AIAgentOrchestration,IBM watsonx.ai,52,0.0010571039417779675
+AIAgentOrchestration,Semantic Kernel,51,0.0010367750198206989
+AIAgentOrchestration,Llama Index,45,0.0009148014880770872
+AIAgentOrchestration,Vertex AI;Ollama,33,0.000670854424589864
+AIAgentOrchestration,Llama Index;Ollama;LangChain,33,0.000670854424589864
+AIAgentOrchestration,Llama Index;Ollama,31,0.0006301965806753268
+AIAgentOrchestration,Ollama;Amazon Bedrock Agents,30,0.0006098676587180582
+AIAgentOrchestration,Vertex AI;Agno;AutoGen (Microsoft);CrewAI;IBM watsonx.ai;Llama Index;Ollama;Semantic Kernel;OpenRouter;LangChain;Smol-AGI;Zapier;Amazon Bedrock Agents;LangGraph;Haystack;Martian;phidata;Smolagents;lyzr,30,0.0006098676587180582
+AIAgentOrchestration,Ollama;Zapier,29,0.0005895387367607895
+AIAgentOrchestration,CrewAI,26,0.0005285519708889837
+AIAgentOrchestration,LangGraph,22,0.00044723628305990933
+AIAgentOrchestration,Llama Index;LangChain,22,0.00044723628305990933
+AIAgentOrchestration,Ollama;OpenRouter;LangChain,22,0.00044723628305990933
+AIAgentOrchestration,Llama Index;Ollama;LangChain;LangGraph,21,0.0004269073611026407
+AIAgentOrchestration,Ollama;Semantic Kernel,21,0.0004269073611026407
+AIAgentOrchestration,Vertex AI;LangChain,20,0.00040657843914537213
+AIAgentOrchestration,Agno,20,0.00040657843914537213
+AIAgentOrchestration,Haystack,19,0.0003862495171881035
+AIAgentOrchWrite,,48713,0.9902827753044257
+AIAgentOrchWrite,n8n,28,0.000569209814803521
+AIAgentOrchWrite,Copilot,12,0.00024394706348722326
+AIAgentOrchWrite,No,8,0.00016263137565814884
+AIAgentOrchWrite,no,8,0.00016263137565814884
+AIAgentOrchWrite,Junie,7,0.00014230245370088024
+AIAgentOrchWrite,Cursor,7,0.00014230245370088024
+AIAgentOrchWrite,none,7,0.00014230245370088024
+AIAgentOrchWrite,Spring AI,5,0.00010164460978634303
+AIAgentOrchWrite,copilot,5,0.00010164460978634303
+AIAgentOrchWrite,ChatGPT,5,0.00010164460978634303
+AIAgentOrchWrite,Pydantic AI,5,0.00010164460978634303
+AIAgentOrchWrite,N8N,4,8.131568782907442e-05
+AIAgentOrchWrite,llama.cpp,4,8.131568782907442e-05
+AIAgentOrchWrite,Google ADK,4,8.131568782907442e-05
+AIAgentOrchWrite,Github Copilot,4,8.131568782907442e-05
+AIAgentOrchWrite,Claude Code,4,8.131568782907442e-05
+AIAgentOrchWrite,GitHub Copilot,3,6.0986765871805816e-05
+AIAgentOrchWrite,Gemini,3,6.0986765871805816e-05
+AIAgentOrchWrite,Azure,3,6.0986765871805816e-05
+AIAgentOrchWrite,Roo Code,3,6.0986765871805816e-05
+AIAgentOrchWrite,Make,3,6.0986765871805816e-05
+AIAgentOrchWrite,1,3,6.0986765871805816e-05
+AIAgentOrchWrite,LM Studio,3,6.0986765871805816e-05
+AIAgentOrchWrite,Zed,3,6.0986765871805816e-05
+AIAgentOrchWrite,JetBrains Junie,3,6.0986765871805816e-05
+AIAgentOrchWrite,Amazon Q,3,6.0986765871805816e-05
+AIAgentOrchWrite,Mastra,3,6.0986765871805816e-05
+AIAgentOrchWrite,N8n,3,6.0986765871805816e-05
+AIAgentOrchWrite,custom,2,4.065784391453721e-05
+AIAgentObserveSecure,,46499,0.9452745420910329
+AIAgentObserveSecure,Grafana + Prometheus,588,0.01195340611087394
+AIAgentObserveSecure,Sentry,372,0.007562358968103922
+AIAgentObserveSecure,Snyk,176,0.0035778902644792747
+AIAgentObserveSecure,Sentry;Grafana + Prometheus,123,0.0025004574007440384
+AIAgentObserveSecure,LangSmith,113,0.0022971681811713527
+AIAgentObserveSecure,New Relic,104,0.002114207883555935
+AIAgentObserveSecure,Honeycomb,59,0.0011994063954788477
+AIAgentObserveSecure,Snyk;Grafana + Prometheus,58,0.001179077473521579
+AIAgentObserveSecure,Sentry;Snyk,54,0.0010977617856925048
+AIAgentObserveSecure,Wiz,54,0.0010977617856925048
+AIAgentObserveSecure,Adversarial Robustness Toolbox (ART),47,0.0009554593319916245
+AIAgentObserveSecure,Langfuse,44,0.0008944725661198187
+AIAgentObserveSecure,Sentry;New Relic,43,0.0008741436441625501
+AIAgentObserveSecure,LangSmith;Langfuse,42,0.0008538147222052814
+AIAgentObserveSecure,Galileo,41,0.0008334858002480128
+AIAgentObserveSecure,New Relic;Grafana + Prometheus,41,0.0008334858002480128
+AIAgentObserveSecure,Sentry;Snyk;Grafana + Prometheus,35,0.0007115122685044012
+AIAgentObserveSecure,Sentry;Galileo;Honeycomb;Metero;New Relic;opik;Snyk;Grafana + Prometheus;Adversarial Robustness Toolbox (ART);LangSmith;Langfuse;Wiz;Protect AI;Vectra AI;arize;helicone,28,0.000569209814803521
+AIAgentObserveSecure,Protect AI,27,0.0005488808928462524
+AIAgentObserveSecure,Honeycomb;Grafana + Prometheus,22,0.00044723628305990933
+AIAgentObserveSecure,Sentry;New Relic;Grafana + Prometheus,21,0.0004269073611026407
+AIAgentObserveSecure,Grafana + Prometheus;Langfuse,20,0.00040657843914537213
+AIAgentObserveSecure,Grafana + Prometheus;LangSmith,20,0.00040657843914537213
+AIAgentObserveSecure,Vectra AI,19,0.0003862495171881035
+AIAgentObserveSecure,New Relic;Snyk,17,0.0003455916732735663
+AIAgentObserveSecure,arize,17,0.0003455916732735663
+AIAgentObserveSecure,Sentry;LangSmith,13,0.00026427598544449186
+AIAgentObserveSecure,Metero,11,0.00022361814152995467
+AIAgentObserveSecure,Sentry;New Relic;Snyk,11,0.00022361814152995467
+AIAgentObsWrite,,48927,0.9946331646032811
+AIAgentObsWrite,no,13,0.00026427598544449186
+AIAgentObsWrite,Datadog,12,0.00024394706348722326
+AIAgentObsWrite,Dynatrace,7,0.00014230245370088024
+AIAgentObsWrite,none,7,0.00014230245370088024
+AIAgentObsWrite,Copilot,5,0.00010164460978634303
+AIAgentObsWrite,No,5,0.00010164460978634303
+AIAgentObsWrite,copilot,4,8.131568782907442e-05
+AIAgentObsWrite,1,4,8.131568782907442e-05
+AIAgentObsWrite,chatgpt,3,6.0986765871805816e-05
+AIAgentObsWrite,datadog,3,6.0986765871805816e-05
+AIAgentObsWrite,ChatGPT,3,6.0986765871805816e-05
+AIAgentObsWrite,-,3,6.0986765871805816e-05
+AIAgentObsWrite,0,3,6.0986765871805816e-05
+AIAgentObsWrite,n8n,3,6.0986765871805816e-05
+AIAgentObsWrite,AgentOps,3,6.0986765871805816e-05
+AIAgentObsWrite,Logfire,2,4.065784391453721e-05
+AIAgentObsWrite,"ChatGPT, Copilot",2,4.065784391453721e-05
+AIAgentObsWrite,wandb,2,4.065784391453721e-05
+AIAgentObsWrite,Cloudwatch,2,4.065784391453721e-05
+AIAgentObsWrite,DataDog,2,4.065784391453721e-05
+AIAgentObsWrite,Github Copilot,2,4.065784391453721e-05
+AIAgentObsWrite,"Splunk ML, Dynatrace Davis",1,2.0328921957268605e-05
+AIAgentObsWrite,Custom internal monitoring solution together with Grafana and Prometheus,1,2.0328921957268605e-05
+AIAgentObsWrite,Same answer,1,2.0328921957268605e-05
+AIAgentObsWrite,ES cloud AI agent (forgot the name),1,2.0328921957268605e-05
+AIAgentObsWrite,CoPilot,1,2.0328921957268605e-05
+AIAgentObsWrite,"iMacros, Self created .log Files",1,2.0328921957268605e-05
+AIAgentObsWrite,"coroot, opentelemetry, fluvio",1,2.0328921957268605e-05
+AIAgentObsWrite,Observe,1,2.0328921957268605e-05
+AIAgentExternal,,40859,0.830619422252038
+AIAgentExternal,ChatGPT;GitHub Copilot,669,0.013600048789412697
+AIAgentExternal,ChatGPT,549,0.011160578154540465
+AIAgentExternal,ChatGPT;Claude Code;GitHub Copilot;Google Gemini,371,0.007542030046146653
+AIAgentExternal,ChatGPT;GitHub Copilot;Google Gemini,370,0.007521701124189384
+AIAgentExternal,ChatGPT;Claude Code;GitHub Copilot,352,0.007155780528958549
+AIAgentExternal,GitHub Copilot,341,0.006932162387428595
+AIAgentExternal,ChatGPT;GitHub Copilot;Microsoft Copilot,287,0.00583440060173609
+AIAgentExternal,ChatGPT;Claude Code;GitHub Copilot;Google Gemini;Microsoft Copilot,239,0.004858612347787197
+AIAgentExternal,ChatGPT;GitHub Copilot;Google Gemini;Microsoft Copilot,237,0.00481795450387266
+AIAgentExternal,ChatGPT;Google Gemini,231,0.004695980972129048
+AIAgentExternal,ChatGPT;Claude Code,228,0.004634994206257242
+AIAgentExternal,ChatGPT;Claude Code;Google Gemini,141,0.0028663779959748736
+AIAgentExternal,ChatGPT;Microsoft Copilot,129,0.0026224309324876503
+AIAgentExternal,ChatGPT;Claude Code;GitHub Copilot;Microsoft Copilot,117,0.002378483869000427
+AIAgentExternal,GitHub Copilot;Microsoft Copilot,105,0.0021345368055132037
+AIAgentExternal,ChatGPT;Google Gemini;Microsoft Copilot,100,0.0020328921957268606
+AIAgentExternal,GitHub Copilot;Google Gemini,96,0.0019515765078977861
+AIAgentExternal,ChatGPT;Claude Code;GitHub Copilot;Google Gemini;Perplexity,87,0.0017686162102823688
+AIAgentExternal,Google Gemini,82,0.0016669716004960257
+AIAgentExternal,Microsoft Copilot,76,0.001544998068752414
+AIAgentExternal,Claude Code,75,0.0015246691467951455
+AIAgentExternal,ChatGPT;Claude Code;GitHub Copilot;Google Gemini;Microsoft Copilot;Perplexity,72,0.0014636823809233395
+AIAgentExternal,Claude Code;GitHub Copilot,62,0.0012603931613506536
+AIAgentExternal,ChatGPT;GitHub Copilot;Google Gemini;Perplexity,52,0.0010571039417779675
+AIAgentExternal,ChatGPT;GitHub Copilot;Perplexity,50,0.0010164460978634303
+AIAgentExternal,ChatGPT;GitHub Copilot;Google Gemini;Microsoft Copilot;Perplexity,45,0.0009148014880770872
+AIAgentExternal,GitHub Copilot;Google Gemini;Microsoft Copilot,43,0.0008741436441625501
+AIAgentExternal,ChatGPT;Claude Code;Google Gemini;Perplexity,42,0.0008538147222052814
+AIAgentExternal,AgentGPT,41,0.0008334858002480128
+AIAgentExtWrite,,48332,0.9825374560387062
+AIAgentExtWrite,Cursor,106,0.002154865727470472
+AIAgentExtWrite,Junie,39,0.0007928279563334756
+AIAgentExtWrite,Grok,29,0.0005895387367607895
+AIAgentExtWrite,Windsurf,23,0.00046756520501717796
+AIAgentExtWrite,cursor,23,0.00046756520501717796
+AIAgentExtWrite,DeepSeek,19,0.0003862495171881035
+AIAgentExtWrite,Cline,17,0.0003455916732735663
+AIAgentExtWrite,Augment,13,0.00026427598544449186
+AIAgentExtWrite,Deepseek,12,0.00024394706348722326
+AIAgentExtWrite,Zed,11,0.00022361814152995467
+AIAgentExtWrite,JetBrains Junie,10,0.00020328921957268607
+AIAgentExtWrite,deepseek,9,0.00018296029761541744
+AIAgentExtWrite,Amazon Q,9,0.00018296029761541744
+AIAgentExtWrite,aider,9,0.00018296029761541744
+AIAgentExtWrite,Jetbrains Junie,8,0.00016263137565814884
+AIAgentExtWrite,Aider,8,0.00016263137565814884
+AIAgentExtWrite,windsurf,8,0.00016263137565814884
+AIAgentExtWrite,Jetbrains AI,7,0.00014230245370088024
+AIAgentExtWrite,Augment Code,7,0.00014230245370088024
+AIAgentExtWrite,no,6,0.00012197353174361163
+AIAgentExtWrite,grok,5,0.00010164460978634303
+AIAgentExtWrite,JetBrains AI,5,0.00010164460978634303
+AIAgentExtWrite,GitLab Duo,5,0.00010164460978634303
+AIAgentExtWrite,Mistral,4,8.131568782907442e-05
+AIAgentExtWrite,mistral,4,8.131568782907442e-05
+AIAgentExtWrite,Supermaven,4,8.131568782907442e-05
+AIAgentExtWrite,1,4,8.131568782907442e-05
+AIAgentExtWrite,Codex,4,8.131568782907442e-05
+AIAgentExtWrite,Jules,4,8.131568782907442e-05
+AIHuman,,19997,0.4065174523795003
+AIHuman,When I don’t trust AI’s answers;When I want to fully understand something;When I want to learn best practices;When I want to compare different solutions;When I have ethical or security concerns about code;When I’m stuck and can’t explain the problem;When I need help fixing complex or unfamiliar code;When I need quick help troubleshooting,3050,0.06200321196966925
+AIHuman,When I don’t trust AI’s answers;When I want to fully understand something;When I want to learn best practices;When I want to compare different solutions;When I have ethical or security concerns about code;When I’m stuck and can’t explain the problem;When I need help fixing complex or unfamiliar code,1095,0.022260169543209123
+AIHuman,When I don’t trust AI’s answers;When I want to fully understand something;When I want to learn best practices;When I have ethical or security concerns about code;When I’m stuck and can’t explain the problem;When I need help fixing complex or unfamiliar code,901,0.018316358683499016
+AIHuman,Other (please specify):,606,0.012319326706104776
+AIHuman,When I don’t trust AI’s answers;When I have ethical or security concerns about code,598,0.012156695330446627
+AIHuman,When I don’t trust AI’s answers,537,0.010916631091053241
+AIHuman,I don’t think I’ll need help from people anymore,521,0.010591368339736944
+AIHuman,When I don’t trust AI’s answers;When I want to fully understand something;When I want to learn best practices;When I have ethical or security concerns about code,518,0.010530381573865138
+AIHuman,When I don’t trust AI’s answers;When I want to fully understand something;When I want to learn best practices;When I have ethical or security concerns about code;When I’m stuck and can’t explain the problem,468,0.009513935476001708
+AIHuman,When I’m stuck and can’t explain the problem,458,0.009310646256429021
+AIHuman,When I don’t trust AI’s answers;When I want to fully understand something;When I want to learn best practices;When I have ethical or security concerns about code;When I need help fixing complex or unfamiliar code,398,0.008090910938992906
+AIHuman,When I don’t trust AI’s answers;When I want to fully understand something;When I want to learn best practices;When I want to compare different solutions;When I have ethical or security concerns about code;When I’m stuck and can’t explain the problem,391,0.007948608485292025
+AIHuman,When I don’t trust AI’s answers;When I want to fully understand something;When I want to learn best practices;When I want to compare different solutions;When I have ethical or security concerns about code,373,0.00758268789006119
+AIHuman,When I don’t trust AI’s answers;When I want to learn best practices;When I have ethical or security concerns about code,352,0.007155780528958549
+AIHuman,When I don’t trust AI’s answers;When I have ethical or security concerns about code;When I’m stuck and can’t explain the problem,341,0.006932162387428595
+AIHuman,When I don’t trust AI’s answers;When I want to fully understand something;When I want to learn best practices,328,0.006667886401984103
+AIHuman,When I don’t trust AI’s answers;When I want to fully understand something;When I want to learn best practices;When I want to compare different solutions;When I have ethical or security concerns about code;When I need help fixing complex or unfamiliar code,324,0.0065865707141550284
+AIHuman,When I don’t trust AI’s answers;When I want to fully understand something;When I want to learn best practices;When I’m stuck and can’t explain the problem;When I need help fixing complex or unfamiliar code,323,0.00656624179219776
+AIHuman,When I don’t trust AI’s answers;When I want to fully understand something;When I have ethical or security concerns about code,307,0.006240979040881462
+AIHuman,When I don’t trust AI’s answers;When I want to fully understand something;When I want to learn best practices;When I’m stuck and can’t explain the problem,306,0.006220650118924194
+AIHuman,When I don’t trust AI’s answers;When I want to compare different solutions;When I have ethical or security concerns about code,303,0.006159663353052388
+AIHuman,When I don’t trust AI’s answers;When I want to fully understand something;When I have ethical or security concerns about code;When I’m stuck and can’t explain the problem,286,0.005814071679778821
+AIHuman,When I don’t trust AI’s answers;When I have ethical or security concerns about code;When I need help fixing complex or unfamiliar code,274,0.005570124616291598
+AIHuman,When I don’t trust AI’s answers;When I want to fully understand something;When I want to learn best practices;When I want to compare different solutions;When I have ethical or security concerns about code;When I’m stuck and can’t explain the problem;When I need help fixing complex or unfamiliar code;When I need quick help troubleshooting;Other (please specify):,266,0.005407493240633449
+AIHuman,When I don’t trust AI’s answers;When I want to learn best practices;When I want to compare different solutions;When I have ethical or security concerns about code,253,0.005143217255188957
+AIHuman,When I don’t trust AI’s answers;When I want to fully understand something;When I want to learn best practices;When I have ethical or security concerns about code;When I’m stuck and can’t explain the problem;When I need help fixing complex or unfamiliar code;When I need quick help troubleshooting,249,0.005061901567359883
+AIHuman,When I don’t trust AI’s answers;When I want to fully understand something;When I have ethical or security concerns about code;When I’m stuck and can’t explain the problem;When I need help fixing complex or unfamiliar code,248,0.005041572645402614
+AIHuman,When I want to fully understand something,237,0.00481795450387266
+AIHuman,When I don’t trust AI’s answers;When I have ethical or security concerns about code;When I’m stuck and can’t explain the problem;When I need help fixing complex or unfamiliar code,209,0.004248744689069139
+AIOpen,,26651,0.5417860990831657
+AIOpen,Problem solving,133,0.0027037466203167246
+AIOpen,Critical thinking,94,0.001910918663983249
+AIOpen,problem solving,80,0.0016263137565814885
+AIOpen,Debugging,74,0.001504340224837877
+AIOpen,Creativity,71,0.001443353458966071
+AIOpen,All of them,57,0.0011587485515643105
+AIOpen,Communication,52,0.0010571039417779675
+AIOpen,Thinking,49,0.0009961171759061617
+AIOpen,critical thinking,46,0.0009351304100343559
+AIOpen,Architecture,42,0.0008538147222052814
+AIOpen,creativity,40,0.0008131568782907443
+AIOpen,All of them.,39,0.0007928279563334756
+AIOpen,yes,38,0.000772499034376207
+AIOpen,Yes,38,0.000772499034376207
+AIOpen,debugging,38,0.000772499034376207
+AIOpen,All,36,0.0007318411904616698
+AIOpen,thinking,35,0.0007115122685044012
+AIOpen,Problem Solving,31,0.0006301965806753268
+AIOpen,Everything,30,0.0006098676587180582
+AIOpen,Soft skills,29,0.0005895387367607895
+AIOpen,Coding,29,0.0005895387367607895
+AIOpen,Software architecture,26,0.0005285519708889837
+AIOpen,5,25,0.0005082230489317152
+AIOpen,3,25,0.0005082230489317152
+AIOpen,all,24,0.00048789412697444653
+AIOpen,all of them,24,0.00048789412697444653
+AIOpen,coding,19,0.0003862495171881035
+AIOpen,soft skills,19,0.0003862495171881035
+AIOpen,communication,19,0.0003862495171881035
+JobSatPoints_1,,24248,0.4929356996198492
+JobSatPoints_1,4.0,2317,0.04710211217499136
+JobSatPoints_1,5.0,2274,0.04622796853082881
+JobSatPoints_1,3.0,2240,0.045536785184281676
+JobSatPoints_1,6.0,2213,0.04498790429143543
+JobSatPoints_1,2.0,2074,0.042162184139375086
+JobSatPoints_1,7.0,1957,0.039783700270374665
+JobSatPoints_1,8.0,1877,0.038157386513793176
+JobSatPoints_1,9.0,1725,0.035067390376288345
+JobSatPoints_1,10.0,1646,0.03346140554166412
+JobSatPoints_1,11.0,1508,0.030656014311561057
+JobSatPoints_1,12.0,1425,0.028968713789107765
+JobSatPoints_1,1.0,1404,0.028541806428005124
+JobSatPoints_1,13.0,1263,0.02567542843203025
+JobSatPoints_1,14.0,993,0.020186619503567725
+JobSatPoints_1,15.0,27,0.0005488808928462524
+JobSatPoints_2,,24248,0.4929356996198492
+JobSatPoints_2,1.0,3769,0.07661970685694537
+JobSatPoints_2,2.0,3617,0.07352971071944055
+JobSatPoints_2,3.0,3125,0.06352788111646439
+JobSatPoints_2,4.0,2572,0.05228598727409486
+JobSatPoints_2,5.0,2154,0.043788497895956575
+JobSatPoints_2,6.0,1867,0.03795409729422049
+JobSatPoints_2,7.0,1442,0.02931430546238133
+JobSatPoints_2,8.0,1246,0.025329836758756684
+JobSatPoints_2,9.0,1149,0.02335793132890163
+JobSatPoints_2,11.0,939,0.019088857717875222
+JobSatPoints_2,10.0,924,0.018783923888516192
+JobSatPoints_2,12.0,847,0.01721859689780651
+JobSatPoints_2,13.0,759,0.015429651765566871
+JobSatPoints_2,14.0,529,0.010753999715395092
+JobSatPoints_2,15.0,4,8.131568782907442e-05
+JobSatPoints_3,,24248,0.4929356996198492
+JobSatPoints_3,8.0,2084,0.042365473358947775
+JobSatPoints_3,6.0,2053,0.04173527677827245
+JobSatPoints_3,4.0,2052,0.04171494785631518
+JobSatPoints_3,9.0,2050,0.041674290012400646
+JobSatPoints_3,7.0,2014,0.040942448821938975
+JobSatPoints_3,5.0,1993,0.04051554146083633
+JobSatPoints_3,10.0,1980,0.04025126547539184
+JobSatPoints_3,11.0,1793,0.03644975706938261
+JobSatPoints_3,12.0,1734,0.035250350673903766
+JobSatPoints_3,3.0,1731,0.035189363908031956
+JobSatPoints_3,13.0,1561,0.031733447175296296
+JobSatPoints_3,2.0,1528,0.03106259275070643
+JobSatPoints_3,1.0,1218,0.024760626943953163
+JobSatPoints_3,14.0,1114,0.022646419060397226
+JobSatPoints_3,15.0,38,0.000772499034376207
+JobSatPoints_4,,24248,0.4929356996198492
+JobSatPoints_4,14.0,3838,0.0780224024719969
+JobSatPoints_4,13.0,3188,0.06480860319977232
+JobSatPoints_4,12.0,2648,0.05383098534284727
+JobSatPoints_4,11.0,2240,0.045536785184281676
+JobSatPoints_4,10.0,2087,0.04242646012481958
+JobSatPoints_4,9.0,1831,0.037222256103758816
+JobSatPoints_4,8.0,1657,0.03368502368319408
+JobSatPoints_4,7.0,1457,0.02961923929174036
+JobSatPoints_4,6.0,1262,0.02565509951007298
+JobSatPoints_4,5.0,1235,0.025106218617226728
+JobSatPoints_4,4.0,987,0.020064645971824113
+JobSatPoints_4,3.0,869,0.017665833180866418
+JobSatPoints_4,2.0,819,0.016649387083002988
+JobSatPoints_4,1.0,629,0.012786891911121954
+JobSatPoints_4,15.0,196,0.003984468703624647
+JobSatPoints_5,,24248,0.4929356996198492
+JobSatPoints_5,14.0,4098,0.08330792218088674
+JobSatPoints_5,13.0,2976,0.06049887174483137
+JobSatPoints_5,12.0,2668,0.05423756378199264
+JobSatPoints_5,11.0,2332,0.04740704600435039
+JobSatPoints_5,10.0,2132,0.04334126161289667
+JobSatPoints_5,9.0,1966,0.03996666056799008
+JobSatPoints_5,8.0,1786,0.03630745461568173
+JobSatPoints_5,7.0,1647,0.0334817344636214
+JobSatPoints_5,6.0,1452,0.029517594681954015
+JobSatPoints_5,5.0,1135,0.023073326421499868
+JobSatPoints_5,4.0,960,0.019515765078977863
+JobSatPoints_5,3.0,727,0.014779126262934277
+JobSatPoints_5,2.0,512,0.010408408042121526
+JobSatPoints_5,1.0,348,0.007074464841129475
+JobSatPoints_5,15.0,204,0.0041471000792827955
+JobSatPoints_6,,24248,0.4929356996198492
+JobSatPoints_6,11.0,2116,0.04301599886158037
+JobSatPoints_6,10.0,2108,0.04285336748592222
+JobSatPoints_6,12.0,2051,0.04169461893435791
+JobSatPoints_6,13.0,2009,0.04084080421215263
+JobSatPoints_6,14.0,1983,0.04031225224126365
+JobSatPoints_6,9.0,1957,0.039783700270374665
+JobSatPoints_6,8.0,1923,0.03909251692382753
+JobSatPoints_6,7.0,1920,0.03903153015795573
+JobSatPoints_6,6.0,1886,0.03834034681140859
+JobSatPoints_6,5.0,1732,0.035209692829989224
+JobSatPoints_6,4.0,1642,0.03338008985383505
+JobSatPoints_6,3.0,1471,0.02990384419914212
+JobSatPoints_6,2.0,1209,0.024577666646337745
+JobSatPoints_6,1.0,878,0.017848793478481836
+JobSatPoints_6,15.0,58,0.001179077473521579
+JobSatPoints_7,,24248,0.4929356996198492
+JobSatPoints_7,1.0,3620,0.07359069748531236
+JobSatPoints_7,2.0,2755,0.05600617999227501
+JobSatPoints_7,3.0,2508,0.05098493626882966
+JobSatPoints_7,4.0,2239,0.04551645626232441
+JobSatPoints_7,5.0,1985,0.04035291008517818
+JobSatPoints_7,6.0,1799,0.03657173060112622
+JobSatPoints_7,7.0,1654,0.03362403691732228
+JobSatPoints_7,8.0,1610,0.03272956435120246
+JobSatPoints_7,9.0,1395,0.028358846130389706
+JobSatPoints_7,10.0,1314,0.02671220345185095
+JobSatPoints_7,11.0,1149,0.02335793132890163
+JobSatPoints_7,12.0,1107,0.022504116606696347
+JobSatPoints_7,13.0,978,0.019881685674208695
+JobSatPoints_7,14.0,802,0.016303795409729423
+JobSatPoints_7,15.0,28,0.000569209814803521
+JobSatPoints_8,,24248,0.4929356996198492
+JobSatPoints_8,1.0,2123,0.04315830131528125
+JobSatPoints_8,2.0,2087,0.04242646012481958
+JobSatPoints_8,9.0,1856,0.03773047915269053
+JobSatPoints_8,11.0,1833,0.03726291394767336
+JobSatPoints_8,14.0,1787,0.036327783537639
+JobSatPoints_8,10.0,1771,0.036002520786322705
+JobSatPoints_8,8.0,1748,0.035534955581305525
+JobSatPoints_8,3.0,1743,0.03543331097151918
+JobSatPoints_8,12.0,1676,0.03407127320038218
+JobSatPoints_8,4.0,1670,0.03394929966863857
+JobSatPoints_8,5.0,1661,0.033766339371023156
+JobSatPoints_8,6.0,1649,0.03352239230753593
+JobSatPoints_8,13.0,1643,0.03340041877579232
+JobSatPoints_8,7.0,1640,0.03333943200992051
+JobSatPoints_8,15.0,56,0.001138419629607042
+JobSatPoints_9,,24248,0.4929356996198492
+JobSatPoints_9,2.0,2317,0.04710211217499136
+JobSatPoints_9,3.0,2185,0.0444186944766319
+JobSatPoints_9,4.0,2162,0.04395112927161473
+JobSatPoints_9,1.0,2070,0.042080868451546016
+JobSatPoints_9,5.0,2054,0.041755605700229716
+JobSatPoints_9,7.0,1871,0.038035412982049564
+JobSatPoints_9,6.0,1800,0.03659205952308349
+JobSatPoints_9,10.0,1724,0.03504706145433108
+JobSatPoints_9,8.0,1712,0.03480311439084385
+JobSatPoints_9,9.0,1667,0.03388831290276677
+JobSatPoints_9,11.0,1641,0.033359760931877785
+JobSatPoints_9,12.0,1488,0.030249435872415686
+JobSatPoints_9,13.0,1244,0.025289178914842145
+JobSatPoints_9,14.0,980,0.019922343518123234
+JobSatPoints_9,15.0,28,0.000569209814803521
+JobSatPoints_10,,24248,0.4929356996198492
+JobSatPoints_10,5.0,2007,0.040800146368238095
+JobSatPoints_10,7.0,1999,0.04063751499257994
+JobSatPoints_10,6.0,1996,0.04057652822670814
+JobSatPoints_10,11.0,1969,0.04002764733386188
+JobSatPoints_10,4.0,1901,0.03864528064076762
+JobSatPoints_10,3.0,1890,0.03842166249923767
+JobSatPoints_10,8.0,1831,0.037222256103758816
+JobSatPoints_10,9.0,1815,0.03689699335244252
+JobSatPoints_10,12.0,1791,0.036409099225468075
+JobSatPoints_10,10.0,1786,0.03630745461568173
+JobSatPoints_10,2.0,1649,0.03352239230753593
+JobSatPoints_10,13.0,1578,0.03207903884856986
+JobSatPoints_10,14.0,1429,0.02905002947693684
+JobSatPoints_10,1.0,1231,0.025024902929397654
+JobSatPoints_10,15.0,71,0.001443353458966071
+JobSatPoints_11,,24248,0.4929356996198492
+JobSatPoints_11,1.0,4804,0.09766014108271838
+JobSatPoints_11,2.0,2970,0.06037689821308776
+JobSatPoints_11,3.0,2276,0.04626862637474335
+JobSatPoints_11,4.0,1940,0.0394381085971011
+JobSatPoints_11,5.0,1732,0.035209692829989224
+JobSatPoints_11,6.0,1577,0.03205870992661259
+JobSatPoints_11,7.0,1498,0.03045272509198837
+JobSatPoints_11,8.0,1382,0.028094570144945215
+JobSatPoints_11,9.0,1237,0.025146876461141266
+JobSatPoints_11,12.0,1188,0.024150759285235104
+JobSatPoints_11,10.0,1165,0.023683194080217927
+JobSatPoints_11,11.0,1075,0.021853591104063753
+JobSatPoints_11,13.0,1033,0.02099977638185847
+JobSatPoints_11,14.0,1022,0.020776158240328517
+JobSatPoints_11,15.0,44,0.0008944725661198187
+JobSatPoints_13,,24248,0.4929356996198492
+JobSatPoints_13,13.0,2563,0.052103026976479436
+JobSatPoints_13,9.0,2317,0.04710211217499136
+JobSatPoints_13,10.0,2302,0.04679717834563233
+JobSatPoints_13,12.0,2295,0.04665487589193145
+JobSatPoints_13,11.0,2236,0.04545546949645261
+JobSatPoints_13,8.0,2171,0.044134089569230144
+JobSatPoints_13,7.0,2059,0.04185725031001606
+JobSatPoints_13,6.0,1857,0.0377508080746478
+JobSatPoints_13,5.0,1611,0.032749893273159726
+JobSatPoints_13,14.0,1525,0.031001605984834625
+JobSatPoints_13,4.0,1418,0.028826411335406883
+JobSatPoints_13,3.0,1171,0.02380516761196154
+JobSatPoints_13,2.0,874,0.017767477790652762
+JobSatPoints_13,1.0,511,0.010388079120164258
+JobSatPoints_13,15.0,33,0.000670854424589864
+JobSatPoints_14,,24248,0.4929356996198492
+JobSatPoints_14,11.0,2342,0.04761033522392308
+JobSatPoints_14,13.0,2276,0.04626862637474335
+JobSatPoints_14,10.0,2248,0.04569941655993982
+JobSatPoints_14,14.0,2215,0.04502856213534996
+JobSatPoints_14,9.0,2204,0.044804943993820005
+JobSatPoints_14,12.0,2185,0.0444186944766319
+JobSatPoints_14,8.0,2130,0.04330060376898213
+JobSatPoints_14,7.0,1970,0.04004797625581916
+JobSatPoints_14,6.0,1738,0.035331666361732836
+JobSatPoints_14,5.0,1606,0.03264824866337338
+JobSatPoints_14,4.0,1346,0.027362728954483544
+JobSatPoints_14,3.0,1150,0.023378260250858898
+JobSatPoints_14,2.0,916,0.018621292512858042
+JobSatPoints_14,1.0,544,0.011058933544754122
+JobSatPoints_14,15.0,73,0.0014840113028806083
+JobSatPoints_15,,24248,0.4929356996198492
+JobSatPoints_15,15.0,23980,0.4874875485353012
+JobSatPoints_15,1.0,297,0.006037689821308776
+JobSatPoints_15,14.0,200,0.004065784391453721
+JobSatPoints_15,2.0,91,0.001849931898111443
+JobSatPoints_15,13.0,87,0.0017686162102823688
+JobSatPoints_15,12.0,53,0.001077432863735236
+JobSatPoints_15,3.0,43,0.0008741436441625501
+JobSatPoints_15,11.0,38,0.000772499034376207
+JobSatPoints_15,4.0,30,0.0006098676587180582
+JobSatPoints_15,9.0,28,0.000569209814803521
+JobSatPoints_15,5.0,25,0.0005082230489317152
+JobSatPoints_15,10.0,20,0.00040657843914537213
+JobSatPoints_15,8.0,19,0.0003862495171881035
+JobSatPoints_15,7.0,16,0.0003252627513162977
+JobSatPoints_15,6.0,16,0.0003252627513162977
+JobSatPoints_16,,24248,0.4929356996198492
+JobSatPoints_16,14.0,2428,0.04935862251224817
+JobSatPoints_16,3.0,1814,0.03687666443048525
+JobSatPoints_16,7.0,1799,0.03657173060112622
+JobSatPoints_16,12.0,1787,0.036327783537639
+JobSatPoints_16,13.0,1785,0.03628712569372446
+JobSatPoints_16,6.0,1778,0.036144823240023584
+JobSatPoints_16,8.0,1767,0.03592120509849363
+JobSatPoints_16,9.0,1746,0.03549429773739099
+JobSatPoints_16,5.0,1739,0.0353519952836901
+JobSatPoints_16,10.0,1736,0.0352910085178183
+JobSatPoints_16,11.0,1732,0.035209692829989224
+JobSatPoints_16,4.0,1707,0.03470146978105751
+JobSatPoints_16,2.0,1525,0.031001605984834625
+JobSatPoints_16,1.0,1497,0.030432396170031104
+JobSatPoints_16,15.0,103,0.0020938789615986666
+JobSatPoints_15_TEXT,,48527,0.9865015958203737
+JobSatPoints_15_TEXT,Remote work,20,0.00040657843914537213
+JobSatPoints_15_TEXT,Remote,12,0.00024394706348722326
+JobSatPoints_15_TEXT,Remote working,9,0.00018296029761541744
+JobSatPoints_15_TEXT,work life balance,9,0.00018296029761541744
+JobSatPoints_15_TEXT,remote work,9,0.00018296029761541744
+JobSatPoints_15_TEXT,Work-life balance,8,0.00016263137565814884
+JobSatPoints_15_TEXT,Work life balance,6,0.00012197353174361163
+JobSatPoints_15_TEXT,Work from home,5,0.00010164460978634303
+JobSatPoints_15_TEXT,Work Life Balance,4,8.131568782907442e-05
+JobSatPoints_15_TEXT,WFH,3,6.0986765871805816e-05
+JobSatPoints_15_TEXT,Work/life balance,3,6.0986765871805816e-05
+JobSatPoints_15_TEXT,remote,3,6.0986765871805816e-05
+JobSatPoints_15_TEXT,Working remotely,2,4.065784391453721e-05
+JobSatPoints_15_TEXT,fun,2,4.065784391453721e-05
+JobSatPoints_15_TEXT,Ability to work remotely,2,4.065784391453721e-05
+JobSatPoints_15_TEXT,Company culture,2,4.065784391453721e-05
+JobSatPoints_15_TEXT,Free time,2,4.065784391453721e-05
+JobSatPoints_15_TEXT,Working hours flexibility,2,4.065784391453721e-05
+JobSatPoints_15_TEXT,Making the world a better place,2,4.065784391453721e-05
+JobSatPoints_15_TEXT,none,2,4.065784391453721e-05
+JobSatPoints_15_TEXT,Fully Remote,2,4.065784391453721e-05
+JobSatPoints_15_TEXT,Working from home,2,4.065784391453721e-05
+JobSatPoints_15_TEXT,Independence,2,4.065784391453721e-05
+JobSatPoints_15_TEXT,Unemployed,2,4.065784391453721e-05
+JobSatPoints_15_TEXT,Money,2,4.065784391453721e-05
+JobSatPoints_15_TEXT,Open Source,2,4.065784391453721e-05
+JobSatPoints_15_TEXT,Not applicable,1,2.0328921957268605e-05
+JobSatPoints_15_TEXT,All are there in my case are and are at equal level,1,2.0328921957268605e-05
+JobSatPoints_15_TEXT,Working on 'big picture' work (e.g. combatting climate change),1,2.0328921957268605e-05
+AIFrustration,,17669,0.359191722062979
+AIFrustration,"AI solutions that are almost right, but not quite",6188,0.12579536907157812
+AIFrustration,"AI solutions that are almost right, but not quite;Debugging AI-generated code is more time-consuming",4680,0.09513935476001707
+AIFrustration,I don’t use AI tools regularly,3696,0.07513569555406477
+AIFrustration,Debugging AI-generated code is more time-consuming,1430,0.029070358398894106
+AIFrustration,"AI solutions that are almost right, but not quite;I’ve become less confident in my own problem-solving",1354,0.027525360330141694
+AIFrustration,"AI solutions that are almost right, but not quite;Debugging AI-generated code is more time-consuming;I’ve become less confident in my own problem-solving",1339,0.027220426500782664
+AIFrustration,"AI solutions that are almost right, but not quite;Debugging AI-generated code is more time-consuming;It’s hard to understand how or why the code works",1164,0.023662865158260656
+AIFrustration,"AI solutions that are almost right, but not quite;Debugging AI-generated code is more time-consuming;I’ve become less confident in my own problem-solving;It’s hard to understand how or why the code works",799,0.016242808643857617
+AIFrustration,"AI solutions that are almost right, but not quite;I don’t use AI tools regularly",784,0.015937874814498588
+AIFrustration,"AI solutions that are almost right, but not quite;Other (write in):",772,0.015693927751011364
+AIFrustration,Other (write in):,720,0.014636823809233396
+AIFrustration,I haven’t encountered any problems,711,0.01445386351161798
+AIFrustration,"AI solutions that are almost right, but not quite;Debugging AI-generated code is more time-consuming;I don’t use AI tools regularly",709,0.014413205667703441
+AIFrustration,"AI solutions that are almost right, but not quite;Debugging AI-generated code is more time-consuming;Other (write in):",671,0.013640706633327235
+AIFrustration,I’ve become less confident in my own problem-solving,540,0.010977617856925047
+AIFrustration,"AI solutions that are almost right, but not quite;It’s hard to understand how or why the code works",516,0.010489723729950601
+AIFrustration,Debugging AI-generated code is more time-consuming;I don’t use AI tools regularly,507,0.010306763432335183
+AIFrustration,Debugging AI-generated code is more time-consuming;I’ve become less confident in my own problem-solving,467,0.009493606554044439
+AIFrustration,Debugging AI-generated code is more time-consuming;It’s hard to understand how or why the code works,408,0.008294200158565591
+AIFrustration,"AI solutions that are almost right, but not quite;I’ve become less confident in my own problem-solving;It’s hard to understand how or why the code works",314,0.006383281494582342
+AIFrustration,Debugging AI-generated code is more time-consuming;Other (write in):,310,0.006301965806753268
+AIFrustration,Debugging AI-generated code is more time-consuming;I’ve become less confident in my own problem-solving;It’s hard to understand how or why the code works,302,0.0061393344310951194
+AIFrustration,It’s hard to understand how or why the code works,281,0.005712427069992478
+AIFrustration,"AI solutions that are almost right, but not quite;I haven’t encountered any problems",182,0.003699863796222886
+AIFrustration,"AI solutions that are almost right, but not quite;Debugging AI-generated code is more time-consuming;I don’t use AI tools regularly;It’s hard to understand how or why the code works",181,0.0036795348742656177
+AIFrustration,I don’t use AI tools regularly;Other (write in):,172,0.0034965745766502004
+AIFrustration,I’ve become less confident in my own problem-solving;It’s hard to understand how or why the code works,168,0.0034152588888211256
+AIFrustration,Debugging AI-generated code is more time-consuming;I don’t use AI tools regularly;It’s hard to understand how or why the code works,163,0.0033136142790347826
+AIFrustration,"AI solutions that are almost right, but not quite;Debugging AI-generated code is more time-consuming;Other (write in):;It’s hard to understand how or why the code works",135,0.0027444044642312617
+JobSat,,22521,0.45782765139964626
+JobSat,8.0,6972,0.14173324388607672
+JobSat,7.0,5590,0.11363867374113151
+JobSat,9.0,3598,0.07314346120225244
+JobSat,6.0,3230,0.06566241792197759
+JobSat,10.0,2924,0.0594417678030534
+JobSat,5.0,1896,0.03854363603098128
+JobSat,3.0,811,0.01648675570734484
+JobSat,4.0,803,0.01632412433168669
+JobSat,2.0,439,0.008924396739240918
+JobSat,0.0,242,0.0049195991136590025
+JobSat,1.0,165,0.00335427212294932

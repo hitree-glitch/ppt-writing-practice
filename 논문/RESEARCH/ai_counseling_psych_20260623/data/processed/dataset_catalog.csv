@@ -1,0 +1,7 @@
+﻿id,title,organization,type,quality_rating,url
+src_hints_hints7_2024,HINTS7_2024 STATA data and supporting documents,"National Cancer Institute, Health Information National Trends Survey",official public-use microdata,A,https://hints.cancer.gov/dataset/HINTS7_STATA_20250731.zip
+src_hints_hints6_2022,HINTS6_2022 STATA data and supporting documents,"National Cancer Institute, Health Information National Trends Survey",official public-use microdata,A,https://hints.cancer.gov/dataset/HINTS6_STATA_20250731.zip
+src_stackoverflow_2025_results,Stack Overflow Developer Survey 2025 public results CSV,Stack Exchange,official public-use microdata,B,https://media.githubusercontent.com/media/StackExchange/Survey/main/packages/archive/2025/results.csv
+src_stackoverflow_2025_schema,Stack Overflow Developer Survey 2025 public schema CSV,Stack Exchange,official metadata,B,https://media.githubusercontent.com/media/StackExchange/Survey/main/packages/archive/2025/schema.csv
+src_worldbank_api,World Bank Indicators API,World Bank,official API,A,https://api.worldbank.org/v2/
+src_who_gho_indicator_api,WHO Global Health Observatory Indicator API,World Health Organization,official API metadata,A,https://ghoapi.azureedge.net/api/Indicator
