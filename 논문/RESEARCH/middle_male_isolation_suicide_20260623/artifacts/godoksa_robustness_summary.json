@@ -1,0 +1,164 @@
+{
+  "n_regions": 17,
+  "total_pop_missing_regions": [],
+  "top_total_pop_rate": [
+    {
+      "region": "부산",
+      "godoksa_per_100k_total_pop_2024": 11.237458979713605
+    },
+    {
+      "region": "대구",
+      "godoksa_per_100k_total_pop_2024": 9.699225037257824
+    },
+    {
+      "region": "강원",
+      "godoksa_per_100k_total_pop_2024": 8.765468674113647
+    },
+    {
+      "region": "인천",
+      "godoksa_per_100k_total_pop_2024": 8.68507993838636
+    },
+    {
+      "region": "광주",
+      "godoksa_per_100k_total_pop_2024": 8.44436295971979
+    },
+    {
+      "region": "서울",
+      "godoksa_per_100k_total_pop_2024": 8.441475580844003
+    },
+    {
+      "region": "충북",
+      "godoksa_per_100k_total_pop_2024": 8.062035732819334
+    },
+    {
+      "region": "충남",
+      "godoksa_per_100k_total_pop_2024": 8.041390675668492
+    }
+  ],
+  "top_male_exposure_proxy": [
+    {
+      "region": "부산",
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 57.55354533306282
+    },
+    {
+      "region": "대구",
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 48.402544970970126
+    },
+    {
+      "region": "서울",
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 45.0763313969572
+    },
+    {
+      "region": "강원",
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 42.841105624704106
+    },
+    {
+      "region": "광주",
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 42.48854993480341
+    },
+    {
+      "region": "인천",
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 41.70813687927666
+    },
+    {
+      "region": "충북",
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 38.97554948794976
+    },
+    {
+      "region": "충남",
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 38.2122136840952
+    }
+  ],
+  "top_pct_growth": [
+    {
+      "region": "대구",
+      "godoksa_pct_change_2020_2024": 83.2
+    },
+    {
+      "region": "제주",
+      "godoksa_pct_change_2020_2024": 77.77777777777779
+    },
+    {
+      "region": "서울",
+      "godoksa_pct_change_2020_2024": 37.3029772329247
+    },
+    {
+      "region": "강원",
+      "godoksa_pct_change_2020_2024": 35.714285714285715
+    },
+    {
+      "region": "경기",
+      "godoksa_pct_change_2020_2024": 31.858407079646017
+    },
+    {
+      "region": "충북",
+      "godoksa_pct_change_2020_2024": 30.612244897959183
+    },
+    {
+      "region": "경북",
+      "godoksa_pct_change_2020_2024": 20.0
+    },
+    {
+      "region": "부산",
+      "godoksa_pct_change_2020_2024": 16.507936507936506
+    }
+  ],
+  "top_excess_pct": [
+    {
+      "region": "대구",
+      "godoksa_excess_pct_vs_expected_2024": 53.0868501529052
+    },
+    {
+      "region": "제주",
+      "godoksa_excess_pct_vs_expected_2024": 48.55589534488617
+    },
+    {
+      "region": "서울",
+      "godoksa_excess_pct_vs_expected_2024": 14.734062779500528
+    },
+    {
+      "region": "강원",
+      "godoksa_excess_pct_vs_expected_2024": 13.406509392747932
+    },
+    {
+      "region": "경기",
+      "godoksa_excess_pct_vs_expected_2024": 10.184433438878521
+    },
+    {
+      "region": "충북",
+      "godoksa_excess_pct_vs_expected_2024": 9.14310678399801
+    },
+    {
+      "region": "경북",
+      "godoksa_excess_pct_vs_expected_2024": 0.27522935779817587
+    },
+    {
+      "region": "부산",
+      "godoksa_excess_pct_vs_expected_2024": -2.6428328721906604
+    }
+  ],
+  "corr_total_rate_with_suicide_rate": [
+    0.2063971521706729,
+    0.42673504442529975
+  ],
+  "corr_male_proxy_with_suicide_rate": [
+    0.11549379080707264,
+    0.6589206885335003
+  ],
+  "corr_total_rate_with_welfare": [
+    0.6544622797156255,
+    0.004363925073418587
+  ],
+  "corr_male_proxy_with_welfare": [
+    0.6761131155104545,
+    0.0028854938187395244
+  ],
+  "corr_growth_pct_with_suicide_rate_change": [
+    0.2825049057831768,
+    0.271921852306932
+  ],
+  "corr_excess_pct_with_suicide_rate_change": [
+    0.28250490578317683,
+    0.271921852306932
+  ]
+}

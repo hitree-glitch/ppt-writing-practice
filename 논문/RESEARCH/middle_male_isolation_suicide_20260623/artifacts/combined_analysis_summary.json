@@ -1,0 +1,269 @@
+{
+  "merged_nonmissing_suicide": 17,
+  "annual_nonmissing": 85,
+  "national_2024_deaths_sum_regions": 5473.0,
+  "national_2024_rate_weighted": 52.762392780788204,
+  "corr": [
+    {
+      "left": "godoksa_count_2024",
+      "right": "male_40_64_suicide_deaths",
+      "n": 17,
+      "pearson_r": 0.9237934005760426,
+      "p": 1.2103857405243446e-07
+    },
+    {
+      "left": "godoksa_per_100k_male_40_64_pop_proxy_2024",
+      "right": "male_40_64_suicide_rate",
+      "n": 17,
+      "pearson_r": 0.11549379080707264,
+      "p": 0.6589206885334904
+    },
+    {
+      "left": "godoksa_change_2020_2024",
+      "right": "male_40_64_suicide_deaths_change_2020_2024",
+      "n": 17,
+      "pearson_r": 0.6868829157247127,
+      "p": 0.002319709989034191
+    },
+    {
+      "left": "excess_2024_vs_expected",
+      "right": "male_40_64_suicide_rate_change_2020_2024",
+      "n": 17,
+      "pearson_r": 0.15570889242231137,
+      "p": 0.5506666305722678
+    },
+    {
+      "left": "basic_livelihood_male_40_64_rate_per_1000_2024",
+      "right": "male_40_64_suicide_rate",
+      "n": 17,
+      "pearson_r": 0.2169684623006052,
+      "p": 0.40288699223966074
+    },
+    {
+      "left": "business_closure_male_40_64_approx_rate_per_1000_2024",
+      "right": "male_40_64_suicide_rate",
+      "n": 17,
+      "pearson_r": 0.19893576118899972,
+      "p": 0.4440001554254651
+    },
+    {
+      "left": "male_40_64_single_household_rate_pct_2024",
+      "right": "male_40_64_suicide_rate",
+      "n": 17,
+      "pearson_r": 0.7017502664693382,
+      "p": 0.0016907185269512404
+    },
+    {
+      "left": "depression_std_rate_2025",
+      "right": "male_40_64_suicide_rate",
+      "n": 17,
+      "pearson_r": -0.24867094767655143,
+      "p": 0.3358315166722112
+    },
+    {
+      "left": "male_40_64_suicide_rate",
+      "right": "male_40_64_single_household_rate_pct_2024",
+      "n": 17,
+      "pearson_r": 0.7017502664693381,
+      "p": 0.0016907185269514624
+    }
+  ],
+  "top_dual": [
+    {
+      "region": "제주",
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 33.95793139868522,
+      "male_40_64_suicide_rate": 72.8643794478416,
+      "dual_mortality_burden_index": 0.9245282901791787,
+      "basic_livelihood_male_40_64_rate_per_1000_2024": 42.77991899330198,
+      "business_closure_male_40_64_approx_rate_per_1000_2024": 34.707835717072854
+    },
+    {
+      "region": "부산",
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 57.55354533306282,
+      "male_40_64_suicide_rate": 50.00187198404717,
+      "dual_mortality_burden_index": 0.7478335528897404,
+      "basic_livelihood_male_40_64_rate_per_1000_2024": 61.91789183611225,
+      "business_closure_male_40_64_approx_rate_per_1000_2024": 26.070815105981005
+    },
+    {
+      "region": "충남",
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 38.2122136840952,
+      "male_40_64_suicide_rate": 64.81027340049415,
+      "dual_mortality_burden_index": 0.657622438298548,
+      "basic_livelihood_male_40_64_rate_per_1000_2024": 31.736249049211697,
+      "business_closure_male_40_64_approx_rate_per_1000_2024": 26.78206906455444
+    },
+    {
+      "region": "강원",
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 42.841105624704106,
+      "male_40_64_suicide_rate": 59.60477708831651,
+      "dual_mortality_burden_index": 0.5798936728452897,
+      "basic_livelihood_male_40_64_rate_per_1000_2024": 42.274185730723055,
+      "business_closure_male_40_64_approx_rate_per_1000_2024": 26.74992192935002
+    },
+    {
+      "region": "인천",
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 41.70813687927666,
+      "male_40_64_suicide_rate": 58.7200010803582,
+      "dual_mortality_burden_index": 0.4698650569544037,
+      "basic_livelihood_male_40_64_rate_per_1000_2024": 46.06984550138255,
+      "business_closure_male_40_64_approx_rate_per_1000_2024": 28.99357176754024
+    },
+    {
+      "region": "대구",
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 48.402544970970126,
+      "male_40_64_suicide_rate": 53.03220448270113,
+      "dual_mortality_burden_index": 0.4674742284218556,
+      "basic_livelihood_male_40_64_rate_per_1000_2024": 57.82307523016724,
+      "business_closure_male_40_64_approx_rate_per_1000_2024": 24.93682207718365
+    },
+    {
+      "region": "광주",
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 42.48854993480341,
+      "male_40_64_suicide_rate": 57.8428193127665,
+      "dual_mortality_burden_index": 0.456786864476186,
+      "basic_livelihood_male_40_64_rate_per_1000_2024": 59.99454660121862,
+      "business_closure_male_40_64_approx_rate_per_1000_2024": 27.547933363191238
+    },
+    {
+      "region": "충북",
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 38.97554948794976,
+      "male_40_64_suicide_rate": 56.33535877033236,
+      "dual_mortality_burden_index": 0.18950458683088806,
+      "basic_livelihood_male_40_64_rate_per_1000_2024": 36.98414250629983,
+      "business_closure_male_40_64_approx_rate_per_1000_2024": 26.724133600077423
+    }
+  ],
+  "top_acute": [
+    {
+      "region": "경기",
+      "excess_2024_vs_expected": 82.63311985361395,
+      "male_40_64_suicide_rate_change_2020_2024": 13.536058832281853,
+      "acute_growth_overlap_index": 1.3070462554811795,
+      "godoksa_change_2020_2024": 216,
+      "male_40_64_suicide_deaths_change_2020_2024": 432.0
+    },
+    {
+      "region": "대구",
+      "excess_2024_vs_expected": 79.41171088746569,
+      "male_40_64_suicide_rate_change_2020_2024": 11.356455162248153,
+      "acute_growth_overlap_index": 1.0372488570060538,
+      "godoksa_change_2020_2024": 104,
+      "male_40_64_suicide_deaths_change_2020_2024": 49.0
+    },
+    {
+      "region": "제주",
+      "excess_2024_vs_expected": 15.688929551692588,
+      "male_40_64_suicide_rate_change_2020_2024": 16.365262903609953,
+      "acute_growth_overlap_index": 0.9058298725330102,
+      "godoksa_change_2020_2024": 21,
+      "male_40_64_suicide_deaths_change_2020_2024": 25.0
+    },
+    {
+      "region": "서울",
+      "excess_2024_vs_expected": 100.68069533394328,
+      "male_40_64_suicide_rate_change_2020_2024": 6.0924649995109235,
+      "acute_growth_overlap_index": 0.6925526637664707,
+      "godoksa_change_2020_2024": 213,
+      "male_40_64_suicide_deaths_change_2020_2024": 82.0
+    },
+    {
+      "region": "광주",
+      "excess_2024_vs_expected": -22.21134492223237,
+      "male_40_64_suicide_rate_change_2020_2024": 18.07234713309066,
+      "acute_growth_overlap_index": 0.6900765155427331,
+      "godoksa_change_2020_2024": 1,
+      "male_40_64_suicide_deaths_change_2020_2024": 51.0
+    },
+    {
+      "region": "충북",
+      "excess_2024_vs_expected": 10.722781335773108,
+      "male_40_64_suicide_rate_change_2020_2024": 13.692666087671732,
+      "acute_growth_overlap_index": 0.5642735403092211,
+      "godoksa_change_2020_2024": 30,
+      "male_40_64_suicide_deaths_change_2020_2024": 45.0
+    },
+    {
+      "region": "경북",
+      "excess_2024_vs_expected": 0.4446477584629633,
+      "male_40_64_suicide_rate_change_2020_2024": 12.30315700007548,
+      "acute_growth_overlap_index": 0.30538703497172714,
+      "godoksa_change_2020_2024": 27,
+      "male_40_64_suicide_deaths_change_2020_2024": 57.0
+    },
+    {
+      "region": "울산",
+      "excess_2024_vs_expected": -2.605672461116185,
+      "male_40_64_suicide_rate_change_2020_2024": 8.662377835255533,
+      "acute_growth_overlap_index": -0.12065578684701408,
+      "godoksa_change_2020_2024": 9,
+      "male_40_64_suicide_deaths_change_2020_2024": 19.0
+    }
+  ],
+  "top_suicide": [
+    {
+      "region": "제주",
+      "male_40_64_suicide_deaths": 103.0,
+      "male_40_64_suicide_rate": 72.8643794478416,
+      "male_40_64_suicide_rate_change_2020_2024": 16.365262903609953,
+      "godoksa_count_2024": 48,
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 33.95793139868522
+    },
+    {
+      "region": "충남",
+      "male_40_64_suicide_deaths": 290.0,
+      "male_40_64_suicide_rate": 64.81027340049415,
+      "male_40_64_suicide_rate_change_2020_2024": 3.813542691340963,
+      "godoksa_count_2024": 171,
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 38.2122136840952
+    },
+    {
+      "region": "경북",
+      "male_40_64_suicide_deaths": 325.0,
+      "male_40_64_suicide_rate": 60.98436226001049,
+      "male_40_64_suicide_rate_change_2020_2024": 12.30315700007548,
+      "godoksa_count_2024": 162,
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 30.40433569099622
+    },
+    {
+      "region": "강원",
+      "male_40_64_suicide_deaths": 185.0,
+      "male_40_64_suicide_rate": 59.60477708831651,
+      "male_40_64_suicide_rate_change_2020_2024": 6.236147831483265,
+      "godoksa_count_2024": 133,
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 42.841105624704106
+    },
+    {
+      "region": "전남",
+      "male_40_64_suicide_deaths": 224.0,
+      "male_40_64_suicide_rate": 59.38422259549998,
+      "male_40_64_suicide_rate_change_2020_2024": 10.113734253539043,
+      "godoksa_count_2024": 112,
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 29.689554403102157
+    },
+    {
+      "region": "전북",
+      "male_40_64_suicide_deaths": 209.0,
+      "male_40_64_suicide_rate": 58.84683083788117,
+      "male_40_64_suicide_rate_change_2020_2024": 10.486858905337392,
+      "godoksa_count_2024": 96,
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 27.032641675147524
+    },
+    {
+      "region": "인천",
+      "male_40_64_suicide_deaths": 366.0,
+      "male_40_64_suicide_rate": 58.7200010803582,
+      "male_40_64_suicide_rate_change_2020_2024": 11.840093470455372,
+      "godoksa_count_2024": 260,
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 41.70813687927666
+    },
+    {
+      "region": "광주",
+      "male_40_64_suicide_deaths": 162.0,
+      "male_40_64_suicide_rate": 57.8428193127665,
+      "male_40_64_suicide_rate_change_2020_2024": 18.07234713309066,
+      "godoksa_count_2024": 119,
+      "godoksa_per_100k_male_40_64_pop_proxy_2024": 42.48854993480341
+    }
+  ]
+}
