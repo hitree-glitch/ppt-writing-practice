@@ -4,36 +4,36 @@
 
 | category | year | title | posted_date | detail_url |
 | --- | --- | --- | --- | --- |
-| digital_divide | 2025.0 | 2025 디지털정보격차 실태조사 보고서 | 2026.03.27 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=29168&parentSeq=29168 |
-| digital_divide | 2024.0 | 2024 디지털정보격차 실태조사 보고서 | 2025.03.27 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=27832&parentSeq=27832 |
-| digital_divide | 2023.0 | 2023년 디지털정보격차 실태조사 보고서 | 2024.03.29 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=26517&parentSeq=26517 |
-| digital_divide | 2022.0 | 2022 디지털정보격차 실태조사 | 2023.03.23 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=25353&parentSeq=25353 |
-| digital_divide | 2021.0 | 2021 디지털정보격차 실태조사 | 2022.03.24 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=24287&parentSeq=24287 |
-| digital_divide | 2020.0 | 2020 디지털정보격차 실태조사 | 2021.03.10 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=23112&parentSeq=23112 |
-| digital_divide | 2019.0 | 2019 디지털정보격차 실태조사 | 2020.03.05 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=21837&parentSeq=21837 |
-| digital_divide | 2018.0 | 2018 디지털정보격차 실태조사 | 2019.02.27 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=20566&parentSeq=20566 |
-| digital_divide | 2017.0 | 2017 디지털정보격차 실태조사 | 2018.03.09 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=19480&parentSeq=19480 |
+| digital_divide | 2025 | 2025 디지털정보격차 실태조사 보고서 | 2026.03.27 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=29168&parentSeq=29168 |
+| digital_divide | 2024 | 2024 디지털정보격차 실태조사 보고서 | 2025.03.27 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=27832&parentSeq=27832 |
+| digital_divide | 2023 | 2023년 디지털정보격차 실태조사 보고서 | 2024.03.29 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=26517&parentSeq=26517 |
+| digital_divide | 2022 | 2022 디지털정보격차 실태조사 | 2023.03.23 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=25353&parentSeq=25353 |
+| digital_divide | 2021 | 2021 디지털정보격차 실태조사 | 2022.03.24 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=24287&parentSeq=24287 |
+| digital_divide | 2020 | 2020 디지털정보격차 실태조사 | 2021.03.10 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=23112&parentSeq=23112 |
+| digital_divide | 2019 | 2019 디지털정보격차 실태조사 | 2020.03.05 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=21837&parentSeq=21837 |
+| digital_divide | 2018 | 2018 디지털정보격차 실태조사 | 2019.02.27 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=20566&parentSeq=20566 |
+| digital_divide | 2017 | 2017 디지털정보격차 실태조사 | 2018.03.09 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=19480&parentSeq=19480 |
 | digital_divide |  | '16년 디지털정보격차 실태조사 | 2017.03.28 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=81623&bcIdx=18397&parentSeq=18397 |
-| smartphone_overdependence | 2025.0 | 2025년 스마트폰 과의존 실태조사 보고서 | 2026.03.27 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=29171&parentSeq=29171 |
-| smartphone_overdependence | 2024.0 | 2024년 스마트폰 과의존 실태조사 보고서 | 2025.03.27 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=27831&parentSeq=27831 |
-| smartphone_overdependence | 2023.0 | 2023년 스마트폰 과의존 실태조사 보고서 | 2024.03.28 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=26508&parentSeq=26508 |
-| smartphone_overdependence | 2022.0 | 2022년 스마트폰 과의존 실태조사 보고서 | 2023.03.23 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=25356&parentSeq=25356 |
-| smartphone_overdependence | 2021.0 | 2021년 스마트폰 과의존 실태조사 보고서 | 2022.03.24 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=24288&parentSeq=24288 |
-| smartphone_overdependence | 2020.0 | 2020년 스마트폰 과의존 실태조사 보고서 | 2021.03.10 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=23109&parentSeq=23109 |
-| smartphone_overdependence | 2019.0 | 2019년 스마트폰 과의존 실태조사 보고서 | 2020.03.30 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=21939&parentSeq=21939 |
-| smartphone_overdependence | 2018.0 | 2018년 스마트폰 과의존 실태조사 보고서 | 2019.03.28 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=20876&parentSeq=20876 |
-| smartphone_overdependence | 2017.0 | 2017년 스마트폰 과의존 실태조사 | 2018.04.02 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=19592&parentSeq=19592 |
-| smartphone_overdependence | 2016.0 | 2016년 인터넷 과의존 실태조사 | 2017.03.27 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=18390&parentSeq=18390 |
-| cyber_violence | 2025.0 | 2025년 사이버폭력 실태조사 | 2026.03.30 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=68302&bcIdx=29190&parentSeq=29190 |
-| cyber_violence | 2024.0 | 2024년 사이버폭력 실태조사 | 2025.03.28 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=68302&bcIdx=27840&parentSeq=27840 |
-| cyber_violence | 2023.0 | 2023년 사이버폭력 실태조사 | 2024.03.26 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=68302&bcIdx=26483&parentSeq=26483 |
-| cyber_violence | 2022.0 | 2022년 사이버폭력 실태조사 보고서 | 2023.03.23 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=68302&bcIdx=25350&parentSeq=25350 |
-| cyber_violence | 2021.0 | 2021년 사이버폭력 실태조사 보고서 | 2022.04.07 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=68302&bcIdx=24353&parentSeq=24353 |
-| cyber_violence | 2020.0 | 2020년 사이버폭력 실태조사 보고서 | 2021.03.24 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=68302&bcIdx=23180&parentSeq=23180 |
-| cyber_violence | 2019.0 | 2019 사이버폭력 실태조사 보고서 | 2020.03.09 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=68302&bcIdx=21848&parentSeq=21848 |
-| cyber_violence | 2015.0 | 2015년 사이버폭력 실태조사 결과보고서 | 2016.05.04 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=68302&bcIdx=16858&parentSeq=16858 |
-| cyber_violence | 2014.0 | 2014년 정보문화실태조사 | 2015.10.02 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=68302&bcIdx=15869&parentSeq=15869 |
-| cyber_violence | 2013.0 | 2013년 정보문화실태조사 | 2014.08.12 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=68302&bcIdx=13679&parentSeq=13679 |
+| smartphone_overdependence | 2025 | 2025년 스마트폰 과의존 실태조사 보고서 | 2026.03.27 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=29171&parentSeq=29171 |
+| smartphone_overdependence | 2024 | 2024년 스마트폰 과의존 실태조사 보고서 | 2025.03.27 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=27831&parentSeq=27831 |
+| smartphone_overdependence | 2023 | 2023년 스마트폰 과의존 실태조사 보고서 | 2024.03.28 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=26508&parentSeq=26508 |
+| smartphone_overdependence | 2022 | 2022년 스마트폰 과의존 실태조사 보고서 | 2023.03.23 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=25356&parentSeq=25356 |
+| smartphone_overdependence | 2021 | 2021년 스마트폰 과의존 실태조사 보고서 | 2022.03.24 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=24288&parentSeq=24288 |
+| smartphone_overdependence | 2020 | 2020년 스마트폰 과의존 실태조사 보고서 | 2021.03.10 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=23109&parentSeq=23109 |
+| smartphone_overdependence | 2019 | 2019년 스마트폰 과의존 실태조사 보고서 | 2020.03.30 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=21939&parentSeq=21939 |
+| smartphone_overdependence | 2018 | 2018년 스마트폰 과의존 실태조사 보고서 | 2019.03.28 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=20876&parentSeq=20876 |
+| smartphone_overdependence | 2017 | 2017년 스마트폰 과의존 실태조사 | 2018.04.02 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=19592&parentSeq=19592 |
+| smartphone_overdependence | 2016 | 2016년 인터넷 과의존 실태조사 | 2017.03.27 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=18390&parentSeq=18390 |
+| cyber_violence | 2025 | 2025년 사이버폭력 실태조사 | 2026.03.30 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=68302&bcIdx=29190&parentSeq=29190 |
+| cyber_violence | 2024 | 2024년 사이버폭력 실태조사 | 2025.03.28 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=68302&bcIdx=27840&parentSeq=27840 |
+| cyber_violence | 2023 | 2023년 사이버폭력 실태조사 | 2024.03.26 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=68302&bcIdx=26483&parentSeq=26483 |
+| cyber_violence | 2022 | 2022년 사이버폭력 실태조사 보고서 | 2023.03.23 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=68302&bcIdx=25350&parentSeq=25350 |
+| cyber_violence | 2021 | 2021년 사이버폭력 실태조사 보고서 | 2022.04.07 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=68302&bcIdx=24353&parentSeq=24353 |
+| cyber_violence | 2020 | 2020년 사이버폭력 실태조사 보고서 | 2021.03.24 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=68302&bcIdx=23180&parentSeq=23180 |
+| cyber_violence | 2019 | 2019 사이버폭력 실태조사 보고서 | 2020.03.09 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=68302&bcIdx=21848&parentSeq=21848 |
+| cyber_violence | 2015 | 2015년 사이버폭력 실태조사 결과보고서 | 2016.05.04 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=68302&bcIdx=16858&parentSeq=16858 |
+| cyber_violence | 2014 | 2014년 정보문화실태조사 | 2015.10.02 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=68302&bcIdx=15869&parentSeq=15869 |
+| cyber_violence | 2013 | 2013년 정보문화실태조사 | 2014.08.12 | https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=68302&bcIdx=13679&parentSeq=13679 |
 
 ## 다운로드된 파일
 
