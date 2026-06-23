@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="40" y="36" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', Arial, sans-serif" font-size="23" font-weight="700" fill="#111827">2025년 일반국민 대비 AI 경험률 격차</text>
+<text x="40" y="58" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', Arial, sans-serif" font-size="13" fill="#4b5563">NIA 디지털정보격차실태조사, 단위: %p</text>
+<line x1="580" y1="54" x2="580" y2="410" stroke="#9ca3af"/>
+<text x="580" y="434" text-anchor="middle" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', Arial, sans-serif" font-size="12" fill="#6b7280">일반국민 기준선</text>
+<text x="162" y="95" text-anchor="end" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', Arial, sans-serif" font-size="15" fill="#111827">고령층</text>
+<rect x="258.8" y="72" width="321.2" height="34" rx="3" fill="#dc2626"/>
+<text x="250.8" y="94" text-anchor="end" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', Arial, sans-serif" font-size="14" font-weight="700" fill="#dc2626">-29.2</text>
+<text x="162" y="147" text-anchor="end" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', Arial, sans-serif" font-size="15" fill="#111827">농어민</text>
+<rect x="268.7" y="124" width="311.3" height="34" rx="3" fill="#dc2626"/>
+<text x="260.7" y="146" text-anchor="end" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', Arial, sans-serif" font-size="14" font-weight="700" fill="#dc2626">-28.3</text>
+<text x="162" y="199" text-anchor="end" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', Arial, sans-serif" font-size="15" fill="#111827">장애인</text>
+<rect x="318.2" y="176" width="261.8" height="34" rx="3" fill="#dc2626"/>
+<text x="310.2" y="198" text-anchor="end" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', Arial, sans-serif" font-size="14" font-weight="700" fill="#dc2626">-23.8</text>
+<text x="162" y="251" text-anchor="end" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', Arial, sans-serif" font-size="15" fill="#111827">저소득층</text>
+<rect x="330.3" y="228" width="249.7" height="34" rx="3" fill="#dc2626"/>
+<text x="322.3" y="250" text-anchor="end" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', Arial, sans-serif" font-size="14" font-weight="700" fill="#dc2626">-22.7</text>
+<text x="162" y="303" text-anchor="end" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', Arial, sans-serif" font-size="15" fill="#111827">북한이탈주민</text>
+<rect x="580.0" y="280" width="12.1" height="34" rx="3" fill="#0891b2"/>
+<text x="600.1" y="302" text-anchor="start" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', Arial, sans-serif" font-size="14" font-weight="700" fill="#0891b2">+1.1</text>
+<text x="162" y="355" text-anchor="end" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', Arial, sans-serif" font-size="15" fill="#111827">결혼이민자</text>
+<rect x="580.0" y="332" width="62.7" height="34" rx="3" fill="#0891b2"/>
+<text x="650.7" y="354" text-anchor="start" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', Arial, sans-serif" font-size="14" font-weight="700" fill="#0891b2">+5.7</text>
+</svg>
