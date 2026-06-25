@@ -56,30 +56,71 @@ def code_from_source(source: str, func_name: str, filename: str) -> types.CodeTy
 
 def replacement_input_text_mixed_code() -> types.CodeType:
     source = r'''
+
 def input_text_mixed(driver, text, use_clipboard_probability=1.0):
     if text is None:
         return True
     content = str(text)
     if not content:
         return True
-    for selector in (
-        ".se-main-container [contenteditable='true']",
-        ".se-component-content [contenteditable='true']",
-        ".se-section-text [contenteditable='true']",
-        "div[contenteditable='true']",
-        ".se-text-paragraph",
-    ):
+
+    def focus_body_editor():
         try:
-            for element in driver.find_elements(By.CSS_SELECTOR, selector):
-                if element.is_displayed():
-                    driver.execute_script("arguments[0].scrollIntoView({block:'center'});", element)
-                    element.click()
-                    time.sleep(0.03)
-                    raise StopIteration
-        except StopIteration:
-            break
+            return bool(driver.execute_script("""
+const selectors = [
+  ".se-main-container .se-section-text [contenteditable='true']",
+  ".se-main-container .se-section-text .se-text-paragraph",
+  ".se-main-container .se-module-text [contenteditable='true']",
+  ".se-main-container .se-component-content [contenteditable='true']",
+  ".se-main-container .se-text-paragraph",
+  ".se-main-container div[contenteditable='true']",
+  "div[contenteditable='true']"
+];
+function isTitleArea(el) {
+  if (!el || !el.closest) return false;
+  return !!el.closest(".se-section-documentTitle, .se-documentTitle, .se-title-text, .se-title, [class*='documentTitle'], [class*='DocumentTitle'], [class*='document-title'], [class*='Document-title']");
+}
+function editableTarget(el) {
+  if (!el) return null;
+  if (el.isContentEditable || el.getAttribute("contenteditable") === "true") return el;
+  return el.closest ? el.closest("[contenteditable='true']") : null;
+}
+function usable(el) {
+  const target = editableTarget(el);
+  if (!target || isTitleArea(target) || isTitleArea(el)) return false;
+  const rect = target.getBoundingClientRect();
+  return rect.width > 0 && rect.height > 0;
+}
+function placeCaretAtEnd(el) {
+  const target = editableTarget(el);
+  if (!target) return false;
+  target.scrollIntoView({block: "center"});
+  target.focus();
+  const range = document.createRange();
+  range.selectNodeContents(target);
+  range.collapse(false);
+  const sel = window.getSelection();
+  sel.removeAllRanges();
+  sel.addRange(range);
+  return true;
+}
+if (usable(document.activeElement)) {
+  return placeCaretAtEnd(document.activeElement);
+}
+for (const selector of selectors) {
+  for (const el of document.querySelectorAll(selector)) {
+    if (usable(el)) return placeCaretAtEnd(el);
+  }
+}
+return false;
+"""))
         except Exception:
-            pass
+            return False
+
+    if not focus_body_editor():
+        print("    - ??: ?? ?? ?? ?? ?? ?? ? ????? ??????.")
+        return False
+
     pyperclip.copy(content)
     actions = ActionChains(driver)
     actions.key_down(Keys.CONTROL).send_keys("v").key_up(Keys.CONTROL).perform()
@@ -91,6 +132,7 @@ def input_text_mixed(driver, text, use_clipboard_probability=1.0):
 
 def replacement_write_text_code() -> types.CodeType:
     source = r'''
+
 def write_text(driver, text):
     if text is None:
         return None
@@ -101,46 +143,69 @@ def write_text(driver, text):
     import html
 
     def focus_editor():
-        selectors = (
-            ".se-main-container [contenteditable='true']",
-            ".se-component-content [contenteditable='true']",
-            ".se-section-text [contenteditable='true']",
-            "div[contenteditable='true']",
-            ".se-text-paragraph",
-        )
-        for selector in selectors:
-            try:
-                for element in driver.find_elements(By.CSS_SELECTOR, selector):
-                    if element.is_displayed():
-                        driver.execute_script("arguments[0].scrollIntoView({block:'center'});", element)
-                        element.click()
-                        time.sleep(0.04)
-                        return True
-            except Exception:
-                pass
         try:
-            driver.execute_script("""
-const candidates = document.querySelectorAll(
-  ".se-main-container [contenteditable='true'], .se-component-content [contenteditable='true'], .se-section-text [contenteditable='true'], div[contenteditable='true'], .se-text-paragraph"
-);
-for (const el of candidates) {
-  const rect = el.getBoundingClientRect();
-  if (rect.width > 0 && rect.height > 0) {
-    el.scrollIntoView({block: "center"});
-    el.focus();
-    return true;
+            return bool(driver.execute_script("""
+const selectors = [
+  ".se-main-container .se-section-text [contenteditable='true']",
+  ".se-main-container .se-section-text .se-text-paragraph",
+  ".se-main-container .se-module-text [contenteditable='true']",
+  ".se-main-container .se-component-content [contenteditable='true']",
+  ".se-main-container .se-text-paragraph",
+  ".se-main-container div[contenteditable='true']",
+  "div[contenteditable='true']"
+];
+function isTitleArea(el) {
+  if (!el || !el.closest) return false;
+  return !!el.closest(".se-section-documentTitle, .se-documentTitle, .se-title-text, .se-title, [class*='documentTitle'], [class*='DocumentTitle'], [class*='document-title'], [class*='Document-title']");
+}
+function editableTarget(el) {
+  if (!el) return null;
+  if (el.isContentEditable || el.getAttribute("contenteditable") === "true") return el;
+  return el.closest ? el.closest("[contenteditable='true']") : null;
+}
+function usable(el) {
+  const target = editableTarget(el);
+  if (!target || isTitleArea(target) || isTitleArea(el)) return false;
+  const rect = target.getBoundingClientRect();
+  return rect.width > 0 && rect.height > 0;
+}
+function placeCaretAtEnd(el) {
+  const target = editableTarget(el);
+  if (!target) return false;
+  target.scrollIntoView({block: "center"});
+  target.focus();
+  const range = document.createRange();
+  range.selectNodeContents(target);
+  range.collapse(false);
+  const sel = window.getSelection();
+  sel.removeAllRanges();
+  sel.addRange(range);
+  return true;
+}
+if (usable(document.activeElement)) {
+  return placeCaretAtEnd(document.activeElement);
+}
+for (const selector of selectors) {
+  for (const el of document.querySelectorAll(selector)) {
+    if (usable(el)) return placeCaretAtEnd(el);
   }
 }
 return false;
-""")
-            time.sleep(0.04)
-            return True
+"""))
         except Exception:
             return False
 
     def editor_text_length():
         try:
             value = driver.execute_script("""
+function isTitleArea(el) {
+  if (!el || !el.closest) return false;
+  return !!el.closest(".se-section-documentTitle, .se-documentTitle, .se-title-text, .se-title, [class*='documentTitle'], [class*='DocumentTitle'], [class*='document-title'], [class*='Document-title']");
+}
+const roots = Array.from(document.querySelectorAll(
+  ".se-main-container .se-section-text, .se-main-container .se-module-text, .se-main-container .se-component-content"
+)).filter(el => !isTitleArea(el));
+if (roots.length) return roots.map(el => el.innerText || "").join("\n").length;
 const root = document.querySelector(".se-main-container") || document.body;
 return root && root.innerText ? root.innerText.length : 0;
 """)
@@ -149,31 +214,52 @@ return root && root.innerText ? root.innerText.length : 0;
             return 0
 
     def insert_html(markup):
-        focus_editor()
         before_len = editor_text_length()
         ok = driver.execute_script("""
 const markup = arguments[0];
-function isEditable(el) {
-  return !!el && (el.isContentEditable || el.getAttribute("contenteditable") === "true");
+const selectors = [
+  ".se-main-container .se-section-text [contenteditable='true']",
+  ".se-main-container .se-section-text .se-text-paragraph",
+  ".se-main-container .se-module-text [contenteditable='true']",
+  ".se-main-container .se-component-content [contenteditable='true']",
+  ".se-main-container .se-text-paragraph",
+  ".se-main-container div[contenteditable='true']",
+  "div[contenteditable='true']"
+];
+function isTitleArea(el) {
+  if (!el || !el.closest) return false;
+  return !!el.closest(".se-section-documentTitle, .se-documentTitle, .se-title-text, .se-title, [class*='documentTitle'], [class*='DocumentTitle'], [class*='document-title'], [class*='Document-title']");
 }
-let active = document.activeElement;
-if (!isEditable(active)) {
-  const candidates = document.querySelectorAll(
-    ".se-main-container [contenteditable='true'], .se-component-content [contenteditable='true'], .se-section-text [contenteditable='true'], div[contenteditable='true'], .se-text-paragraph"
-  );
-  for (const el of candidates) {
-    const rect = el.getBoundingClientRect();
-    if (rect.width > 0 && rect.height > 0) {
-      el.scrollIntoView({block: "center"});
-      el.focus();
-      active = el;
-      break;
+function editableTarget(el) {
+  if (!el) return null;
+  if (el.isContentEditable || el.getAttribute("contenteditable") === "true") return el;
+  return el.closest ? el.closest("[contenteditable='true']") : null;
+}
+function usable(el) {
+  const target = editableTarget(el);
+  if (!target || isTitleArea(target) || isTitleArea(el)) return false;
+  const rect = target.getBoundingClientRect();
+  return rect.width > 0 && rect.height > 0;
+}
+function focusBody() {
+  if (usable(document.activeElement)) return editableTarget(document.activeElement);
+  for (const selector of selectors) {
+    for (const el of document.querySelectorAll(selector)) {
+      if (usable(el)) return editableTarget(el);
     }
   }
+  return null;
 }
-if (!isEditable(active)) {
-  return false;
-}
+const active = focusBody();
+if (!active) return false;
+active.scrollIntoView({block: "center"});
+active.focus();
+const range = document.createRange();
+range.selectNodeContents(active);
+range.collapse(false);
+const sel = window.getSelection();
+sel.removeAllRanges();
+sel.addRange(range);
 try {
   return document.execCommand("insertHTML", false, markup);
 } catch (error) {
@@ -214,11 +300,9 @@ try {
         raw = raw.replace("\u200b", "")
         raw = re.sub(r"[ \t]+", " ", raw)
         raw = re.sub(r"\s*---\s*(?=#)", "\n\n", raw)
-        raw = re.sub(r"(첫째|둘째|셋째|넷째|다섯째|여섯째|마지막|결론적으로),\s*", r"\n\n\1, ", raw)
-        raw = re.sub(r"([.!?。！？])\s+", r"\1\n\n", raw)
-        raw = re.sub(r"([.!?。！？])(?=[\"'”’)\]]?[가-힣A-Za-z0-9#])", r"\1\n\n", raw)
-        raw = re.sub(r"(습니다|합니다|됩니다|입니다|했어요|해요|돼요|세요|죠|요)(?=[가-힣A-Za-z])", r"\1\n\n", raw)
-        raw = re.sub(r"(?<!^)(?<!\n)(#[0-9A-Za-z가-힣_]+)", r"\n\n\1", raw)
+        raw = re.sub(r"([.!????])\s+", r"\1\n\n", raw)
+        raw = re.sub(r"([.!????])(?=[\"')\]]?[\uac00-\ud7a3A-Za-z0-9#])", r"\1\n\n", raw)
+        raw = re.sub(r"(?<!^)(?<!\n)(#[0-9A-Za-z_\uac00-\ud7a3]+)", r"\n\n\1", raw)
         return raw
 
     def split_blocks(raw, max_chars=92):
@@ -242,11 +326,11 @@ try {
 
     def is_heading(raw):
         stripped = str(raw).strip()
-        if stripped.startswith("#") and not stripped.startswith("##태그"):
+        if stripped.startswith("#") and not stripped.startswith("## ??"):
             return True
-        if re.match(r"^(첫째|둘째|셋째|넷째|다섯째|여섯째|마지막|결론적으로),", stripped):
+        if re.match(r"^(??|??|??|??|???|?????|????|????)[,.:]?", stripped):
             return True
-        return len(stripped) <= 34 and not re.search(r"[.!?。！？]$", stripped) and not stripped.startswith("#")
+        return len(stripped) <= 34 and not re.search(r"[.!????]$", stripped) and not stripped.startswith("#")
 
     if not raw_text.strip():
         try:
@@ -278,6 +362,7 @@ try {
 
 def replacement_write_quote_code() -> types.CodeType:
     source = r'''
+
 def write_quote(driver, quote_text):
     heading = str(quote_text or "").strip()
     if not heading:
@@ -285,28 +370,17 @@ def write_quote(driver, quote_text):
 
     import html
 
-    def focus_editor():
-        for selector in (
-            ".se-main-container [contenteditable='true']",
-            ".se-component-content [contenteditable='true']",
-            ".se-section-text [contenteditable='true']",
-            "div[contenteditable='true']",
-            ".se-text-paragraph",
-        ):
-            try:
-                for element in driver.find_elements(By.CSS_SELECTOR, selector):
-                    if element.is_displayed():
-                        driver.execute_script("arguments[0].scrollIntoView({block:'center'});", element)
-                        element.click()
-                        time.sleep(0.04)
-                        return True
-            except Exception:
-                pass
-        return False
-
     def editor_text_length():
         try:
             value = driver.execute_script("""
+function isTitleArea(el) {
+  if (!el || !el.closest) return false;
+  return !!el.closest(".se-section-documentTitle, .se-documentTitle, .se-title-text, .se-title, [class*='documentTitle'], [class*='DocumentTitle'], [class*='document-title'], [class*='Document-title']");
+}
+const roots = Array.from(document.querySelectorAll(
+  ".se-main-container .se-section-text, .se-main-container .se-module-text, .se-main-container .se-component-content"
+)).filter(el => !isTitleArea(el));
+if (roots.length) return roots.map(el => el.innerText || "").join("\n").length;
 const root = document.querySelector(".se-main-container") || document.body;
 return root && root.innerText ? root.innerText.length : 0;
 """)
@@ -315,21 +389,58 @@ return root && root.innerText ? root.innerText.length : 0;
             return 0
 
     try:
-        html_text = (
-            heading.replace("&", "&amp;")
-            .replace("<", "&lt;")
-            .replace(">", "&gt;")
-            .replace('"', "&quot;")
-        )
-        focus_editor()
+        html_text = html.escape(heading, quote=False)
         before_len = editor_text_length()
         script = """
 const text = arguments[0];
+const selectors = [
+  ".se-main-container .se-section-text [contenteditable='true']",
+  ".se-main-container .se-section-text .se-text-paragraph",
+  ".se-main-container .se-module-text [contenteditable='true']",
+  ".se-main-container .se-component-content [contenteditable='true']",
+  ".se-main-container .se-text-paragraph",
+  ".se-main-container div[contenteditable='true']",
+  "div[contenteditable='true']"
+];
+function isTitleArea(el) {
+  if (!el || !el.closest) return false;
+  return !!el.closest(".se-section-documentTitle, .se-documentTitle, .se-title-text, .se-title, [class*='documentTitle'], [class*='DocumentTitle'], [class*='document-title'], [class*='Document-title']");
+}
+function editableTarget(el) {
+  if (!el) return null;
+  if (el.isContentEditable || el.getAttribute("contenteditable") === "true") return el;
+  return el.closest ? el.closest("[contenteditable='true']") : null;
+}
+function usable(el) {
+  const target = editableTarget(el);
+  if (!target || isTitleArea(target) || isTitleArea(el)) return false;
+  const rect = target.getBoundingClientRect();
+  return rect.width > 0 && rect.height > 0;
+}
+function focusBody() {
+  if (usable(document.activeElement)) return editableTarget(document.activeElement);
+  for (const selector of selectors) {
+    for (const el of document.querySelectorAll(selector)) {
+      if (usable(el)) return editableTarget(el);
+    }
+  }
+  return null;
+}
+const active = focusBody();
+if (!active) return false;
+active.scrollIntoView({block: "center"});
+active.focus();
+const range = document.createRange();
+range.selectNodeContents(active);
+range.collapse(false);
+const sel = window.getSelection();
+sel.removeAllRanges();
+sel.addRange(range);
 const p = document.createElement('p');
 const before = document.createElement('p');
 before.innerHTML = '<br>';
 const span = document.createElement('span');
-span.textContent = text;
+span.innerHTML = text;
 span.style.fontSize = '28px';
 span.style.fontWeight = '700';
 span.style.lineHeight = '1.55';
