@@ -326,11 +326,20 @@ try {
 
     def is_heading(raw):
         stripped = str(raw).strip()
-        if stripped.startswith("#") and not stripped.startswith("## ??"):
+        if not stripped:
+            return False
+        lower = stripped.lower()
+        if lower.startswith(("# tag", "## tag", "# tags", "## tags")):
+            return False
+        if stripped.startswith("#"):
+            hash_words = [part for part in stripped.replace(",", " ").split() if part.startswith("#")]
+            if len(hash_words) >= 3:
+                return False
             return True
-        if re.match(r"^(??|??|??|??|???|?????|????|????)[,.:]?", stripped):
+        sentence_endings = (".", "!", "?", "?", "?", "?")
+        if len(stripped) <= 34 and not stripped.endswith(sentence_endings) and "#" not in stripped:
             return True
-        return len(stripped) <= 34 and not re.search(r"[.!????]$", stripped) and not stripped.startswith("#")
+        return False
 
     if not raw_text.strip():
         try:
