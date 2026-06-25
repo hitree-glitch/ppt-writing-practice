@@ -99,6 +99,34 @@ def fetch_new_articles(sources: list[str], per_source_limit: int = 5, log=None) 
     return results
 
 
+def fetch_latest_articles(sources: list[str], per_source_limit: int = 3, log=None) -> list[tuple[FeedItem, Article]]:
+    """처리 이력과 관계없이 각 블로그의 최신 글을 지정 개수만큼 가져옵니다."""
+    results: list[tuple[FeedItem, Article]] = []
+    for source in sources:
+        clean_source = normalize_blog_source(source)
+        if not clean_source:
+            continue
+        try:
+            if log:
+                log(f"[구독] 최신 글 {per_source_limit}개 확인: {clean_source}")
+            items = fetch_rss_items(clean_source, limit=per_source_limit)
+        except Exception as exc:
+            if log:
+                log(f"[경고] 최신 글 목록 확인 실패: {clean_source} - {exc}")
+            continue
+
+        for item in items:
+            try:
+                if log:
+                    log(f"[구독] 최신 글 본문 수집: {item.title or item.post_url}")
+                article = fetch_article(item.post_url)
+                results.append((item, article))
+            except Exception as exc:
+                if log:
+                    log(f"[경고] 최신 글 본문 수집 실패: {item.post_url} - {exc}")
+    return results
+
+
 def run_monitor_loop(
     sources: list[str],
     interval_hours: float,
